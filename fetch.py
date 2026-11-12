@@ -31,6 +31,7 @@ def get(yf_sym, fdr_sym):
             errs.append(f"{name}: {e}")
     raise SystemExit(f"{yf_sym} failed: {errs}")
 
+import os; os.makedirs("data", exist_ok=True)
 for yf_sym, fdr_sym, out in (("^KS11", "KS11", "data/kospi_daily.csv"),
                              ("^KQ11", "KQ11", "data/kosdaq_daily.csv")):
     try:
