@@ -21,15 +21,25 @@ def via_fdr(sym):
     return df[["Open", "High", "Low", "Close", "Volume"]]
 
 def get(yf_sym, fdr_sym):
-    errs = []
+    """Fetch from both sources and fill gaps: yfinance first, FDR fills
+    missing or NaN closes (Yahoo sometimes leaves the latest day NaN)."""
+    frames, errs = [], []
     for name, f, s in (("yfinance", via_yf, yf_sym), ("fdr", via_fdr, fdr_sym)):
         try:
             df = f(s)
-            print(f"{yf_sym}: {name} ok, {len(df)} rows, last {df.index[-1].date()}")
-            return df
+            df.index = pd.to_datetime(df.index).tz_localize(None).normalize()
+            ok = df.dropna(subset=["Close"])
+            print(f"{yf_sym}: {name} ok, {len(ok)} rows with close, last {ok.index[-1].date()}")
+            frames.append(df)
         except Exception as e:
             errs.append(f"{name}: {e}")
-    raise SystemExit(f"{yf_sym} failed: {errs}")
+            print(f"{yf_sym}: {name} failed: {e}")
+    if not frames:
+        raise SystemExit(f"{yf_sym} failed: {errs}")
+    out = frames[0]
+    for df in frames[1:]:
+        out = out.combine_first(df)
+    return out
 
 import os; os.makedirs("data", exist_ok=True)
 for yf_sym, fdr_sym, out in (("^KS11", "KS11", "data/kospi_daily.csv"),
