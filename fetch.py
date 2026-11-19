@@ -51,6 +51,12 @@ for yf_sym, fdr_sym, out in (("^KS11", "KS11", "data/kospi_daily.csv"),
             raise
         print(e); continue
     df = df.dropna(subset=["Close"])
+    # Drop today's row while the market is still open (before 15:45 KST):
+    # GitHub often runs the schedule hours late, so a run can land intraday.
+    now = pd.Timestamp.now(tz="Asia/Seoul")
+    if len(df) and pd.Timestamp(df.index[-1]).date() == now.date() and (now.hour, now.minute) < (15, 45):
+        print(f"{out}: dropping intraday row {now.date()}")
+        df = df.iloc[:-1]
     df.index = pd.to_datetime(df.index).strftime("%Y-%m-%d")
     df.index.name = "date"
     df.round(2).to_csv(out)
