@@ -44,7 +44,7 @@ def parse(text, fam):
             if len(nums) >= 2:
                 got[key] = (nums[0], nums[1])
             break
-    if "pmi" not in got:
+    if "pmi" not in got and "busact" not in got:
         return None
     return ym, got
 
