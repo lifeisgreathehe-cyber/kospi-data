@@ -59,16 +59,32 @@ for path, rid in dict.fromkeys(links):
 MN = ["january","february","march","april","may","june","july","august","september","october","november","december"]
 import datetime as dt
 t = dt.date.today()
-for back in (1, 2):
-    m = (t.month - 1 - back) % 12
+for back in range(1, 13 if deep else 3):
+    y, m = (t.year, t.month - back) if t.month - back > 0 else (t.year - 1, t.month - back + 12)
     for sect in ("pmi", "services"):
-        src = f"ism_{sect}_{t.year if t.month - back > 0 else t.year - 1}_{m + 1:02d}"
+        src = f"ism_{sect}_{y}_{m:02d}"
         if src in have: continue
-        h = get(f"https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/{sect}/{MN[m]}/")
+        h = get(f"https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/{sect}/{MN[m - 1]}/")
         if not h: continue
         r = record(txt(h), src)
-        if r and r["ym"] == src[-7:].replace("_", "-"):
+        if r and r["ym"] == f"{y}-{m:02d}":
             recs.append(r); have.add(src); added += 1; print("added", src, r["got"].get("pmi"))
+        else:
+            print("no table", src, r and r["ym"])
+if deep:  # Wayback copies of ismworld pages for months the live site no longer shows
+    frm = (t.replace(day=1) - dt.timedelta(days=500)).strftime("%Y%m")
+    for sect in ("pmi", "services"):
+        h = get(f"http://web.archive.org/cdx/search/cdx?url=ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/{sect}/&matchType=prefix&output=json&from={frm}&filter=statuscode:200&fl=timestamp,original&collapse=timestamp:8")
+        try: snaps = json.loads(h)[1:] if h else []
+        except Exception: snaps = []
+        print("wayback", sect, len(snaps))
+        for ts, orig in snaps:
+            src = f"wb_{sect}_{ts}"
+            if src in have: continue
+            hh = get(f"http://web.archive.org/web/{ts}id_/{orig}")
+            r = record(txt(hh), src) if hh else None
+            if r: recs.append(r); have.add(src); added += 1
+            time.sleep(0.5)
 with open(REC, "w") as fh:
     for r in sorted(recs, key=lambda r: (r["ym"], r["src"])): fh.write(json.dumps(r, separators=(",", ":")) + "\n")
 write(build(recs), OUT)
