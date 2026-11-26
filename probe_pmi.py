@@ -1,19 +1,29 @@
-import json, requests
-import os; os.makedirs("data/pmi",exist_ok=True)
-H={"User-Agent":"Mozilla/5.0"}
+import os, json, requests, re
+os.makedirs("data/pmi",exist_ok=True)
+H={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 out={}
-r=requests.get("https://api.db.nomics.world/v22/datasets/ISM",params={"limit":100},timeout=60,headers=H)
-out["datasets_status"]=r.status_code
-ds=r.json().get("datasets",{}).get("docs",[]) if r.ok else []
-out["datasets"]=[]
-for d in ds:
-    code=d["code"]
-    s=requests.get(f"https://api.db.nomics.world/v22/series/ISM/{code}",params={"observations":1,"limit":50},timeout=60,headers=H)
-    docs=s.json().get("series",{}).get("docs",[]) if s.ok else []
-    out["datasets"].append({"code":code,"name":d.get("name"),"series":[{"code":x["series_code"],"name":x.get("series_name"),"first":(x.get("period") or [None])[0],"last":(x.get("period") or [None])[-1],"n":len(x.get("period") or [])} for x in docs]})
-for u in ["https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/","https://www.prnewswire.com/news/institute-for-supply-management/","https://fred.stlouisfed.org/graph/fredgraph.csv?id=NAPM","https://tradingeconomics.com/united-states/business-confidence"]:
+def g(u,**k):
     try:
-        q=requests.get(u,timeout=30,headers=H); out[u]=[q.status_code,len(q.text)]
-    except Exception as e: out[u]=str(e)
+        r=requests.get(u,timeout=90,headers=H,**k); return r
+    except Exception as e: return str(e)
+# ALFRED vintage of discontinued NAPM series
+for sid in ["NAPM","NAPMNOI","NMFCI"]:
+    r=g(f"https://alfred.stlouisfed.org/graph/alfredgraph.csv?id={sid}&vintage_date=2016-06-01")
+    out["alfred_"+sid]=r if isinstance(r,str) else [r.status_code,r.text[:200],r.text[-200:]]
+for u in ["instituteforsupplymanagement.org/ISMReport/MfgROB.cfm","instituteforsupplymanagement.org/ISMReport/NonMfgROB.cfm","ism.ws/ISMReport/MfgROB.cfm","ism.ws/ISMReport/NonMfgROB.cfm","ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/*","ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/*"]:
+    r=g("http://web.archive.org/cdx/search/cdx",params={"url":u,"output":"json","collapse":"timestamp:6","filter":"statuscode:200","fl":"timestamp,original"})
+    if isinstance(r,str): out["cdx "+u]=r; continue
+    try:
+        rows=r.json()[1:]; out["cdx "+u]=[len(rows),rows[:2],rows[-2:]]
+    except Exception as e: out["cdx "+u]=[r.status_code,r.text[:200]]
+for p in [1,20,60]:
+    r=g(f"https://www.prnewswire.com/news/institute-for-supply-management/?page={p}&pagesize=100")
+    if isinstance(r,str): out[f"prn{p}"]=r; continue
+    links=re.findall(r'href="(/news-releases/[^"]+\.html)"',r.text)
+    dates=re.findall(r'(\w{3} \d{1,2}, \d{4})',r.text)
+    out[f"prn{p}"]=[r.status_code,len(links),links[:2],dates[:1],dates[-1:]]
+r=g("https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/october/")
+out["ism_oct"]=r if isinstance(r,str) else [r.status_code,len(r.text)]
+if not isinstance(r,str): open("data/pmi/ism_oct.html","w").write(r.text)
 json.dump(out,open("data/pmi/probe.json","w"),ensure_ascii=False,indent=1)
-print(json.dumps(out,ensure_ascii=False)[:3000])
+print(json.dumps(out,ensure_ascii=False)[:4000])
