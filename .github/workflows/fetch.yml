@@ -16,6 +16,9 @@ jobs:
           python-version: "3.12"
       - run: pip install -q yfinance finance-datareader pandas
       - run: python fetch.py
+      - name: commodities and FX
+        run: python fetch_macro.py
+        continue-on-error: true
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898242+github-actions[bot]@users.noreply.github.com"

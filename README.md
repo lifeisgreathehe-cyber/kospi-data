@@ -4,6 +4,13 @@
 - `data/kosdaq_daily.csv`
 수동 실행: Actions 탭 → fetch-kospi → Run workflow.
 
+## 원자재·환율 (`fetch_macro.py`)
+같은 워크플로가 `data/macro_daily.csv`도 갱신합니다 (2005년~, 일간 종가).
+- 원자재: wti, brent (USD/배럴), natgas (USD/MMBtu), gold, silver (USD/온스), copper (USD/파운드), aluminum (USD/톤)
+- 환율: usdkrw, eurkrw, cnykrw, jpykrw100 (원/100엔), usdjpy
+- 출처: Yahoo Finance 근월물 선물·환율 종가. FRED 일간 계열은 닿을 때만 빈 날을 채움(GitHub 러너에선 자주 시간 초과). 원화 교차환율은 USD/KRW와 EUR/USD·USD/CNY·USD/JPY로 계산.
+- 알루미늄은 COMEX 선물이 거의 거래되지 않던 2020년 이전을 IMF 월평균(DBnomics)으로 채움. 하루만 튀었다 돌아오는 잘못된 시세는 걸러 냄.
+
 ## 나스닥100 CTA 포지셔닝 추정 (fetch-cta-ndx, 평일 07:30 KST)
 골드만 'CTA Positioning in NDX Index'는 비공개라 공개 데이터로 만든 대체 지표입니다.
 - `data/ndx_daily.csv`: ^NDX 종가
