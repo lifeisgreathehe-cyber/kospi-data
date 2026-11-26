@@ -6,9 +6,12 @@ public proxy from two free sources:
   2. data/cftc_ndx.csv   : CFTC Traders in Financial Futures, E-mini Nasdaq-100
                            (weekly, leveraged funds / asset managers net)
 and computes data/cta_ndx.csv, a trend-following model position:
-  for lookbacks 1M/3M/6M/12M, trend z = log return / (63d daily vol * sqrt(L)),
-  signal = clip(z, -1, 1); raw = mean of the 4 signals (-1..+1);
-  position = raw * min(target_vol / realized_vol, cap)  (vol-targeted, like CTAs).
+  for lookbacks 1M/3M/6M (21/63/126 days), trend z = log return / (63d daily vol
+  * sqrt(L)), signal = clip(z/0.5, -1, 1); raw = mean of the 3 signals (-1..+1);
+  position = raw * min(15% / 126d realized vol, 3)  (vol-targeted, like CTAs).
+  est_bn = 8.44 * position + 1.53 maps the model onto the scale of Goldman's chart
+  (least-squares fit to 27 points read off that chart, 2017-2026, r = 0.96).
+  flip_1m/3m/6m: NDX level at which each lookback's signal turns (price L days ago).
 """
 import os, json, urllib.request, urllib.parse
 import numpy as np, pandas as pd
@@ -67,20 +70,43 @@ def cftc():
     return df
 
 
-def cta_model(px, lookbacks=(21, 63, 126, 252), target=0.15, cap=2.0):
+A, B = 8.44, 1.53  # calibration to Goldman chart units
+
+
+def cta_model(px, lookbacks=(21, 63, 126), zcap=0.5, target=0.15, cap=3.0):
     r = np.log(px).diff()
     vol_d = r.rolling(63).std()
     sig = []
     for L in lookbacks:
         z = np.log(px / px.shift(L)) / (vol_d * np.sqrt(L))
-        sig.append(z.clip(-1, 1))
+        sig.append((z / zcap).clip(-1, 1))
     raw = pd.concat(sig, axis=1).mean(axis=1)
-    vol_a = r.rolling(21).std() * np.sqrt(252)
-    lev = (target / vol_a).clip(upper=cap)
-    pos = raw * lev
+    vol_a = r.rolling(126).std() * np.sqrt(252)
+    pos = raw * (target / vol_a).clip(upper=cap)
     out = pd.DataFrame({"close": px, "s1m": sig[0], "s3m": sig[1], "s6m": sig[2],
-                        "s12m": sig[3], "raw": raw, "vol21": vol_a, "position": pos})
+                        "raw": raw, "vol126": vol_a, "position": pos,
+                        "est_bn": A * pos + B,
+                        "flip_1m": px.shift(21), "flip_3m": px.shift(63),
+                        "flip_6m": px.shift(126)})
     return out.dropna()
+
+
+def cftc_ndx(raw, px):
+    """Consolidated Nasdaq-100 (E-mini equivalents, $20 x index)."""
+    c = raw[raw["cftc_contract_market_code"].astype(str) == "20974+"].copy()
+    c["date"] = pd.to_datetime(c["report_date_as_yyyy_mm_dd"]).dt.normalize()
+    num = lambda k: pd.to_numeric(c[k], errors="coerce")
+    c["oi"] = num("open_interest_all")
+    c["lev_net"] = num("lev_money_positions_long") - num("lev_money_positions_short")
+    c["am_net"] = num("asset_mgr_positions_long") - num("asset_mgr_positions_short")
+    c = c.sort_values("date").drop_duplicates("date", keep="last").set_index("date")
+    p = px.reindex(c.index, method="ffill")
+    c["lev_net_bn"] = (c["lev_net"] * 20 * p / 1e9).round(2)
+    c["am_net_bn"] = (c["am_net"] * 20 * p / 1e9).round(2)
+    c["lev_net_pct_oi"] = (100 * c["lev_net"] / c["oi"]).round(1)
+    out = c[["oi", "lev_net", "am_net", "lev_net_bn", "am_net_bn", "lev_net_pct_oi"]]
+    out.index = out.index.strftime("%Y-%m-%d")
+    return out
 
 
 px = ndx_close()
@@ -94,7 +120,8 @@ m.to_csv("data/cta_ndx.csv")
 print("CTA last", m.tail(3).to_string())
 
 try:
-    c = cftc()
-    c.to_csv("data/cftc_nasdaq_raw.csv", index=False)
+    c = cftc_ndx(cftc(), px)
+    c.to_csv("data/cftc_ndx.csv")
+    print("CFTC last", c.tail(3).to_string())
 except Exception as e:
     print("CFTC failed (keeping previous file):", e)
