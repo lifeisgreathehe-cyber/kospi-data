@@ -24,6 +24,7 @@ def get(url):
         try:
             r = requests.get(url, headers=UA, timeout=30)
             if r.status_code == 200:
+                r.encoding = "utf-8"
                 return r.text
             print("HTTP", r.status_code, url)
         except Exception as e:
