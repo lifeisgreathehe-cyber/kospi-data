@@ -22,7 +22,7 @@ def parse(text, fam):
     if not hm:
         return None
     ym = (int(hm.group(2)), MONTHS[hm.group(1).lower()])
-    cells = [re.sub(r"\s*/\s*", "/", re.sub(r"\s+", " ", c.replace("\u00ae", "").replace("\u2122", ""))).strip() for c in seg[hm.end():].split("|")]
+    cells = [re.sub(r"\s*/\s*", "/", re.sub(r"\s+", " ", c.replace("\u00c2", "").replace("\u00ae", "").replace("\u2122", ""))).strip() for c in seg[hm.end():].split("|")]
     cells = [c for c in cells if c]
     rows = MFG if fam == "mfg" else SVC
     got = {}
@@ -54,7 +54,7 @@ def family(text):
     i = text.upper().find("AT A GLANCE")
     if i < 0:
         return None
-    h = text[max(0, i - 120):i + 200].upper()
+    h = text[max(0, i - 60):i + 160].upper()
     return "svc" if ("NON-MANUFACTURING" in h or "SERVICES" in h) else "mfg"
 
 def last12(text):
@@ -65,5 +65,6 @@ def last12(text):
     seg = text[i:i + 1500]
     out = {}
     for mo, y, v in re.findall(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? (\d{4})\W{1,12}(\d{2}\.\d)\b", seg):
-        out[(int(y), ABBR[mo.lower()])] = float(v)
+        if 25 <= float(v) <= 80:
+            out[(int(y), ABBR[mo.lower()])] = float(v)
     return out

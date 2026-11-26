@@ -15,7 +15,9 @@ def get(u):
     for i in range(3):
         try:
             r = S.get(u, timeout=60)
-            if r.status_code == 200: return r.text
+            if r.status_code == 200:
+                r.encoding = "utf-8"
+                return r.text
             print(u, r.status_code)
             if r.status_code in (403, 404): return None
         except Exception as e:
