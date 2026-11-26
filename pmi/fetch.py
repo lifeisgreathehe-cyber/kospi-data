@@ -12,17 +12,17 @@ H = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, l
 S = requests.Session(); S.headers.update(H)
 
 def get(u):
-    for i in range(3):
+    for i in range(4):
         try:
             r = S.get(u, timeout=60)
             if r.status_code == 200:
                 r.encoding = "utf-8"
                 return r.text
             print(u, r.status_code)
-            if r.status_code in (403, 404): return None
+            if r.status_code == 404: return None
         except Exception as e:
             print(u, e)
-        time.sleep(5 * (i + 1))
+        time.sleep(15 * (i + 1))
     return None
 
 def txt(html):
