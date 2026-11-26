@@ -1,11 +1,12 @@
 """Fetch ~20 years of daily commodity prices and FX rates into data/macro_daily.csv.
 
 Sources: Yahoo Finance (yfinance) first; FRED daily series fill gaps
-(and supply history where Yahoo is short). Crosses vs KRW are computed
+(when reachable); IMF monthly averages via DBnomics cover
+aluminum before COMEX futures became liquid. Crosses vs KRW are computed
 from USD legs (USD/KRW x EUR/USD etc.), which is cleaner than Yahoo's
 direct cross tickers.
 """
-import io, os, sys, urllib.request
+import io, json, os, sys, urllib.request
 import pandas as pd
 
 START = "2005-01-01"
@@ -26,8 +27,9 @@ LEGS = {  # USD legs used to build the FX table
     "usdcny": ("CNY=X", "DEXCHUS"),        # CNY per USD
     "usdjpy": ("JPY=X", "DEXJPUS"),        # JPY per USD
 }
-# FRED monthly fallbacks for metals with no free daily history (IMF prices)
-MONTHLY = {"aluminum": "PALUMUSDM", "copper": "PCOPPUSDM"}
+# Metals whose free daily futures history is short or stale (COMEX ALI=F
+# barely traded before 2020): IMF monthly averages (LME) are used before CUTOVER.
+MONTHLY = {"aluminum": ("PALUM", "2020-01-01")}
 
 
 def yahoo(sym):
@@ -42,10 +44,20 @@ def yahoo(sym):
     return s[s > 0].dropna()
 
 
+FRED_OK = [True]
+
+
 def fred(series):
+    """FRED often times out from GitHub runners: give up after the first failure."""
+    if not FRED_OK[0]:
+        raise RuntimeError("skipped (FRED unreachable earlier)")
     url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}&cosd={START}"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    txt = urllib.request.urlopen(req, timeout=60).read().decode()
+    try:
+        txt = urllib.request.urlopen(req, timeout=15).read().decode()
+    except Exception:
+        FRED_OK[0] = False
+        raise
     df = pd.read_csv(io.StringIO(txt))
     df.columns = ["date", "v"]
     s = pd.to_numeric(df["v"], errors="coerce")
@@ -53,16 +65,31 @@ def fred(series):
     return s[s > 0].dropna()
 
 
-def despike(s, tol=0.12):
-    """Drop isolated bad ticks: points far from both the rolling median."""
-    med = s.rolling(11, center=True, min_periods=3).median()
-    bad = (s / med - 1).abs() > tol
-    if bad.any():
-        print(f"  despike: dropped {int(bad.sum())} points")
-    return s[~bad]
+def imf_monthly(code):
+    """IMF primary commodity prices (monthly average, USD) via DBnomics."""
+    url = f"https://api.db.nomics.world/v22/series/IMF/PCPS/M.W00.{code}.USD?observations=1&format=json"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    doc = json.loads(urllib.request.urlopen(req, timeout=30).read().decode())["series"]["docs"][0]
+    s = pd.Series(pd.to_numeric(doc["value"], errors="coerce"), index=pd.to_datetime(doc["period"]))
+    return s[s > 0].dropna()
 
 
-def get(name, ysym, fsym, tol=0.12):
+def despike(s, tol):
+    """Drop one-day bad ticks: a point that jumps away from both neighbours
+    (same direction, more than tol) while the neighbours agree with each other."""
+    s = s.copy()
+    for _ in range(2):
+        a, b = s.shift(1), s.shift(-1)
+        r1, r2, nb = s / a - 1, s / b - 1, (a / b - 1).abs()
+        bad = (r1 * r2 > 0) & (r1.abs() > tol) & (r2.abs() > tol) & (nb < tol / 2)
+        if not bad.any():
+            break
+        print(f"  despike: dropped {int(bad.sum())} points: {list(s.index[bad].strftime('%Y-%m-%d'))[:8]}")
+        s = s[~bad]
+    return s
+
+
+def get(name, ysym, fsym, tol):
     parts = []
     for label, fn, sym in (("yahoo", yahoo, ysym), ("fred", fred, fsym)):
         if not sym:
@@ -83,31 +110,28 @@ def get(name, ysym, fsym, tol=0.12):
 
 cols = {}
 for k, (y, f) in COMMOD.items():
-    s = get(k, y, f, tol=0.25)  # commodities move a lot; only catch gross errors
+    s = get(k, y, f, tol=0.2 if k == "natgas" else 0.12)  # catch only gross bad ticks
     if s is not None:
         cols[k] = s
 legs = {}
 for k, (y, f) in LEGS.items():
-    s = get(k, y, f)
+    s = get(k, y, f, tol=0.04 if k == "usdkrw" else 0.025)
     if s is not None:
         legs[k] = s
 if "usdkrw" not in legs:
     sys.exit("USD/KRW unavailable")
 
-# Monthly fallback: fill daily gaps before the daily series starts
-for k, sid in MONTHLY.items():
+# Monthly fallback before the daily series is usable
+for k, (code, cut) in MONTHLY.items():
     try:
-        m = fred(sid)
+        m = imf_monthly(code)
+        m = m[(m.index >= START) & (m.index < cut)]
         d = cols.get(k)
-        first = d.index[0] if d is not None and len(d) else pd.Timestamp("2100-01-01")
-        if k == "copper":
-            m = m / 2204.62  # USD/t -> USD/lb to match COMEX HG
-        m = m[m.index < first]
-        if len(m):
-            print(f"{k}: monthly {sid} fills {len(m)} months before {first.date()}")
-            cols[k] = m if d is None else pd.concat([m, d]).sort_index()
+        d = d[d.index >= cut] if d is not None else None
+        print(f"{k}: IMF monthly {code} {len(m)} months before {cut}")
+        cols[k] = m if d is None else pd.concat([m, d]).sort_index()
     except Exception as e:
-        print(f"{k}: monthly {sid} failed: {e}")
+        print(f"{k}: IMF monthly {code} failed: {e}; keeping daily futures only")
 
 fx = pd.DataFrame(legs).sort_index()
 # Cross rates need same-day legs; carry a leg forward at most 3 days
@@ -121,7 +145,7 @@ if "usdjpy" in fx:
 # Keep cross values only on days the USD/KRW leg itself traded
 for k in ("eurkrw", "cnykrw", "jpykrw100"):
     if k in cols:
-        cols[k] = cols[k][cols[k].index.isin(legs["usdkrw"].index)]
+        cols[k] = despike(cols[k][cols[k].index.isin(legs["usdkrw"].index)], 0.025)
 
 order = ["wti", "brent", "natgas", "gold", "silver", "copper", "aluminum",
          "usdkrw", "eurkrw", "cnykrw", "jpykrw100", "usdjpy"]
