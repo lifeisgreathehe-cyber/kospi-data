@@ -1,0 +1,828 @@
+http://www.ism.ws:80/ISMReport/NMROB092003.htm
+
+ISM Non-Manufacturing Report On Business - September 4, 2003
+FOR RELEASE:  10:00AM ET September 4, 2003
+Contact:
+ | 
+Kristen Kioa
+ | 
+ | 
+ISM, Media Relations
+ | 
+ | 
+Tempe, Arizona
+ | 
+ | 
+(800) 888-6276, Ext. 3015
+ | 
+DO NOT CONFUSE THIS NATIONAL NON-MANUFACTURING REPORT with the various regional purchasing and supply reports released across the country or the Manufacturing ISM 
+Report On Business
+®. The national non-manufacturing report's information reflects the entire United States, while the regional reports cover only their local vicinity. Also, the information in the regional reports is not used in calculating the results of the national report. 
+The information compiled in this report is for the month of August 2003.
+AUGUST NON-MANUFACTURING ISM 
+REPORT ON BUSINESS
+®
+Business Activity at 65.1%
+New Orders, Employment, Order Backlogs, Imports, Prices, Exports Increase;
+Inventories Decrease
+(Tempe, Arizona) — Business activity in the 
+non-manufacturing sector
+ increased in August 2003, say the nation's purchasing and supply executives in the latest 
+Non-Manufacturing ISM 
+Report On Business
+®.
+The report was issued today by Ralph G. Kauffman, Ph.D., C.P.M., chair of the Institute for Supply Management™ Non-Manufacturing Business Survey Committee and coordinator of the purchasing and supply management program, University of Houston-Downtown. "Non-manufacturing Business Activity increased for the fifth consecutive month in August," Kauffman said. He added, "Also in August, New Orders, Order Backlogs, Employment, Prices, Imports, and Exports increased."
+Purchasing and supply executives in August report for the second consecutive month the highest monthly Business Activity Index since the inception of the ISM Non-Manufacturing Business Survey in August 1997. August's Business Activity Index of 65.1 is the same as the July index, with both registering 1.9 percentage points higher than the previous high of 63.2 percent in October 1997. In the non-manufacturing sector, 16 industry groups grew in August, while one group contracted and none reported no change from July. Increased business activity in August was reported by 38 percent of members, the same as in July. Reduced activity was reported by 13 percent of members compared to 12 percent in July. In August, the remaining 49 percent of members indicated no change in business activity compared to 50 percent in July. The Backlog of Orders Index dropped by 3 percentage points to 51.5 percent, indicating growth in order backlogs (although at a reduced rate of growth) for the fourth consecutive month after four consecutive months of decline. The August New Orders Index increased from 66.9 percent in July to 67.6 percent in August. This reflects a slightly faster rate of increase of new orders in August compared to July. Members reported that the prices they pay increased in August for the third consecutive month. August's Prices Index is 55.7 percent, up significantly from 50.6 percent in July. This month, nine industry groups reported paying higher prices compared to July, six reported paying the same, and two industry groups reported paying lower prices in August. Members' general comments on business in August continue to indicate optimism concerning economic activity. Particular comments include: "Business is improving"; "Competition still very intense, however there are some initial signs of improvement in new business"; "Some light is showing, but it is still a long tunnel to recovery in financial services"; "Business remains improved over past year"; and "The volatility in fuels continues to be of concern as it directly and indirectly impacts manufacturing and transportation."
+In addition, Inventories decreased for the third consecutive month. With regard to Inventory Sentiment, members reported an increased level of concern that inventories are too high. New Export Orders increased after three months of decreases, Imports increased for the fourth consecutive month, and Employment increased for the fourth time in eight months. Supplier Deliveries indicated slower performance for the 24th consecutive month.
+Significant reports of commodities in short supply or up or down in price in August indicate that the only commodity in short supply is electrical parts and components. Price increases are reported for air fares; beef; chicken; dairy products; #2 diesel fuel; fuel; gasoline; laboratory equipment; laptop computers; natural gas; poultry; PVC pipe and material; roofing materials; and stainless steel. Copper material and tubing; corn; paper and paper products; PVC pipe and material; soybean meal; and vehicles were reported down in price. (PVC pipe and material had reports of both lower and higher prices.)
+ISM NON-MANUFACTURING SURVEY RESULTS AT A GLANCE and
+COMPARISON OF ISM NON-MANUFACTURING AND ISM MANUFACTURING SURVEYS*
+ | 
+Non-Manufacturing
+ | 
+Manufacturing
+ | 
+Index
+ | 
+August Index %
+ | 
+July Index %
+ | 
+Index Change from July
+ | 
+Direction & Rate of Change
+ | 
+August Index %
+ | 
+July Index %
+ | 
+Index Change from July
+ | 
+Business Activity / Production
+ | 
+65.1
+ | 
+65.1
+ | 
+0.0
+ | 
+Increasing at unchanged rate
+ | 
+61.6
+ | 
+53.3
+ | 
++8.3
+ | 
+New Orders
+ | 
+67.6
+ | 
+66.9
+ | 
++0.7
+ | 
+Increasing faster
+ | 
+59.6
+ | 
+56.6
+ | 
++3.0
+ | 
+Employment
+ | 
+51.0			  		    	
+ | 
+50.7
+ | 
++0.3
+ | 
+Increasing faster
+ | 
+45.9
+ | 
+46.1
+ | 
+-0.2
+ | 
+Supplier Deliveries
+ | 
+52.5
+ | 
+53.5
+ | 
+-1.0
+ | 
+Slowing slower
+ | 
+53.3
+ | 
+51.1
+ | 
++2.2
+ | 
+Inventories
+ | 
+49.0
+ | 
+49.5
+ | 
+-0.5
+ | 
+Decreasing faster
+ | 
+42.5
+ | 
+45.9
+ | 
+-3.4
+ | 
+Prices
+ | 
+55.7
+ | 
+50.6
+ | 
++5.1
+ | 
+Increasing faster
+ | 
+53.0
+ | 
+53.0
+ | 
+0.0
+ | 
+Backlog of Orders
+ | 
+51.5
+ | 
+54.5
+ | 
+-3.0
+ | 
+Increasing slower
+ | 
+51.5
+ | 
+51.0
+ | 
++0.5
+ | 
+New Export Orders
+ | 
+58.5
+ | 
+47.5
+ | 
++11.0
+ | 
+Increasing from decreasing
+ | 
+55.3
+ | 
+53.8
+ | 
++1.5
+ | 
+Imports
+ | 
+60.0
+ | 
+54.0
+ | 
++6.0
+ | 
+Increasing faster
+ | 
+55.1
+ | 
+56.0
+ | 
+-0.9
+ | 
+Inventory Sentiment
+ | 
+62.0
+ | 
+60.0
+ | 
++2.0
+ | 
+Greater feeling of "too high"
+ | 
+N/A
+ | 
+ | 
+ | 
+Customers' Inventories
+ | 
+N/A
+ | 
+ | 
+ | 
+ | 
+43.0
+ | 
+42.5
+ | 
++0.5
+ | 
+* Non-Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. 
+Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted except for Backlog of Orders, Prices, and Customers' Inventories.
+Business Activity
+ISM's Non-Manufacturing Business Activity Index in August was unchanged but remained at its historic high of 65.1 percent, indicating continued increase in business activity compared to July. August's index continues the uptrend begun in April following March's dip into contraction territory (below an index value of 50). The August and July index values are the highest since the inception of ISM's Non-Manufacturing Business Survey in August 1997. The previous high was 63.2 percent in October 1997. With the exception of March 2003, growth in business activity has been reported by ISM members every month beginning with February 2002. Sixteen sectors reported increased business activity, one sector reported decreased activity, and none reported unchanged activity compared to July.
+The industries reporting the highest rates of growth of business activity in August are: Entertainment; Real Estate; Legal Services; Retail Trade; and Construction. The only industry reporting contraction of business activity in August is Agriculture.
+Business Activity
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+38
+ | 
+49
+ | 
+13
+ | 
+65.1
+ | 
+July 2003
+ | 
+38
+ | 
+50
+ | 
+12
+ | 
+65.1
+ | 
+June 2003
+ | 
+41
+ | 
+45
+ | 
+14
+ | 
+60.6
+ | 
+May 2003
+ | 
+31
+ | 
+51
+ | 
+18
+ | 
+54.5
+ | 
+New Orders
+ISM's Non-Manufacturing New Orders Index increased to 67.6 percent in August from 66.9 percent in July. This was the highest New Orders Index since inception of ISM's Non-Manufacturing Business Survey in August 1997. The previous New Orders Index high was the 66.9 percent in July 2003. Comments from members include: "New accounts received"; "Fall appears to be very promising"; "New construction continues"; and "We are getting a lot of dot-com orders."
+The industries reporting the highest rates of growth of new orders in August are: Construction; Legal Services; Communication; Real Estate; Retail Trade; and Wholesale Trade. The only industry reporting contraction of new orders in August is Finance & Banking.
+New Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+39
+ | 
+52
+ | 
+9
+ | 
+67.6
+ | 
+July 2003
+ | 
+35
+ | 
+55
+ | 
+10
+ | 
+66.9
+ | 
+June 2003
+ | 
+38
+ | 
+46
+ | 
+16
+ | 
+57.5
+ | 
+May 2003
+ | 
+30
+ | 
+56
+ | 
+14
+ | 
+54.7
+ | 
+Employment
+Employment in the non-manufacturing sector in August increased for the third consecutive month after four consecutive months of decline. ISM's Non-Manufacturing Employment Index for August is 51 percent compared to 50.7 percent in July. Comments from respondents include: "Continuing outsourcing of various functions"; "Have more work — need more electricians"; "Anticipate increased business"; "Added temporary staff to cover new work"; and "Not filling vacant positions."
+The industries reporting the highest rates of growth in employment in August are: Construction; Finance & Banking; Other Services*; Transportation; and Health Services. Industries reporting the highest rates of reduction in employment in August are: Legal Services; Entertainment; Mining; Public Administration; and Agriculture.
+Employment
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+18
+ | 
+66
+ | 
+16
+ | 
+51.0
+ | 
+July 2003
+ | 
+21
+ | 
+64
+ | 
+15
+ | 
+50.7
+ | 
+June 2003
+ | 
+17
+ | 
+69
+ | 
+14
+ | 
+50.3
+ | 
+May 2003
+ | 
+17
+ | 
+66
+ | 
+17
+ | 
+48.7
+ | 
+Supplier Deliveries
+The delivery performance of suppliers to non-manufacturing organizations was slower for the 24th consecutive month in August. The index registered 52.5 percent, a decrease of 1 percentage point from the 53.5 percent reported in July. A reading above 50 percent indicates slower deliveries. Comments from purchasing and supply executives concerning supplier deliveries in August include: "Slower rail deliveries"; "Custom[s] clearing delays"; "Suppliers had not built inventories for increased demand"; and "Vendors seem to be minimizing their inventories."
+The industries reporting the highest rates of slowing in supplier deliveries in August are: Mining; Entertainment; Agriculture; Insurance; and Wholesale Trade. The industries reporting faster supplier deliveries in August are: Transportation; Business Services; and Finance & Banking.
+Supplier Deliveries
+ | 
+% Slower
+ | 
+% Same
+ | 
+% Faster
+ | 
+Index
+ | 
+August 2003
+ | 
+8
+ | 
+89
+ | 
+3
+ | 
+52.5
+ | 
+July 2003
+ | 
+8
+ | 
+91
+ | 
+1
+ | 
+53.5
+ | 
+June 2003
+ | 
+6
+ | 
+91
+ | 
+3
+ | 
+51.5
+ | 
+May 2003
+ | 
+6
+ | 
+92
+ | 
+ 2
+ | 
+52.0
+ | 
+Inventories
+ISM's Non-Manufacturing Inventories Index registered 49 percent in August, 0.5 percentage point lower than the 49.5 percent reported in July. August's index reflects the third consecutive monthly decrease after two consecutive months in which material inventories maintained by non-manufacturing organizations increased. Of the total respondents in August, 31 percent indicate they do not have inventories or do not measure them. Comments from members include: "Have resold or scrapped excess and obsolete equipment inventory"; "Not replenishing at same levels as in the past"; "Inventory reduction plan"; and "Protecting against higher prices."
+The industries reporting inventory increases in August are: Entertainment; Other Services*; Construction; Retail Trade; Business Services; and Communication. The industries reporting the highest rates of inventory decreases in August are: Agriculture; Legal Services; Public Administration; Utilities; Insurance; and Finance & Banking.
+Inventory Change
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+23
+ | 
+52
+ | 
+25
+ | 
+49.0
+ | 
+July 2003
+ | 
+20
+ | 
+59
+ | 
+21
+ | 
+49.5
+ | 
+June 2003
+ | 
+19
+ | 
+56
+ | 
+25
+ | 
+47.0
+ | 
+May 2003
+ | 
+24
+ | 
+57
+ | 
+19
+ | 
+52.5
+ | 
+Prices
+Prices paid by non-manufacturing organizations for purchased materials and services increased in August for the third consecutive month. ISM's Non-Manufacturing Prices Index for August is 55.7 percent, an increase of 5.1 percentage points from the 50.6 percent registered for July. In August, the percentage of members reporting higher prices increased 2 percentage points to 16 percent from 14 percent in July, the proportion indicating no change rose 4 percentage points to 77 percent, and the number who noted lower prices decreased 6 percentage points to 7 percent.
+The industries reporting the highest rates of increase in prices paid in August are: Agriculture; Entertainment; Transportation; Health Services; Wholesale Trade; and Public Administration. The industries reporting price decreases in August are: Real Estate and Finance & Banking.
+Prices
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+16
+ | 
+77
+ | 
+7
+ | 
+55.7
+ | 
+July 2003
+ | 
+14
+ | 
+73
+ | 
+13
+ | 
+50.6
+ | 
+June 2003
+ | 
+18
+ | 
+70
+ | 
+12
+ | 
+51.4
+ | 
+May 2003
+ | 
+16
+ | 
+72
+ | 
+12
+ | 
+49.6
+ | 
+Backlog of Orders
+ISM's Non-Manufacturing Backlog of Orders Index registered 51.5 percent in August. This is a decrease of 3 percentage point from July's 54.5 percent and represents the fourth consecutive month of growth in order backlogs. Of the total respondents in August, 42 percent indicated they do not measure backlog of orders. Purchasing and supply executives' comments on backlogs of orders include: "Conference business still lower than 2001, but regaining some volume"; "New orders without enough stock on hand"; and "Backlogs are clearing out."
+The industries reporting the highest rates of growth in backlog of orders in August are: Insurance; Construction; Transportation; Entertainment; and Wholesale Trade. The industries reporting the highest rates of decline of order backlogs in August are: Real Estate; Health Services; Utilities; Business Services; and Retail Trade.
+Backlog of Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+16
+ | 
+71
+ | 
+13
+ | 
+51.5
+ | 
+July 2003
+ | 
+18
+ | 
+73
+ | 
+9
+ | 
+54.5
+ | 
+June 2003
+ | 
+19
+ | 
+65
+ | 
+16
+ | 
+51.5
+ | 
+May 2003
+ | 
+12
+ | 
+78
+ | 
+10
+ | 
+51.0
+ | 
+New Export Orders
+Orders and requests for services and other non-manufacturing activities to be provided outside of the United States by domestically-based personnel increased in August after three consecutive months of decreases. The New Export Orders Index for August is 58.5 percent compared to July's 47.5 percent. Of the total respondents in August, 74 percent indicated they either do not perform, or do not separately measure, orders for work outside the United States.
+The industries reporting increases in new export orders in August are: Construction; Business Services; Communication; Retail Trade; and Wholesale Trade. There were no industries reporting decreases in new export orders in August.
+New Export Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+24
+ | 
+69
+ | 
+7
+ | 
+58.5
+ | 
+July 2003
+ | 
+12
+ | 
+71
+ | 
+17
+ | 
+47.5
+ | 
+June 2003
+ | 
+17
+ | 
+65
+ | 
+18
+ | 
+49.5
+ | 
+May 2003
+ | 
+14
+ | 
+70
+ | 
+16
+ | 
+49.0
+ | 
+Imports
+In August, the ISM Imports Index registered 60 percent, up from 54 percent in July. This indicates that use of imported materials by non-manufacturing industries increased at a faster rate in August than in July. August's index marks the fourth consecutive month of import growth after April's index value of 50 percent indicated no change in imports compared to March. In August, 66 percent of respondents reported that they do not use or do not track use of imported materials.
+The industries reporting the highest rates of increase in use of imports in August are: Entertainment; Health Services; Finance & Banking; Retail Trade; Wholesale Trade; and Communication. The only industry reporting decreased use of imports in August is Mining.
+Imports
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+August 2003
+ | 
+23
+ | 
+74
+ | 
+3
+ | 
+60.0
+ | 
+July 2003
+ | 
+15
+ | 
+78
+ | 
+7
+ | 
+54.0
+ | 
+June 2003
+ | 
+10
+ | 
+81
+ | 
+9
+ | 
+50.5
+ | 
+May 2003
+ | 
+20
+ | 
+77
+ | 
+3
+ | 
+58.5
+ | 
+Inventory Sentiment
+The ISM Non-Manufacturing Inventory Sentiment Index in August registered 62 percent, 2 percentage points higher than the 60 percent reported for July. This indicates that non-manufacturing purchasing and supply executives feel a greater degree of discomfort with current levels of inventory in August than they did during July. In August, 30 percent of respondents, the same proportion as in July, felt their inventories were too high, 6 percent indicated their inventories were too low, and 64 percent said that their inventories were about right.
+The industries reporting the highest rates of feeling that their inventories are too high in August are: Business Services; Wholesale Trade; Real Estate; Legal Services; and Construction. There are no industries reporting that their inventories are too low in August.
+Inventory Sentiment
+ | 
+% Too High
+ | 
+% About Right
+ | 
+% Too Low
+ | 
+Index
+ | 
+August 2003
+ | 
+30
+ | 
+64
+ | 
+6
+ | 
+62.0
+ | 
+July 2003
+ | 
+30
+ | 
+60
+ | 
+10
+ | 
+60.0
+ | 
+June 2003
+ | 
+29
+ | 
+66
+ | 
+5
+ | 
+62.0
+ | 
+May 2003
+ | 
+31
+ | 
+64
+ | 
+5
+ | 
+63.0
+ | 
+*Other Services include:
+Hotels, Rooming Houses, Camps, and Other Lodging Places; Personal Services; Automotive Repair, Services, and Parking; Miscellaneous Repair Services; Educational Services; Social Services; Museums, Art Galleries, and Botanical and Zoological Gardens; Membership Organizations; Engineering, Accounting, Research, Management, and Related Services; and Miscellaneous Services.
+Commodities Reported in Short Supply
+Electrical Parts and Components
+Commodities Reported Up in Price
+Air Fares; Beef —
+ 8th month; 
+Chicken; Dairy Products —
+ 2nd month; 
+#2 Diesel Fuel —
+ 11th month; 
+Fuel —
+ 8th month; 
+Gasoline —
+ 2nd month; 
+Laboratory Equipment; Laptop Computers; Natural Gas —
+ 2nd month; 
+Poultry —
+ 2nd month; 
+PVC Pipe and Material*; Roofing Materials; Stainless Steel
+.
+Commodities Reported Down in Price
+Copper Material and Tubing; Corn; Paper and Paper Products; PVC Pipe and Material*; Soybean Meal; Vehicles.
+*Reported as both up and down in price.
+Data and Method of Presentation
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories.  Membership of the Business Survey Committee is diversified by SIC category and is based on each industry's contribution to Gross Domestic Product (GDP).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (Business Activity, New Orders, Backlog of Orders, New Export Orders, Inventory Change, Inventory Sentiment, Imports, Prices, Employment, and Supplier Deliveries), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher and slower for Supplier Deliveries) and the negative economic direction (lower and faster for Supplier Deliveries). Responses represent raw data and are never changed. Data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. The remaining indexes have not indicated significant seasonality.
+A weighted composite index similar to the PMI that is so popular in the 
+Manufacturing ISM 
+Report On Business
+® is not available. Several years of data will need to be developed before that type of non-manufacturing indicator can be developed. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change.  An index reading above 50 percent indicates that the non-manufacturing economy in that index is generally expanding; below 50 percent, that it is generally declining. Supplier Deliveries is an exception. A Supplier Deliveries index above 50 percent indicates slower deliveries and below 50 percent indicates faster deliveries.
+The data presented herein is obtained from a survey of manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision making.
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is published monthly by the Institute for Supply Management™, the largest supply management research and education organization in the United States. The Institute for Supply Management™, established in 1915, is the world's leading educator of supply management professionals and is a valuable resource for decision makers in major markets, companies, and government.
+The full text version of the 
+Non-Manufacturing ISM 
+Report On Business
+® is posted on ISM's Web site at 
+www.ism.ws
+ on the third business day of every month after 10:10 a.m. (ET). The next 
+Non-Manufacturing ISM 
+Report On Business
+® featuring the September 2003 data will be released at 10:00 a.m. (ET) on October 3, 2003.
+Back to Top
+Past Months' ISM 
+Reports on Business
+® Releases
+Back to ISM 
+Reports on Business
+® Main Page
+ISM - P.O.Box 22160  Tempe, AZ 85285-2160   480-752-6276  /  800-888-6276  - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2003
+. Institute for Supply Management; All Rights Reserved. 
+Privacy Statement
+.

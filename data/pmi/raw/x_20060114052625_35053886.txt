@@ -1,0 +1,845 @@
+http://www.ism.ws:80/ISMReport/NMROB112003.htm
+
+ISM Non-Manufacturing Report On Business - November 5, 2003
+ISM presents the 
+Sixth Annual Economic Summit
+, December 9, 2003, at the J.P. Morgan Chase & Co. Conference Center located in New York. Please join us for this program featuring the ISM Semiannual Economic Forecasts.
+ | 
+FOR RELEASE:  10:00AM ET November 5, 2003
+Contact:
+ | 
+Kristen Kioa
+ | 
+ | 
+ISM, Media Relations
+ | 
+ | 
+Tempe, Arizona
+ | 
+ | 
+(800) 888-6276, Ext. 3015
+ | 
+DO NOT CONFUSE THIS NATIONAL NON-MANUFACTURING REPORT with the various regional purchasing and supply reports released across the country or the Manufacturing ISM 
+Report On Business
+®. The national non-manufacturing report's information reflects the entire United States, while the regional reports cover only their local vicinity. Also, the information in the regional reports is not used in calculating the results of the national report. 
+The information compiled in this report is for the month of October 2003.
+OCTOBER NON-MANUFACTURING ISM 
+REPORT ON BUSINESS
+®
+Business Activity at 64.7%
+New Orders, Order Backlogs, Employment, Imports, Prices, Exports Increase;
+Inventories Decrease
+(Tempe, Arizona) — Business activity in the 
+non-manufacturing sector
+ increased in October 2003, say the nation's purchasing and supply executives in the latest 
+Non-Manufacturing ISM 
+Report On Business
+®.
+The report was issued today by Ralph G. Kauffman, Ph.D., C.P.M., chair of the Institute for Supply Management™ Non-Manufacturing Business Survey Committee and coordinator of the purchasing and supply management program, University of Houston-Downtown. "Non-manufacturing Business Activity increased for the seventh consecutive month in October," Kauffman said. He added, "Also in October, New Orders, Order Backlogs, Employment, Prices, Imports, and Exports increased."
+Purchasing and supply executives report that business activity continued to increase in October in the non-manufacturing sector, and at higher rate of increase than in September. The Business Activity Index for October is 64.7 percent. Only the July and August 2003 indexes of 65.1 percent exceed the October value over the history of ISM's Non-Manufacturing Business Survey. October's index thus indicates continued strong growth across non-manufacturing industries. In the non-manufacturing sector, 13 industry groups grew in October, while one contracted and three reported no change from September. Increased business activity in October was reported by 38 percent of members, the same as in September. Reduced activity was reported by 12 percent of members compared to 9 percent in September. In October, the remaining 50 percent of members indicated no change in business activity compared to 53 percent in September.
+The Backlog of Orders Index declined by 3 percentage points to 54 percent, indicating growth in order backlogs for the sixth consecutive month but at a slower rate of increase than in September. The October New Orders Index increased from 59.9 percent in September to 64.4 percent in October. This reflects a faster rate of increase of new orders in October compared to September. Members reported that the prices they pay increased in October for the fifth consecutive month. October's Prices Index is 58.7 percent, down from 60.1 percent in September. This month, 10 industry groups reported paying higher prices compared to September, seven reported paying the same, and none reported paying lower prices. Members' general comments on business in October continue to indicate optimism concerning economic activity. Particular comments include: "Hopefully optimistic for 2004 recovery"; "Bookings have been good and weather has been great"; "Improving business revenue, slight increase in employment"; "Business continues at a brisk pace"; and "Still affected by budget crisis at all state agencies, most notably felt in hiring freeze on vacant positions."
+In addition, Inventories decreased for the fifth consecutive month. With regard to Inventory Sentiment, members again reported a decreased level of concern that inventories are too high. New Export Orders increased for the third consecutive month, Imports increased for the sixth consecutive month, and Employment increased after a slight dip in September. Supplier Deliveries indicated slower performance for the 26th consecutive month.
+Significant reports of commodities in short supply or up or down in price in October indicate that beef is the only commodity in short supply. Price increases are reported for beef; cheese; copper, including tubing and wire; dairy products; #2 diesel fuel; fuel; furniture; gasoline; #2 heating fuel; labor; medical/surgical supplies; milk and milk products; natural gas; office products and supplies; petroleum products; plywood; produce; PVC pipe; roof shingles; soy oil; and steel pipe. Computers; #2 diesel fuel, fuel, gasoline, paper; and unleaded gasoline were reported down in price.
+ISM NON-MANUFACTURING SURVEY RESULTS AT A GLANCE and
+COMPARISON OF ISM NON-MANUFACTURING AND ISM MANUFACTURING SURVEYS*
+ | 
+Non-Manufacturing
+ | 
+Manufacturing
+ | 
+Index
+ | 
+October Index %
+ | 
+September Index %
+ | 
+Index Change from September
+ | 
+Direction & Rate of Change
+ | 
+October Index %
+ | 
+September Index %
+ | 
+Index Change from September
+ | 
+Business Activity / Production
+ | 
+64.7
+ | 
+63.3
+ | 
++1.4
+ | 
+Increasing faster
+ | 
+62.6
+ | 
+57.3
+ | 
++5.3
+ | 
+New Orders
+ | 
+64.4
+ | 
+59.9
+ | 
++4.5
+ | 
+Increasing faster
+ | 
+64.3
+ | 
+60.4
+ | 
++3.9
+ | 
+Employment
+ | 
+52.9
+ | 
+49.1
+ | 
++3.8
+ | 
+Increasing from decreasing
+ | 
+47.7
+ | 
+45.7
+ | 
++2.0
+ | 
+Supplier Deliveries
+ | 
+53.0
+ | 
+55.0
+ | 
+-2.0
+ | 
+Slowing slower
+ | 
+53.9
+ | 
+52.4
+ | 
++1.5
+ | 
+Inventories
+ | 
+49.0
+ | 
+47.5
+ | 
++1.5
+ | 
+Decreasing slower
+ | 
+44.5
+ | 
+42.7
+ | 
++1.8
+ | 
+Prices
+ | 
+58.7
+ | 
+60.1
+ | 
+-1.4
+ | 
+Increasing slower
+ | 
+58.5
+ | 
+56.0
+ | 
++2.5
+ | 
+Backlog of Orders
+ | 
+54.0
+ | 
+57.0
+ | 
+-3.0
+ | 
+Increasing slower
+ | 
+53.5
+ | 
+52.5
+ | 
++1.0
+ | 
+New Export Orders
+ | 
+58.0
+ | 
+56.0
+ | 
++2.0
+ | 
+Increasing faster
+ | 
+59.6
+ | 
+52.9
+ | 
++6.7
+ | 
+Imports
+ | 
+56.0
+ | 
+55.0
+ | 
++1.0
+ | 
+Increasing faster
+ | 
+57.3
+ | 
+60.7
+ | 
+-3.4
+ | 
+Inventory Sentiment
+ | 
+60.0
+ | 
+60.5
+ | 
+-0.5
+ | 
+Lesser feeling of "too high"
+ | 
+N/A
+ | 
+N/A
+ | 
+ | 
+Customers' Inventories
+ | 
+N/A
+ | 
+N/A
+ | 
+ | 
+ | 
+39.0
+ | 
+44.5
+ | 
+-5.5
+ | 
+* Non-Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. 
+Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted except for Backlog of Orders, Prices, and Customers' Inventories.
+Business Activity
+ISM's Non-Manufacturing Business Activity Index in October increased to 64.7 percent from September's 63.3 percent, and moved toward the record level of 65.1 percent reported in July and August of this year. October's index continues the period of growth in non-manufacturing business activity begun in April following March's dip into contraction territory (below an index value of 50). The October index is the second highest since the inception of ISM's Non-Manufacturing Business Survey in October 1997, exceeded only by the July and August 2003 indexes. With the exception of March 2003, growth in business activity has been reported by ISM members every month beginning with February 2002. This month 13 sectors reported increased business activity, one sector reported decreased activity, and three reported unchanged activity compared to September.
+The industries reporting the highest rates of growth of business activity in October are: Health Services; Entertainment; Utilities; Finance & Banking; and Retail Trade. The one industry reporting contraction of business activity in October is Communication.
+Business Activity
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+38
+ | 
+50
+ | 
+12
+ | 
+64.7
+ | 
+September 2003
+ | 
+38
+ | 
+53
+ | 
+9
+ | 
+63.3
+ | 
+August 2003
+ | 
+38
+ | 
+49
+ | 
+13
+ | 
+65.1
+ | 
+July 2003
+ | 
+38
+ | 
+50
+ | 
+12
+ | 
+65.1
+ | 
+New Orders
+ISM's Non-Manufacturing New Orders Index increased to 64.4 percent in October from 59.9 percent in September. This indicates continued expansion of new orders and at a faster rate of growth than in September. Comments from members include: "Hospitals at full or almost full rate"; "New contracts"; "Increase in spending overall"; and "Increase in customer base."
+The industries reporting the highest rates of growth of new orders in October are: Entertainment; Health Services; Agriculture; Business Services; and Finance & Banking. The industries reporting contraction of new orders in October are: Communication; Real Estate; and Mining.
+New Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+37
+ | 
+50
+ | 
+13
+ | 
+64.4
+ | 
+September 2003
+ | 
+33
+ | 
+54
+ | 
+13
+ | 
+59.9
+ | 
+August 2003
+ | 
+39
+ | 
+52
+ | 
+9
+ | 
+67.6
+ | 
+July 2003
+ | 
+35
+ | 
+55
+ | 
+10
+ | 
+66.9
+ | 
+Employment
+Employment in the non-manufacturing sector in October expanded after decreasing slightly in September. ISM's Non-Manufacturing Employment Index for October is 52.9 percent compared to 49.1 percent in September. October's Employment Index is the highest since 54.2 percent in November 2000. Comments from respondents include: "Slightly higher due to increased workload"; "More construction projects"; "Store expansion and seasonal buildup"; "Increase in temporary personnel for outage support"; and "More production lines need to run in order to fill customer requirements."
+The industries reporting the highest rates of growth in employment in October are: Entertainment; Health Services; Communication; Wholesale Trade; Finance & Banking; and Other Services*. Industries reporting reduction in employment in October are: Real Estate; Insurance; Business Services; and Public Administration.
+Employment
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+19
+ | 
+65
+ | 
+16
+ | 
+52.9
+ | 
+September 2003
+ | 
+15
+ | 
+67
+ | 
+18
+ | 
+49.1
+ | 
+August 2003
+ | 
+18
+ | 
+66
+ | 
+16
+ | 
+51.0
+ | 
+July 2003
+ | 
+21
+ | 
+64
+ | 
+15
+ | 
+50.7
+ | 
+Supplier Deliveries
+The delivery performance of suppliers to non-manufacturing organizations was slower for the 26th consecutive month in October. The index registered 53 percent, a decrease of 2 percentage points from the 55 percent reported in September. A reading above 50 percent indicates slower deliveries. Comments from purchasing and supply executives concerning supplier deliveries in October include: "Vendors not maintaining inventories"; "Seeing delivery problems with beef products"; "Steel pipe production slowed on domestic material"; and "Manufacturing seems to be stressed as the economy recovers. Supply lines and production have not rebounded as quickly as orders. Leadtimes and vendor stability are concerns."
+The industries reporting the highest rates of slowing in supplier deliveries in October are: Wholesale Trade; Entertainment; Communication; Real Estate; and Business Services. The industries reporting faster supplier deliveries in October are: Health Services and Finance & Banking.
+Supplier Deliveries
+ | 
+% Slower
+ | 
+% Same
+ | 
+% Faster
+ | 
+Index
+ | 
+October 2003
+ | 
+12
+ | 
+82
+ | 
+6
+ | 
+53.0
+ | 
+September 2003
+ | 
+11
+ | 
+88
+ | 
+1
+ | 
+55.0
+ | 
+August 2003
+ | 
+8
+ | 
+89
+ | 
+3
+ | 
+52.5
+ | 
+July 2003
+ | 
+8
+ | 
+91
+ | 
+1
+ | 
+53.5
+ | 
+Inventories
+ISM's Non-Manufacturing Inventories Index registered 49 percent in October, 1.5 percentage points higher than the 47.5 percent reported in September. October's index reflects the fifth consecutive monthly decrease after two consecutive months in which material inventories maintained by non-manufacturing organizations increased. Of the total respondents in October, 32 percent indicate they do not have inventories or do not measure them. Comments from members include: "Corporate inventory reduction initiative efficiency"; "Allowing inventories to run lower than normal before ordering to get them at desired levels"; "Strong efforts to reduce inventory"; and "Better supplier delivery."
+The industries reporting the highest rates of inventory increases in October are: Mining; Insurance; Construction; Business Services; and Other Services*. The industries reporting the highest rates of inventory decreases in October are: Public Administration; Entertainment; Finance & Banking; Utilities; and Communication.
+Inventory Change
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+20
+ | 
+58
+ | 
+22
+ | 
+49.0
+ | 
+September 2003
+ | 
+20
+ | 
+55
+ | 
+25
+ | 
+47.5
+ | 
+August 2003
+ | 
+23
+ | 
+52
+ | 
+25
+ | 
+49.0
+ | 
+July 2003
+ | 
+20
+ | 
+59
+ | 
+21
+ | 
+49.5
+ | 
+Prices
+Prices paid by non-manufacturing organizations for purchased materials and services increased in October for the fifth consecutive month, but at a slower rate of increase than in September. ISM's Non-Manufacturing Prices Index for October is 58.7 percent, a decrease of 1.4 percentage points from the 60.1 percent registered for September. In October, the percentage of members reporting higher prices decreased 4 percentage points to 19 percent from 23 percent in September, the proportion indicating no change rose 4 percentage points to 74 percent, and the number who noted lower prices remained at 7 percent for the third consecutive month.
+The industries reporting the highest rates of increase in prices paid in October are: Mining; Construction; Wholesale Trade; Entertainment; and Retail Trade. No industry reported price decreases in October.
+Prices
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+19
+ | 
+74
+ | 
+7
+ | 
+58.7
+ | 
+September 2003
+ | 
+23
+ | 
+70
+ | 
+7
+ | 
+60.1
+ | 
+August 2003
+ | 
+16
+ | 
+77
+ | 
+7
+ | 
+55.7
+ | 
+July 2003
+ | 
+14
+ | 
+73
+ | 
+13
+ | 
+50.6
+ | 
+Backlog of Orders
+ISM's Non-Manufacturing Backlog of Orders Index registered 54 percent in October. This is a decrease of 3 percentage points from September's 57 percent and represents the sixth consecutive month of growth in order backlogs. Of the total respondents in October, 40 percent indicated they do not measure backlog of orders. Purchasing and supply executives' comments on backlogs of orders include: "New contracts"; "Increase in business, weather good for construction"; "Residue from good September business"; and "Longer leadtimes."
+The industries reporting the highest rates of growth in backlog of orders in October are: Transportation; Utilities; Business Services; Entertainment; and Other Services*. The industries reporting a decline of order backlogs in October are: Real Estate; Mining; Public Administration; Wholesale Trade; and Communication.
+Backlog of Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+20
+ | 
+68
+ | 
+12
+ | 
+54.0
+ | 
+September 2003
+ | 
+22
+ | 
+70
+ | 
+8
+ | 
+57.0
+ | 
+August 2003
+ | 
+16
+ | 
+71
+ | 
+13
+ | 
+51.5
+ | 
+July 2003
+ | 
+18
+ | 
+73
+ | 
+9
+ | 
+54.5
+ | 
+New Export Orders
+Orders and requests for services and other non-manufacturing activities to be provided outside of the United States by domestically-based personnel increased for the third consecutive month in October. The New Export Orders Index for October is 58 percent compared to September's 56 percent. Of the total respondents in October, 78 percent indicated they either do not perform, or do not separately measure, orders for work outside the United States.
+The industries reporting increases in new export orders in October are: Transportation; Communication; Wholesale Trade; Other Services*; and Retail Trade. The one industry reporting decreases in new export orders in October is Mining.
+New Export Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+18
+ | 
+80
+ | 
+2
+ | 
+58.0
+ | 
+September 2003
+ | 
+23
+ | 
+66
+ | 
+11
+ | 
+56.0
+ | 
+August 2003
+ | 
+24
+ | 
+69
+ | 
+7
+ | 
+58.5
+ | 
+July 2003
+ | 
+12
+ | 
+71
+ | 
+17
+ | 
+47.5
+ | 
+Imports
+In October, the ISM Imports Index registered 56 percent, up from 55 percent in September. This indicates that use of imported materials by non-manufacturing industries increased at a faster rate in October than in September. October's index marks the sixth consecutive month of import growth after April's index value of 50 percent indicated no change in imports compared to March. In October, 67 percent of respondents reported that they do not use or do not track use of imported materials.
+The industries reporting increases in use of imports in October are: Retail Trade; Other Services*; Business Services; Entertainment; and Wholesale Trade. The one industry reporting decreased use of imports in October is Transportation.
+Imports
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+October 2003
+ | 
+21
+ | 
+70
+ | 
+9
+ | 
+56.0
+ | 
+September 2003
+ | 
+20
+ | 
+70
+ | 
+10
+ | 
+55.0
+ | 
+August 2003
+ | 
+23
+ | 
+74
+ | 
+3
+ | 
+60.0
+ | 
+July 2003
+ | 
+15
+ | 
+78
+ | 
+7
+ | 
+54.0
+ | 
+Inventory Sentiment
+The ISM Non-Manufacturing Inventory Sentiment Index in October registered 60 percent, 0.5 percentage point lower than the 60.5 percent reported for September. This indicates that non-manufacturing purchasing and supply executives feel a slightly lesser degree of discomfort with current levels of inventory in October than they did during September. In October, 27 percent of respondents felt their inventories were too high, 7 percent indicated their inventories were too low, and 66 percent said that their inventories were about right.
+The industries reporting the highest rates of feeling that their inventories are too high in October are: Mining; Construction; Utilities; Insurance; and Wholesale Trade. The industries reporting that their inventories are too low in October are: Public Administration and Retail Trade.
+Inventory Sentiment
+ | 
+% Too High
+ | 
+% About Right
+ | 
+% Too Low
+ | 
+Index
+ | 
+October 2003
+ | 
+27
+ | 
+66
+ | 
+7
+ | 
+60.0
+ | 
+September 2003
+ | 
+26
+ | 
+69
+ | 
+5
+ | 
+60.5
+ | 
+August 2003
+ | 
+30
+ | 
+64
+ | 
+6
+ | 
+62.0
+ | 
+July 2003
+ | 
+30
+ | 
+60
+ | 
+10
+ | 
+60.0
+ | 
+*Other Services include:
+Hotels, Rooming Houses, Camps, and Other Lodging Places; Personal Services; Automotive Repair, Services, and Parking; Miscellaneous Repair Services; Educational Services; Social Services; Museums, Art Galleries, and Botanical and Zoological Gardens; Membership Organizations; Engineering, Accounting, Research, Management, and Related Services; and Miscellaneous Services.
+Commodities Reported in Short Supply
+Beef.
+Commodities Reported Up in Price
+Beef —
+ 10th month; 
+Cheese —
+ 2nd month; 
+Copper —
+ 2nd month; 
+Dairy Products —
+ 4th month; 
+#2 Diesel Fuel* —
+ 13th month; 
+Fuel* —
+ 10th month; 
+Furniture; Gasoline* —
+ 4th month; 
+#2 Heating Fuel; Labor; Medical/Surgical Supplies; Milk and Milk Products; Natural Gas; Office Products and Supplies; Petroleum Products —
+ 2nd month; 
+Plywood —
+ 2nd month; 
+Produce; PVC Pipe; Roof Shingles; Soy Oil; Steel Pipe —
+ 2nd month.
+Commodities Reported Down in Price
+Computers —
+ 2nd month; 
+#2 Diesel Fuel*; Fuel*; Gasoline*; Paper —
+ 3rd month; 
+Unleaded Gasoline
+.
+* These commodities were reported as both up and down in price.
+Data and Method of Presentation
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories.  Membership of the Business Survey Committee is diversified by SIC category and is based on each industry's contribution to Gross Domestic Product (GDP).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (Business Activity, New Orders, Backlog of Orders, New Export Orders, Inventory Change, Inventory Sentiment, Imports, Prices, Employment, and Supplier Deliveries), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher and slower for Supplier Deliveries) and the negative economic direction (lower and faster for Supplier Deliveries). Responses represent raw data and are never changed. Data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. The remaining indexes have not indicated significant seasonality.
+A weighted composite index similar to the PMI that is so popular in the 
+Manufacturing ISM 
+Report On Business
+® is not available. Several years of data will need to be developed before that type of non-manufacturing indicator can be developed. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change.  An index reading above 50 percent indicates that the non-manufacturing economy in that index is generally expanding; below 50 percent, that it is generally declining. Supplier Deliveries is an exception. A Supplier Deliveries index above 50 percent indicates slower deliveries and below 50 percent indicates faster deliveries.
+The data presented herein is obtained from a survey of manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision making.
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is published monthly by the Institute for Supply Management™, the largest supply management research and education organization in the United States. The Institute for Supply Management™, established in 1915, is the world's leading educator of supply management professionals and is a valuable resource for decision makers in major markets, companies, and government.
+The full text version of the 
+Non-Manufacturing ISM 
+Report On Business
+® is posted on ISM's Web site at 
+www.ism.ws
+ on the third business day of every month after 10:10 a.m. (ET). The next 
+Non-Manufacturing ISM 
+Report On Business
+®
+ featuring the November 2003 data will be released at 10:00 a.m. (ET) on December 3, 2003.
+Back to Top
+Past Months' ISM 
+Reports on Business
+® Releases
+Back to ISM 
+Reports on Business
+® Main Page
+ISM - P.O.Box 22160  Tempe, AZ 85285-2160   480-752-6276  /  800-888-6276  - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2003
+. Institute for Supply Management; All Rights Reserved. 
+Privacy Statement
+.
