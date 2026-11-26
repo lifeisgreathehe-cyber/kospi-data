@@ -1,975 +1,175 @@
 {
- "datasets_status": 200,
- "datasets": [
-  {
-   "code": "bacord",
-   "name": "Manufacturing - Backlog of Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "re",
-     "name": "% Reporting",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
+ "alfred_NAPM": "HTTPSConnectionPool(host='alfred.stlouisfed.org', port=443): Read timed out. (read timeout=90)",
+ "alfred_NAPMNOI": "HTTPSConnectionPool(host='alfred.stlouisfed.org', port=443): Read timed out. (read timeout=90)",
+ "alfred_NMFCI": "HTTPSConnectionPool(host='alfred.stlouisfed.org', port=443): Read timed out. (read timeout=90)",
+ "cdx instituteforsupplymanagement.org/ISMReport/MfgROB.cfm": [
+  19,
+  [
+   [
+    "20150421074823",
+    "https://www.instituteforsupplymanagement.org/ismreport/mfgrob.cfm"
+   ],
+   [
+    "20150513023436",
+    "https://www.instituteforsupplymanagement.org/ismreport/mfgrob.cfm"
    ]
-  },
-  {
-   "code": "buypol",
-   "name": "Manufacturing - Buying Policy",
-   "series": [
-    {
-     "code": "caex-1ye",
-     "name": "Capital Expenditures; 1 Year +",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-30da",
-     "name": "Capital Expenditures; 30 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-60da",
-     "name": "Capital Expenditures; 60 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-6mo",
-     "name": "Capital Expenditures; 6 Months",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-90da",
-     "name": "Capital Expenditures; 90 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-avda",
-     "name": "Capital Expenditures; Average Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "caex-hamo",
-     "name": "Capital Expenditures; Hand-to-Mouth",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-1ye",
-     "name": "MRO Supplies; 1 Year +",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-30da",
-     "name": "MRO Supplies; 30 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-60da",
-     "name": "MRO Supplies; 60 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-6mo",
-     "name": "MRO Supplies; 6 Months",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-90da",
-     "name": "MRO Supplies; 90 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-avda",
-     "name": "MRO Supplies; Average Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "mrsu-hamo",
-     "name": "MRO Supplies; Hand-to-Mouth",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-1ye",
-     "name": "Production Materials; 1 Year +",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-30da",
-     "name": "Production Materials; 30 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-60da",
-     "name": "Production Materials; 60 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-6mo",
-     "name": "Production Materials; 6 Months",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-90da",
-     "name": "Production Materials; 90 Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-avda",
-     "name": "Production Materials; Average Days",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "prma-hamo",
-     "name": "Production Materials; Hand-to-Mouth",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
+  ],
+  [
+   [
+    "20200314092558",
+    "https://www.instituteforsupplymanagement.org/ismreport/mfgrob.cfm"
+   ],
+   [
+    "20200618042558",
+    "https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm"
    ]
-  },
-  {
-   "code": "cusinv",
-   "name": "Manufacturing - Customers' Inventories",
-   "series": [
-    {
-     "code": "abri",
-     "name": "% About Right",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "re",
-     "name": "% Reporting",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "tohi",
-     "name": "% Too High",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "tolo",
-     "name": "% Too Low",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "employment",
-   "name": "Manufacturing - Employment",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "imports",
-   "name": "Manufacturing - Imports",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "re",
-     "name": "% Reporting",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "inventories",
-   "name": "Manufacturing - Inventories",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "newexpord",
-   "name": "Manufacturing - New Export Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "re",
-     "name": "% Reporting",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "neword",
-   "name": "Manufacturing - New Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-bacord",
-   "name": "Non manufacturing - Backlog of Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-busact",
-   "name": "Non manufacturing - Business Activity",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-employment",
-   "name": "Non manufacturing - Employment",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-imports",
-   "name": "Non manufacturing - Imports",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-inventories",
-   "name": "Non manufacturing - Inventories",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-invsen",
-   "name": "Non manufacturing - Inventory Sentiment",
-   "series": [
-    {
-     "code": "abri",
-     "name": "% About Right",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "tohi",
-     "name": "% Too High",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "tolo",
-     "name": "% Too Low",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-newexpord",
-   "name": "Non manufacturing - New Export Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-neword",
-   "name": "Non manufacturing - New Orders",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-pmi",
-   "name": "Non manufacturing - PMI",
-   "series": [
-    {
-     "code": "pm",
-     "name": "PMI",
-     "first": "2020-05",
-     "last": "2025-08",
-     "n": 64
-    }
-   ]
-  },
-  {
-   "code": "nm-prices",
-   "name": "Non manufacturing - Prices",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "nm-supdel",
-   "name": "Non manufacturing - Supplier Deliveries",
-   "series": [
-    {
-     "code": "fa",
-     "name": "% Faster",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sl",
-     "name": "% Slower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "pmi",
-   "name": "Manufacturing - PMI",
-   "series": [
-    {
-     "code": "pm",
-     "name": "PMI",
-     "first": "2020-05",
-     "last": "2025-12",
-     "n": 68
-    }
-   ]
-  },
-  {
-   "code": "prices",
-   "name": "Manufacturing - Prices",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "production",
-   "name": "Manufacturing - Production",
-   "series": [
-    {
-     "code": "hi",
-     "name": "% Higher",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "lo",
-     "name": "% Lower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  },
-  {
-   "code": "supdel",
-   "name": "Manufacturing - Supplier Deliveries",
-   "series": [
-    {
-     "code": "fa",
-     "name": "% Faster",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "in",
-     "name": "Index",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "ne",
-     "name": "Net",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sa",
-     "name": "% Same",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    },
-    {
-     "code": "sl",
-     "name": "% Slower",
-     "first": "2021-01",
-     "last": "2025-12",
-     "n": 60
-    }
-   ]
-  }
+  ]
  ],
- "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/": [
-  404,
-  382482
+ "cdx instituteforsupplymanagement.org/ISMReport/NonMfgROB.cfm": [
+  11,
+  [
+   [
+    "20150701024644",
+    "https://www.instituteforsupplymanagement.org/ismreport/nonmfgrob.cfm"
+   ],
+   [
+    "20150813225524",
+    "https://www.instituteforsupplymanagement.org/ismreport/nonmfgrob.cfm"
+   ]
+  ],
+  [
+   [
+    "20200312074047",
+    "https://www.instituteforsupplymanagement.org/ismreport/nonmfgrob.cfm"
+   ],
+   [
+    "20200618042611",
+    "https://www.instituteforsupplymanagement.org/ismreport/nonmfgrob.cfm"
+   ]
+  ]
  ],
- "https://www.prnewswire.com/news/institute-for-supply-management/": [
+ "cdx ism.ws/ISMReport/MfgROB.cfm": [
+  136,
+  [
+   [
+    "20070527090743",
+    "http://www.ism.ws:80/ISMReport/MfgROB.cfm?"
+   ],
+   [
+    "20070603092500",
+    "http://www.ism.ws:80/ISMReport/MfgROB.cfm"
+   ]
+  ],
+  [
+   [
+    "20250912083548",
+    "http://www.ism.ws/ISMReport/MFGROB.cfm"
+   ],
+   [
+    "20251001110416",
+    "http://www.ism.ws/ismreport/mfgrob.cfm"
+   ]
+  ]
+ ],
+ "cdx ism.ws/ISMReport/NonMfgROB.cfm": [
+  120,
+  [
+   [
+    "20070606091519",
+    "http://www.ism.ws:80/ISMReport/NonMfgROB.cfm?"
+   ],
+   [
+    "20070707012726",
+    "http://www.ism.ws:80/ISMReport/NonMfgROB.cfm?"
+   ]
+  ],
+  [
+   [
+    "20250420104105",
+    "http://www.ism.ws/ISMReport/NonMfgROB.cfm"
+   ],
+   [
+    "20250810015143",
+    "http://www.ism.ws/ISMReport/NonMfgROB.cfm"
+   ]
+  ]
+ ],
+ "cdx ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/*": [
+  170,
+  [
+   [
+    "20210503162024",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/april/"
+   ],
+   [
+    "20210601150720",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/april/"
+   ]
+  ],
+  [
+   [
+    "20241001154206",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/september/"
+   ],
+   [
+    "20241111160047",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/september/"
+   ]
+  ]
+ ],
+ "cdx ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/*": [
+  131,
+  [
+   [
+    "20210505155400",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/april/"
+   ],
+   [
+    "20210603150852",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/april/"
+   ]
+  ],
+  [
+   [
+    "20250124003534",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/september/"
+   ],
+   [
+    "20250205055141",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/september/"
+   ]
+  ]
+ ],
+ "prn1": [
   200,
-  203633
+  100,
+  [
+   "/news-releases/ism-names-smithnephew-global-head-of-procurement-jami-bliss-to-board-of-directors-302943420.html",
+   "/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
+  ],
+  [
+   "Nov 18, 2026"
+  ],
+  [
+   "May 09, 2024"
+  ]
  ],
- "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NAPM": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
- "https://tradingeconomics.com/united-states/business-confidence": [
+ "prn20": [
   200,
-  372322
+  0,
+  [],
+  [],
+  []
+ ],
+ "prn60": [
+  200,
+  0,
+  [],
+  [],
+  []
+ ],
+ "ism_oct": [
+  200,
+  922
  ]
 }
