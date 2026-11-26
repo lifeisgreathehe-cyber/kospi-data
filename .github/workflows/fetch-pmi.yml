@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -q requests beautifulsoup4
-      - run: python pmi/fetch.py ${{ (github.event_name == 'push' || inputs.deep) && '--deep' || '' }}
+      - run: python pmi/fetch.py ${{ (github.event_name == 'push' || inputs.deep) && '--deep --debug' || '' }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898242+github-actions[bot]@users.noreply.github.com"

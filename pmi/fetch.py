@@ -29,7 +29,7 @@ def txt(html):
     for td in s.find_all(["td", "th"]): td.append(" | ")
     return re.sub(r"\n\s*\n+", "\n", s.get_text("\n"))
 
-recs = load(REC); have = {r["src"] for r in recs}; added = 0
+recs = load(REC); have = {r["src"] for r in recs}; added = 0; dbg = 0
 deep = "--deep" in sys.argv
 links = []
 for p in range(1, (6 if deep else 2)):
@@ -46,7 +46,10 @@ for path, rid in dict.fromkeys(links):
     if src in have: continue
     h = get("https://www.prnewswire.com" + path)
     if not h: continue
-    r = record(txt(h), src)
+    t = txt(h); r = record(t, src)
+    if "--debug" in sys.argv and (not r or "pmi" not in r["got"]) and dbg < 6:
+        i = t.upper().find("AT A GLANCE"); os.makedirs("data/pmi/debug", exist_ok=True)
+        open(f"data/pmi/debug/{src}.txt", "w").write(path + "\n" + (t[max(0, i - 300):i + 3000] if i >= 0 else t[:6000])); dbg += 1
     if r:
         recs.append(r); have.add(src); added += 1; print("added", src, r["fam"], r["ym"], r["got"].get("pmi"))
     time.sleep(1)
