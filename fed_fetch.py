@@ -70,6 +70,7 @@ def statements():
     for y in (yr - 1, yr):
         page = get(f"{BASE}/newsevents/pressreleases/{y}-press-fomc.htm") or ""
         links |= set(re.findall(r"monetary(\d{8})a\.htm", page))
+    print("statement links:", sorted(links)[-12:], "feed bytes", len(feed))
     for date in sorted(links):
         if date in have or date < f"{yr-1}0101":
             continue
@@ -78,6 +79,7 @@ def statements():
         if not html:
             continue
         title, paras = article_paras(html)
+        print("check", date, repr(title), len(paras))
         if "FOMC statement" not in title:
             continue
         os.makedirs(d, exist_ok=True)
@@ -96,6 +98,7 @@ def speeches():
     if not feed:
         return
     soup = BeautifulSoup(feed, "xml")
+    print("speech feed items:", len(soup.find_all("item")), "bytes", len(feed), feed[:300].replace("\n"," "))
     cutoff = datetime.now(timezone.utc) - timedelta(days=SPEECH_DAYS)
     for it in soup.find_all("item"):
         url = it.link.get_text(strip=True)
