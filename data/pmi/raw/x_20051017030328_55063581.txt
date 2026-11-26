@@ -1,0 +1,845 @@
+http://www.ism.ws:80/ISMReport/NMROB022004.htm
+
+ISM Non-Manufacturing Report On Business - February 4, 2004
+FOR RELEASE:  10:00AM ET February 4, 2004
+Contact:
+ | 
+Kristen Kioa
+ | 
+ | 
+ISM, Media Relations
+ | 
+ | 
+Tempe, Arizona
+ | 
+ | 
+(800) 888-6276, Ext. 3015
+ | 
+DO NOT CONFUSE THIS NATIONAL NON-MANUFACTURING REPORT with the various regional purchasing and supply reports released across the country or the Manufacturing ISM 
+Report On Business
+®. The national non-manufacturing report's information reflects the entire United States, while the regional reports cover only their local vicinity. Also, the information in the regional reports is not used in calculating the results of the national report. 
+The information compiled in this report is for the month of January 2004.
+ This report reflects the U.S. Department of Commerce's recently completed annual adjustment to the seasonal factors used to calculate the indexes.
+JANUARY NON-MANUFACTURING ISM 
+REPORT ON BUSINESS
+®
+Business Activity at 65.7%
+New Orders, Order Backlogs, Employment, Imports, Prices, Exports Increase;
+Inventories Decrease
+(Tempe, Arizona) — Business activity in the 
+non-manufacturing sector
+ increased in January 2004, say the nation's purchasing and supply executives in the latest 
+Non-Manufacturing ISM 
+Report On Business
+®.
+The report was issued today by Ralph G. Kauffman, Ph.D., C.P.M., chair of the Institute for Supply Management™ Non-Manufacturing Business Survey Committee and coordinator of the purchasing and supply management program, University of Houston-Downtown. "Non-manufacturing Business Activity increased for the 10th consecutive month in January," Kauffman said. He added, "Also in January, New Orders, Order Backlogs, Employment, Prices, Imports, and Exports increased."
+Purchasing and supply executives report that business activity continued to increase in January in the non-manufacturing sector, and at a significantly faster rate of increase than in December. The Business Activity Index for January is 65.7 percent, the highest value recorded since the inception of ISM's Non-Manufacturing Business Survey in July 1997. January's index thus indicates continued strong growth across non-manufacturing industries. In the non-manufacturing sector, 13 industry groups grew in January, while one contracted and three reported no change from December. Increased business activity in January was reported by 40 percent of members, compared to 36 percent in December. Reduced activity was reported by 20 percent of members, compared to 24 percent in December. In January, the remaining 40 percent of members indicated no change in business activity, the same percentage that reported no change in December.
+The Backlog of Orders Index decreased by 2 percentage points to 53.5 percent, indicating growth in order backlogs for the ninth consecutive month but at a slower rate of increase than in December. The January New Orders Index increased from 59.5 percent in December to 64.9 percent in January. This reflects a faster rate of increase of new orders in January compared to December and is the second-highest New Orders Index reported since the inception of ISM's Non-Manufacturing Business Survey in July 1997. The highest New Orders Index was 65.7 percent in August 2003. Members reported that the prices they pay increased in January for the 23rd consecutive month. January's Prices Index is 59.7 percent, slightly below the 60.3 percent reported in December. This month, 15 industry groups reported paying higher prices compared to December, one reported paying the same, and no industry reported paying lower prices. Most of members' comments concerning business in January continue to indicate optimism concerning economic activity. Specific comments include: "Things are definitely on the upswing"; "Signs of positive things to come"; "Economic conditions continue to improve. Weak dollar remains a concern"; and "Improving employment outlook, increased holiday sales, more business optimism than a year ago."
+In addition, Inventories decreased after two months of increases. With regard to Inventory Sentiment for January, members reported a lower level of concern than in December that inventories are too high. New Export Orders increased for the sixth consecutive month, Imports increased for the ninth consecutive month, and Employment increased for the fourth consecutive month. Supplier Deliveries indicated slower performance for the 29th consecutive month.
+Significant reports of commodities in short supply or up or down in price in January indicate that flu vaccine is in short supply. Price increases are reported for aluminum and aluminum sheet; asphalt; automotive parts; bearings; beef; blood; chemicals; chicken; copper; dairy products; #2 diesel fuel; food; truck freight; fuel; furniture; gasoline; #2 heating oil; medical and surgical supplies; natural gas; office products; polyethylene; plastic; pork; PVC conduit and PVC pipe; soy oil; steel; steel coil; steel pipe; and unleaded gasoline. Aircraft parts; beef; computer equipment; and surgical drapes and gowns are reported down in price.
+ISM NON-MANUFACTURING SURVEY RESULTS AT A GLANCE and
+COMPARISON OF ISM NON-MANUFACTURING AND ISM MANUFACTURING SURVEYS*
+ | 
+Non-Manufacturing
+ | 
+Manufacturing
+ | 
+Index
+ | 
+January Index %
+ | 
+December Index %
+ | 
+Index Change from December
+ | 
+Direction & Rate of Change
+ | 
+January Index %
+ | 
+December Index %
+ | 
+Index Change from December
+ | 
+Business Activity / Production
+ | 
+65.7
+ | 
+58.0
+ | 
++7.7
+ | 
+Increasing faster
+ | 
+71.1
+ | 
+69.2
+ | 
++1.9
+ | 
+New Orders
+ | 
+64.9
+ | 
+59.5
+ | 
++5.4
+ | 
+Increasing faster
+ | 
+71.1
+ | 
+73.1
+ | 
+-2.0
+ | 
+Employment
+ | 
+53.4
+ | 
+54.0
+ | 
+-0.6
+ | 
+Increasing slower
+ | 
+52.9
+ | 
+53.5
+ | 
+-0.6
+ | 
+Supplier Deliveries
+ | 
+56.5
+ | 
+52.0
+ | 
++4.5
+ | 
+Slowing faster
+ | 
+60.4
+ | 
+58.6
+ | 
++1.8
+ | 
+Inventories
+ | 
+49.5
+ | 
+51.5
+ | 
+-2.0
+ | 
+Decreasing from increasing
+ | 
+48.9
+ | 
+46.3
+ | 
++2.6
+ | 
+Prices
+ | 
+59.7
+ | 
+60.3
+ | 
+-0.6
+ | 
+Increasing slower
+ | 
+75.5
+ | 
+66.0
+ | 
++9.5
+ | 
+Backlog of Orders
+ | 
+53.5
+ | 
+55.5
+ | 
+-2.0
+ | 
+Increasing slower
+ | 
+60.5
+ | 
+61.0
+ | 
+-0.5
+ | 
+New Export Orders
+ | 
+51.0
+ | 
+57.5
+ | 
+-6.5
+ | 
+Increasing slower
+ | 
+57.5
+ | 
+60.0
+ | 
+-2.5
+ | 
+Imports
+ | 
+54.5
+ | 
+57.0
+ | 
+-2.5
+ | 
+Increasing slower
+ | 
+59.5
+ | 
+58.1
+ | 
++1.4
+ | 
+Inventory Sentiment
+ | 
+59.0
+ | 
+62.0
+ | 
+-3.0
+ | 
+Lesser feeling of "too high"
+ | 
+N/A
+ | 
+N/A
+ | 
+ | 
+Customers' Inventories
+ | 
+N/A
+ | 
+N/A
+ | 
+ | 
+ | 
+40.0
+ | 
+39.0
+ | 
++1.0
+ | 
+* Non-Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. 
+Manufacturing ISM 
+Report On Business
+® data is seasonally adjusted except for Backlog of Orders, Prices, and Customers' Inventories.
+Business Activity
+ISM's Non-Manufacturing Business Activity Index in January rose to 65.7 percent, a record high for this survey, from December's seasonally-adjusted 58 percent, indicating a significantly faster rate of growth of activity in January. January's index continues the period of growth in non-manufacturing business activity reflected over the past 10 months. With the exception of March 2003, growth in business activity has been reported by ISM members every month beginning with February 2002. This month 13 sectors reported increased business activity, one sector reported decreased activity, and three reported unchanged activity compared to December.
+The industries reporting the highest rates of growth of business activity in January are: Legal Services; Agriculture; Entertainment; Wholesale Trade; and Mining. The one industry reporting contraction of business activity in January is Construction.
+Business Activity
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+40
+ | 
+40
+ | 
+20
+ | 
+65.7
+ | 
+December 2003
+ | 
+36
+ | 
+40
+ | 
+24
+ | 
+58.0
+ | 
+November 2003
+ | 
+34
+ | 
+54
+ | 
+12
+ | 
+59.6
+ | 
+October 2003
+ | 
+38
+ | 
+50
+ | 
+12
+ | 
+63.3
+ | 
+New Orders
+ISM's Non-Manufacturing New Orders Index rose to 64.9 percent in January from 59.5 percent in December. This indicates continued expansion of new orders at a faster rate of growth than in December. January's index is the second highest in the history of this survey, exceeded only by 65.7 percent reported in August 2003. Comments from members include: "More office relocations and renovations as well as more general requests"; "Economy improving"; "Increase in corporate clients"; and "More customer inquiries."
+The industries reporting the highest rates of growth of new orders in January are: Legal Services; Mining; Transportation; Entertainment; Wholesale Trade; and Real Estate. The industries reporting contraction of new orders in January are: Construction and Communication.
+New Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+40
+ | 
+43
+ | 
+17
+ | 
+64.9
+ | 
+December 2003
+ | 
+36
+ | 
+44
+ | 
+20
+ | 
+59.5
+ | 
+November 2003
+ | 
+33
+ | 
+57
+ | 
+10
+ | 
+60.8
+ | 
+October 2003
+ | 
+37
+ | 
+50
+ | 
+13
+ | 
+63.0
+ | 
+Employment
+Employment in the non-manufacturing sector in January expanded for the fourth consecutive month after decreasing slightly in September. ISM's Non-Manufacturing Employment Index for January is 53.4 percent compared to 54 percent in December. January's Employment Index indicates that non-manufacturing employment expanded at a slightly slower rate in January than in December. Comments from respondents include: "More retail stores"; "Increase in job/project awards"; "Received more work"; "Increased workload"; and "We continue to hire with many job postings still available."
+The industries reporting the highest rates of growth in employment in January are: Entertainment; Transportation; Wholesale Trade; Business Services; and Other Services*. Industries reporting reduction in employment in January are: Insurance; Construction; Health Services; Retail Trade; and Agriculture.
+Employment
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+18
+ | 
+68
+ | 
+14
+ | 
+53.4
+ | 
+December 2003
+ | 
+19
+ | 
+68
+ | 
+13
+ | 
+54.0
+ | 
+November 2003
+ | 
+20
+ | 
+69
+ | 
+11
+ | 
+54.4
+ | 
+October 2003
+ | 
+19
+ | 
+65
+ | 
+16
+ | 
+52.8
+ | 
+Supplier Deliveries
+The delivery performance of suppliers to non-manufacturing organizations was slower for the 29th consecutive month in January. The index registered 56.5 percent, 4.5 percentage points higher than in December. A reading above 50 percent indicates slower deliveries. January's index was the highest since 57 percent was reported in May 2000. Comments from purchasing and supply executives concerning supplier deliveries in January include: "Companies don't have inventories as before"; "Stockouts, backorders"; "No supplier inventory and holiday"; and "Holidays and colder weather disrupting rail service."
+The industries reporting the highest rates of slowing in supplier deliveries in January are: Entertainment; Mining; Wholesale Trade; Health Services; and Transportation. The one industry reporting faster supplier deliveries in January is Business Services.
+Supplier Deliveries
+ | 
+% Slower
+ | 
+% Same
+ | 
+% Faster
+ | 
+Index
+ | 
+January 2004
+ | 
+17
+ | 
+79
+ | 
+4
+ | 
+56.5
+ | 
+December 2003
+ | 
+10
+ | 
+84
+ | 
+6
+ | 
+52.0
+ | 
+November 2003
+ | 
+9
+ | 
+88
+ | 
+3
+ | 
+53.0
+ | 
+October 2003
+ | 
+12
+ | 
+82
+ | 
+6
+ | 
+53.0
+ | 
+Inventories
+ISM's Non-Manufacturing Inventories Index registered 49.5 percent in January, 2 percentage points lower than the 51.5 percent reported in December. January's index reflects a decrease in material inventories maintained by non-manufacturing organizations (index value greater than 50) after two consecutive monthly increases. Of the total respondents in January, 28 percent indicate they do not have inventories or do not measure them. Comments from members include: "Closing of main network equipment warehouse"; "We are trying to go into a Just-In-Time method"; "Reduced for winter"; and "Inventory reduction efforts." 
+The industries reporting inventory increases in January are: Communication; Health Services; Wholesale Trade; Utilities; and Business Services. The industries reporting the highest rates of inventory decreases in January are: Mining; Entertainment; Insurance; Construction; and Other Services*.
+Inventory Change
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+20
+ | 
+59
+ | 
+21
+ | 
+49.5
+ | 
+December 2003
+ | 
+22
+ | 
+59
+ | 
+19
+ | 
+51.5
+ | 
+November 2003
+ | 
+22
+ | 
+58
+ | 
+20
+ | 
+51.0
+ | 
+October 2003
+ | 
+20
+ | 
+58
+ | 
+22
+ | 
+49.0
+ | 
+Prices
+Prices paid by non-manufacturing organizations for purchased materials and services increased in January for the 23rd consecutive month (based on just-released seasonal adjustments) but at a slower rate of increase than in December. ISM's Non-Manufacturing Prices Index for January is 59.7 percent, a decrease of 0.6 percentage point from the 60.3 percent registered for December. In January, the percentage of members reporting higher prices increased 7 percentage points to 26 percent from 19 percent in December, the proportion indicating no change dropped 4 percentage points to 70 percent, and the number who noted lower prices decreased 3 percentage points to 4 percent.
+The industries reporting the highest rates of increase in prices paid in January are: Wholesale Trade; Mining; Agriculture; Construction; Transportation; and Entertainment. There are no industries reporting price decreases in January.
+Prices
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+26
+ | 
+70
+ | 
+4
+ | 
+59.7
+ | 
+December 2003
+ | 
+19
+ | 
+74
+ | 
+7
+ | 
+60.3
+ | 
+November 2003
+ | 
+18
+ | 
+73
+ | 
+9
+ | 
+58.1
+ | 
+October 2003
+ | 
+19
+ | 
+74
+ | 
+7
+ | 
+58.9
+ | 
+Backlog of Orders
+ISM's Non-Manufacturing Backlog of Orders Index registered 53.5 percent in January. This is a decrease of 2 percentage points from December's 55.5 percent and represents the ninth consecutive month of growth in order backlogs. Of the total respondents in January, 41 percent indicated they do not measure backlog of orders. Purchasing and supply executives' comments on backlogs of orders include: "Manufacturers reducing backlogs"; "Tight market in phosphates"; "Higher activity requests"; and "Storm activity has caused backlog."
+The industries reporting the highest rates of growth in backlog of orders in January are: Utilities; Entertainment; Finance & Banking; Construction; and Mining. The industries reporting a decline of order backlogs in January are: Communication; Retail Trade; and Other Services*.
+Backlog of Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+19
+ | 
+69
+ | 
+12
+ | 
+53.5
+ | 
+December 2003
+ | 
+22
+ | 
+67
+ | 
+11
+ | 
+55.5
+ | 
+November 2003
+ | 
+17
+ | 
+71
+ | 
+12
+ | 
+52.5
+ | 
+October 2003
+ | 
+20
+ | 
+68
+ | 
+12
+ | 
+54.0
+ | 
+New Export Orders
+Orders and requests for services and other non-manufacturing activities to be provided outside of the United States by domestically-based personnel increased for the sixth consecutive month in January. The New Export Orders Index for January is 51 percent compared to December's 57.5 percent, indicating a slower rate of growth in January compared to December. Of the total respondents in January, 79 percent indicated they either do not perform, or do not separately measure, orders for work outside the United States.
+The industries reporting increases in new export orders in January are: Communication and Wholesale Trade. The industries reporting decreases in new export orders in January are: Public Administration; Other Services*; Retail Trade; and Finance & Banking.
+New Export Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+16
+ | 
+70
+ | 
+14
+ | 
+51.0
+ | 
+December 2003
+ | 
+24
+ | 
+67
+ | 
+9
+ | 
+57.5
+ | 
+November 2003
+ | 
+25
+ | 
+59
+ | 
+16
+ | 
+54.5
+ | 
+October 2003
+ | 
+18
+ | 
+80
+ | 
+2
+ | 
+58.0
+ | 
+Imports
+In January, the ISM Imports Index registered 54.5 percent, down from 57 percent in December. This indicates that use of imported materials by non-manufacturing industries increased at a slower rate in January than in December. January's index marks the ninth consecutive month of import growth after the April 2003 index value of 50 percent indicated no change in imports compared to March. In January, 70 percent of respondents reported that they do not use or do not track use of imported materials.
+The industries reporting increases in the use of imports in January are: Communication; Finance & Banking; Business Services; Wholesale Trade; and Health Services. The industries reporting decreased use of imports in January are: Public Administration; Other Services*; and Retail Trade.
+Imports
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+January 2004
+ | 
+23
+ | 
+63
+ | 
+14
+ | 
+54.5
+ | 
+December 2003
+ | 
+22
+ | 
+70
+ | 
+8
+ | 
+57.0
+ | 
+November 2003
+ | 
+23
+ | 
+69
+ | 
+8
+ | 
+57.5
+ | 
+October 2003
+ | 
+21
+ | 
+70
+ | 
+9
+ | 
+56.0
+ | 
+Inventory Sentiment
+The ISM Non-Manufacturing Inventory Sentiment Index in January registered 59 percent, a decrease from 62 percent reported in December. This indicates that non-manufacturing purchasing and supply executives feel less discomfort with current levels of inventory in January that they did during December. January's 59 percent is in the lower end of the range of this index since inception of ISM's Non-Manufacturing Business Survey in July 1997. In January, 27 percent of respondents felt their inventories were too high, 9 percent indicated their inventories were too low, and 64 percent said that their inventories were about right.
+The industries reporting the highest rates of feeling that their inventories are too high in January are: Agriculture; Legal Services; Communication; Wholesale Trade; and Business Services. No industry is reporting that its inventories are too low in January.
+Inventory Sentiment
+ | 
+% Too High
+ | 
+% About Right
+ | 
+% Too Low
+ | 
+Index
+ | 
+January 2004
+ | 
+27
+ | 
+64
+ | 
+9
+ | 
+59.0
+ | 
+December 2003
+ | 
+31
+ | 
+62
+ | 
+7
+ | 
+62.0
+ | 
+November 2003
+ | 
+30
+ | 
+64
+ | 
+6
+ | 
+62.0
+ | 
+October 2003
+ | 
+27
+ | 
+66
+ | 
+7
+ | 
+60.0
+ | 
+*Other Services include:
+Hotels, Rooming Houses, Camps, and Other Lodging Places; Personal Services; Automotive Repair, Services, and Parking; Miscellaneous Repair Services; Educational Services; Social Services; Museums, Art Galleries, and Botanical and Zoological Gardens; Membership Organizations; Engineering, Accounting, Research, Management, and Related Services; and Miscellaneous Services.
+Commodities Reported in Short Supply
+Flu Vaccine —
+ 2nd month.
+Commodities Reported Up in Price
+Aluminum/Aluminum Sheet; Asphalt; Automotive Parts; Bearings; Beef* —
+ 13th month; 
+Blood; Chemicals; Chicken —
+ 2nd month; 
+Copper —
+ 5th month; 
+Dairy Products; #2 Diesel Fuel —
+ 2nd month; 
+Food; Freight-Truck; Fuel —
+ 2nd month; 
+Furniture —
+ 2nd month; 
+Gasoline —
+ 2nd month; 
+#2 Heating Oil; Medical/Surgical Supplies —
+ 2nd month; 
+Natural Gas —
+ 2nd month; 
+Office Products; Polyethylene; Plastic; Pork —
+ 3rd month; 
+PVC Conduit/PVC Pipe —
+ 2nd month; 
+Soy Oil —
+ 4th month; 
+Steel —
+ 3rd month; 
+Steel Coil; Steel Pipe; Unleaded Gasoline
+.
+Commodities Reported Down in Price
+Aircraft Parts; Beef*; Computer Equipment; Surgical Drapes/Gowns.
+*Reported as both up and down in price.
+Data and Method of Presentation
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories.  Membership of the Business Survey Committee is diversified by SIC category and is based on each industry's contribution to Gross Domestic Product (GDP).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (Business Activity, New Orders, Backlog of Orders, New Export Orders, Inventory Change, Inventory Sentiment, Imports, Prices, Employment, and Supplier Deliveries), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher and slower for Supplier Deliveries) and the negative economic direction (lower and faster for Supplier Deliveries). Responses represent raw data and are never changed. Data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. The remaining indexes have not indicated significant seasonality.
+A weighted composite index similar to the PMI that is so popular in the 
+Manufacturing ISM 
+Report On Business
+® is not available. Several years of data will need to be developed before that type of non-manufacturing indicator can be developed. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change.  An index reading above 50 percent indicates that the non-manufacturing economy in that index is generally expanding; below 50 percent, that it is generally declining. Supplier Deliveries is an exception. A Supplier Deliveries index above 50 percent indicates slower deliveries and below 50 percent indicates faster deliveries.
+The data presented herein is obtained from a survey of manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision making.
+The 
+Non-Manufacturing ISM 
+Report On Business
+® is published monthly by the Institute for Supply Management™, the largest supply management research and education organization in the United States. The Institute for Supply Management™, established in 1915, is the world's leading educator of supply management professionals and is a valuable resource for decision makers in major markets, companies, and government.
+The full text version of the 
+Non-Manufacturing ISM 
+Report On Business
+® is posted on ISM's Web site at 
+www.ism.ws
+ on the third business day of every month after 10:10 a.m. (ET). The next 
+Non-Manufacturing ISM 
+Report On Business
+® featuring the February 2004 data will be released at 10:00 a.m. (ET) on March 3, 2004.
+Back to Top
+Past Months' ISM 
+Reports on Business
+® Releases
+Back to ISM 
+Reports on Business
+® Main Page
+ISM - P.O.Box 22160  Tempe, AZ 85285-2160   480-752-6276  /  800-888-6276  - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2004
+. Institute for Supply Management; All Rights Reserved. 
+Privacy Statement
+.

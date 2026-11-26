@@ -1,0 +1,841 @@
+http://www.ism.ws:80/ISMReport/NMROB062003.htm
+
+ISM Non-Manufacturing Report on Business - June 4, 2003
+FOR RELEASE:  10:00 A.M. ET JUNE 4, 2003
+Contact:
+ | 
+Kristen Kioa
+ | 
+ | 
+ISM, Media Relations
+ | 
+ | 
+Tempe, Arizona
+ | 
+ | 
+(800) 888-6276, Ext. 3015
+ | 
+DO NOT CONFUSE THIS NATIONAL NON-MANUFACTURING REPORT with the various regional purchasing and supply reports released across the country or the Manufacturing ISM 
+Report On Business
+®
+. The national non-manufacturing report's information reflects the entire United States, while the regional reports cover only their local vicinity. Also, the information in the regional reports is not used in calculating the results of the national report. 
+The information compiled in this report is for the month of May 2003.
+MAY NON-MANUFACTURING ISM 
+REPORT ON BUSINESS
+®
+Business Activity at 54.5%
+New Orders, Inventories, Order Backlogs, Imports Increase;
+ Employment, Prices, Exports Decrease
+(Tempe, Arizona) — Business activity in the 
+non-manufacturing sector
+ increased in May 2003, say the nation's purchasing and supply executives in the latest 
+Non-Manufacturing ISM 
+Report On Business
+®
+.
+The report was issued today by Ralph G. Kauffman, Ph.D., C.P.M., chair of the Institute for Supply Management™ Non-Manufacturing Business Survey Committee and coordinator of the purchasing and supply management program, University of Houston-Downtown. "Non-manufacturing business activity increased for the second consecutive month in May," Kauffman said. He added, "Also in May, new orders, order backlogs, and imports increased."
+Purchasing and supply executives in May report the best monthly business activity since the January 2003 reading of 54.5 percent. In the non-manufacturing sector, 12 industry groups grew in May, while three groups contracted and two reported no change from April. Increased business activity in May was reported by 31 percent of members, compared to April's 28 percent. Reduced activity was reported by 18 percent of members compared to 19 percent in April. In May, the remaining 51 percent of members indicated no change in business activity compared to 53 percent in April. The Backlog of Orders Index rose by 5 percentage points to 51 percent, indicating growth in order backlogs for the first time since December 2002. The May New Orders Index increased from 50.6 percent in April to 54.7 percent in May. This reflects a faster rate of increase of new orders in May compared to April. Members reported that the prices they pay decreased in May after 14 consecutive months of increases. May's Prices Index is 49.6 percent, down from 56.7 percent in April. This month, nine industry groups reported paying higher prices compared to April, three reported paying the same, and five industry groups reported paying lower prices in May. Prices in general seem to be moderating as this report's list of commodities reported up in price is shorter than it was in April. Members' general comments on business in May continue to be mixed but contain tinges of optimism. Particular comments include: "Nationally, in manufacturing, things seem to be picking up. Manufacturers are our customers and we're seeing their willingness to spend coming back"; "Local and national business conditions are improving. New leadership improving local markets"; "Funding outlook continues to be somewhat uncertain with state budget problems"; and "Purchases ramp up in May in anticipation of increased retail activity in the summer."
+In addition, inventories increased for the second time in 10 months. With regard to inventory sentiment, members reported slightly more concern that inventories are too high. New export orders decreased and imports increased, while employment contracted for the fourth consecutive month. Supplier deliveries indicated slower performance for the 21st consecutive month.
+Significant reports of commodities in short supply or up or down in price in May indicate that syringes is the only commodity in short supply. Price increases are reported for air freight; bacon; beef; computers and related items; #2 diesel fuel; food products; fuel; gasoline; paper; polypropylene; pork bellies and trimmings; and valves. Computer equipment and peripherals; copper; #2 diesel fuel; #2 heating oil; fuel; gasoline; natural gas; and steel products (coils, drums, pipe) were reported down in price. Computers and related items, #2 diesel fuel; fuel; and gasoline had reports of lower prices in addition to reports of higher prices.
+ISM NON-MANUFACTURING SURVEY RESULTS AT A GLANCE and
+COMPARISON OF ISM NON-MANUFACTURING AND ISM MANUFACTURING SURVEYS*
+ | 
+Non-Manufacturing
+ | 
+Manufacturing
+ | 
+Index
+ | 
+May Index %
+ | 
+April  Index %
+ | 
+Index Change from April
+ | 
+Direction & Rate of Change
+ | 
+May Index %
+ | 
+April Index %
+ | 
+Index Change from April
+ | 
+Business Activity / Production
+ | 
+54.5
+ | 
+50.7
+ | 
++3.8
+ | 
+Increasing faster
+ | 
+51.5
+ | 
+47.0
+ | 
++4.5
+ | 
+New Orders
+ | 
+54.7
+ | 
+50.6
+ | 
++4.1
+ | 
+Increasing faster
+ | 
+51.9
+ | 
+45.2
+ | 
++6.7
+ | 
+Employment
+ | 
+48.7
+ | 
+48.2
+ | 
++0.5
+ | 
+Decreasing slower
+ | 
+43.0
+ | 
+41.4
+ | 
++1.6
+ | 
+Supplier Deliveries
+ | 
+52.0
+ | 
+50.5
+ | 
++1.5
+ | 
+Slowing slower
+ | 
+51.3
+ | 
+50.0
+ | 
++1.3
+ | 
+Inventories
+ | 
+52.5
+ | 
+51.0
+ | 
++1.5
+ | 
+Increasing faster
+ | 
+46.1
+ | 
+42.7
+ | 
++3.4
+ | 
+Prices
+ | 
+49.6
+ | 
+56.7
+ | 
+-7.1
+ | 
+Decreasing from increasing
+ | 
+51.5
+ | 
+63.5
+ | 
+-12.0
+ | 
+Backlog of Orders
+ | 
+51.0
+ | 
+46.0
+ | 
++5.0
+ | 
+Increasing from decreasing
+ | 
+51.0
+ | 
+47.5
+ | 
++3.5
+ | 
+New Export Orders
+ | 
+49.0
+ | 
+52.5
+ | 
+-3.5
+ | 
+Decreasing from increasing
+ | 
+50.8
+ | 
+51.1
+ | 
+-0.3
+ | 
+Imports
+ | 
+58.5
+ | 
+50.0
+ | 
++8.5
+ | 
+Increasing from unchanged
+ | 
+52.2
+ | 
+54.5
+ | 
+-2.3
+ | 
+Inventory Sentiment
+ | 
+63.0
+ | 
+62.5
+ | 
++0.5
+ | 
+Greater feeling of "too high"
+ | 
+N/A
+ | 
+ | 
+ | 
+Customers' Inventories
+ | 
+N/A
+ | 
+ | 
+ | 
+ | 
+45.0
+ | 
+44.5
+ | 
++0.5
+ | 
+* Non-Manufacturing ISM 
+Report On Business
+®
+ data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. 
+Manufacturing ISM 
+Report On Business
+®
+ data is seasonally adjusted except for Backlog of Orders, Prices, and Customers' Inventories.
+Business Activity
+ISM's Non-Manufacturing Business Activity Index in May increased 3.8 percentage points on a seasonally adjusted basis to 54.5 percent from April's 50.7 percent. May's index continues the uptrend begun in April following March's dip into contraction territory (below an index value of 50). With the exception of March 2003, growth in business activity has been reported by ISM members every month beginning with February 2002. In May, 12 sectors reported increased business activity, three sectors reported decreased activity, and two reported no change in activity compared to April.
+The industries reporting the highest rates of growth of business activity in May are: Transportation; Utilities; Construction; Finance & Banking; and Mining. The industries reporting contraction of business activity in May are: Agriculture; Insurance; and Wholesale Trade.
+Business Activity
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+31
+ | 
+51
+ | 
+18
+ | 
+54.5
+ | 
+April 2003
+ | 
+28
+ | 
+53
+ | 
+19
+ | 
+50.7
+ | 
+March 2003
+ | 
+23
+ | 
+53
+ | 
+24
+ | 
+47.9
+ | 
+February 2003
+ | 
+28
+ | 
+53
+ | 
+19
+ | 
+53.9
+ | 
+New Orders
+ISM's Non-Manufacturing New Orders Index increased to 54.7 percent in May from 50.6 percent in April. Comments from members include: "Sales increase"; "Summer bookings accelerating"; "More orders received"; and "More project, contract quoting."
+The industries reporting the highest rates of growth of new orders in May are: Legal Services; Utilities; Entertainment; Transportation; Other Services*; and Real Estate. The only industry reporting contraction of new orders in May is Wholesale Trade.
+New Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+30
+ | 
+56
+ | 
+14
+ | 
+54.7
+ | 
+April 2003
+ | 
+25
+ | 
+57
+ | 
+18
+ | 
+50.6
+ | 
+March 2003
+ | 
+24
+ | 
+53
+ | 
+23
+ | 
+47.7
+ | 
+February 2003
+ | 
+25
+ | 
+58
+ | 
+17
+ | 
+53.0
+ | 
+Employment
+Employment in the non-manufacturing sector decreased for the fourth consecutive month in May following one month of growth in January 2003. ISM's Non-Manufacturing Employment Index for May is 48.7 percent compared to 48.2 percent in April. Comments from respondents include: "We have received new job orders from the private sector and have increased our staff levels to meet the higher demand for our professional services"; "Hiring freeze in effect"; "Slowed business activity largely due to downturn in tourism"; and "Reduction in projects, reduction in force."
+The industries reporting the highest rates of growth in employment in May are: Insurance; Communication; Construction; Business Services; and Real Estate. Industries reporting reduction in employment in May are: Agriculture; Mining; Public Administration; Wholesale Trade; and Entertainment.
+Employment
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+17
+ | 
+66
+ | 
+17
+ | 
+48.7
+ | 
+April 2003
+ | 
+17
+ | 
+66
+ | 
+17
+ | 
+48.2
+ | 
+March 2003
+ | 
+14
+ | 
+70
+ | 
+16
+ | 
+47.9
+ | 
+February 2003
+ | 
+12
+ | 
+69
+ | 
+19
+ | 
+49.0
+ | 
+Supplier Deliveries
+The delivery performance of suppliers to non-manufacturing organizations was slower for the 21st consecutive month in May. The index registered 52 percent, an increase of 1.5 percentage points from the 50.5 percent reported in April. A reading above 50 percent indicates slower deliveries. Comments from purchasing and supply executives concerning supplier deliveries in May include: "SARS is creating logistical problems"; "Seasonal trucking problems"; "No inventory"; and "Higher backorder percent."
+The industries that reported slowing in supplier deliveries in May are: Entertainment; Utilities; Business Services; Retail Trade; Wholesale Trade; and Other Services*. The industries reporting faster supplier deliveries in May are: Insurance and Public Administration.
+Supplier Deliveries
+ | 
+% Slower
+ | 
+% Same
+ | 
+% Faster
+ | 
+Index
+ | 
+May 2003
+ | 
+6
+ | 
+92
+ | 
+ 2
+ | 
+52.0
+ | 
+April 2003
+ | 
+5
+ | 
+91
+ | 
+4
+ | 
+50.5
+ | 
+March 2003
+ | 
+7
+ | 
+90
+ | 
+3
+ | 
+52.0
+ | 
+February 2003
+ | 
+11
+ | 
+83
+ | 
+6
+ | 
+52.5
+ | 
+Inventories
+ISM's Non-Manufacturing Inventories Index registered 52.5 percent in May, 1.5 percentage points higher than the 51 percent reported in April. May's index reflects the second consecutive month that material inventories maintained by non-manufacturing organizations increased, after eight consecutive months of decrease. Of the total respondents in May, 31 percent indicate they do not have inventories or do not measure them. Comments from members include: "Inventory increased due to increased demand"; "Year-end purchases for fiscal year"; "Bringing in more inventory to meet anticipated demand"; and "Supplier incentives." 
+The industries reporting the highest rates of inventory increases in May are: Transportation; Real Estate; Finance & Banking; Health Services; and Wholesale Trade. The industries reporting inventory decreases in May are: Construction; Communication; Other Services*; and Utilities.
+Inventory Change
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+24
+ | 
+57
+ | 
+19
+ | 
+52.5
+ | 
+April 2003
+ | 
+26
+ | 
+50
+ | 
+24
+ | 
+51.0
+ | 
+March 2003
+ | 
+18
+ | 
+63
+ | 
+19
+ | 
+49.5
+ | 
+February 2003
+ | 
+15
+ | 
+67
+ | 
+18
+ | 
+48.5
+ | 
+Prices
+Prices paid by non-manufacturing organizations for purchased materials and services decreased in May after 14 consecutive months of increases. ISM's Non-Manufacturing Prices Index for May is 49.6 percent, a decrease of 7.1 percentage points from the 56.7 percent registered for April. In May, the percentage of members reporting higher prices decreased 14 percentage points to 16 percent from 30 percent in April, the proportion indicating no change rose 9 percentage points to 72 percent, and the number who noted lower prices increased to 12 percent from 7 percent in April.
+The industries reporting the highest rates of increase in prices paid in May are: Agriculture; Mining; Health Services; Communication; and Entertainment. The industries reporting price decreases in May are: Finance & Banking; Transportation; Real Estate; Business Services; and Retail Trade.
+Prices
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+16
+ | 
+72
+ | 
+12
+ | 
+49.6
+ | 
+April 2003
+ | 
+30
+ | 
+63
+ | 
+7
+ | 
+56.7
+ | 
+March 2003
+ | 
+35
+ | 
+58
+ | 
+7
+ | 
+62.0
+ | 
+February 2003
+ | 
+31
+ | 
+63
+ | 
+6
+ | 
+60.9
+ | 
+Backlog of Orders
+ISM's Non-Manufacturing Backlog of Orders Index registered 51 percent in May. This is an increase of 5 percentage points over April's 46 percent and represents the first growth in order backlogs since December 2002 when the index was 51.5 percent. Of the total respondents in May, 43 percent indicated they do not measure backlog of orders. Purchasing and supply executives' comments on backlogs of orders include: "Higher activity, same resources"; "Delays in vendor shipments"; and "Increase in material requests."
+The industries reporting growth in backlog of orders in May are: Transportation; Construction; Retail Trade; Business Services; and Other Services*. The industries reporting decline of order backlogs in May are: Communication; Health Services; Wholesale Trade; and Public Administration.
+Backlog of Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+12
+ | 
+78
+ | 
+10
+ | 
+51.0
+ | 
+April 2003
+ | 
+11
+ | 
+70
+ | 
+19
+ | 
+46.0
+ | 
+March 2003
+ | 
+12
+ | 
+71
+ | 
+17
+ | 
+47.5
+ | 
+February 2003
+ | 
+12
+ | 
+76
+ | 
+12
+ | 
+50.0
+ | 
+New Export Orders
+Orders and requests for services and other non-manufacturing activities to be provided outside of the United States by domestically-based personnel decreased in May after rising in April. The New Export Orders Index for May is 49 percent compared to April's 52.5 percent, a reversal from growth back to contraction. Of the total respondents in May, 76 percent indicated they either do not perform, or do not separately measure, orders for work outside the United States.
+The industries reporting increases in new export orders in May are: Transportation; Communication; and Entertainment. The industries reporting decreases in new export orders in May are: Public Administration; Wholesale Trade; and Retail Trade.
+New Export Orders
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+14
+ | 
+70
+ | 
+16
+ | 
+49.0
+ | 
+April 2003
+ | 
+16
+ | 
+73
+ | 
+11
+ | 
+52.5
+ | 
+March 2003
+ | 
+16
+ | 
+65
+ | 
+19
+ | 
+48.5
+ | 
+February 2003
+ | 
+25
+ | 
+67
+ | 
+8
+ | 
+58.5
+ | 
+Imports
+In May, the ISM Imports Index registered 58.5 percent, indicating that use of imported materials by non-manufacturing industries increased in May compared to April. May's index marks a return to import growth after April's index value of 50 percent indicated no change in imports compared to March. Prior to April there were six consecutive months of growth in imports. In May, 68 percent of respondents reported that they do not use or do not track use of imported materials.
+The industries reporting increases in use of imports in May are: Entertainment; Wholesale Trade; Communication; Construction; and Retail Trade. The only industry reporting decreased use of imports in May is Business Services.
+Imports
+ | 
+% Higher
+ | 
+% Same
+ | 
+% Lower
+ | 
+Index
+ | 
+May 2003
+ | 
+20
+ | 
+77
+ | 
+3
+ | 
+58.5
+ | 
+April 2003
+ | 
+15
+ | 
+70
+ | 
+15
+ | 
+50.0
+ | 
+March 2003
+ | 
+14
+ | 
+82
+ | 
+4
+ | 
+55.0
+ | 
+February 2003
+ | 
+18
+ | 
+67
+ | 
+15
+ | 
+51.5
+ | 
+Inventory Sentiment
+The ISM Non-Manufacturing Inventory Sentiment Index in May registered 63 percent, 0.5 percentage point higher than the 62.5 percent reported for April. This indicates that non-manufacturing purchasing and supply executives felt a slightly greater degree of discomfort with current levels of inventory in May than they did during April. In May, 31 percent of respondents felt their inventories were too high, 5 percent indicated their inventories were too low, and 64 percent said that their inventories were about right.
+The industries that reported the highest rates of feeling that their inventories were too high in May are: Transportation; Legal Services; Insurance; Communication; and Wholesale Trade. No industry reported that its inventories were too low in May.
+Inventory Sentiment
+ | 
+% Too High
+ | 
+% About Right
+ | 
+% Too Low
+ | 
+Index
+ | 
+May 2003
+ | 
+31
+ | 
+64
+ | 
+5
+ | 
+63.0
+ | 
+April 2003
+ | 
+31
+ | 
+63
+ | 
+6
+ | 
+62.5
+ | 
+March 2003
+ | 
+34
+ | 
+64
+ | 
+2
+ | 
+66.0
+ | 
+February 2003
+ | 
+38
+ | 
+57
+ | 
+5
+ | 
+66.5
+ | 
+*Other Services include:
+Hotels, Rooming Houses, Camps, and Other Lodging Places; Personal Services; Automotive Repair, Services, and Parking; Miscellaneous Repair Services; Educational Services; Social Services; Museums, Art Galleries, and Botanical and Zoological Gardens; Membership Organizations; Engineering, Accounting, Research, Management, and Related Services; and Miscellaneous Services.
+Commodities Reported in Short Supply
+Syringes
+ were the only commodity reported in short supply in May.
+Commodities Reported Up in Price
+Air Freight; Bacon —
+ 2nd month; 
+Beef —
+ 5th month; 
+Computers and Related Items*; #2 Diesel Fuel* —
+ 8th month; 
+Food Products; Fuel* —
+ 5th month; 
+Gasoline* —
+ 8th month; 
+Paper; Polypropylene —
+ 2nd month; 
+Pork Bellies and Trimmings; Valves
+.
+Commodities Reported Down in Price
+Computer Equipment and Peripherals*; Copper; #2 Diesel Fuel*; Fuel* —
+ 2nd month; 
+#2 Heating Oil; Gasoline* —
+ 2nd month; 
+Natural Gas; Steel Products: Coil, Drums, Pipe
+.
+*Reported as both up and down in price.
+Data and Method of Presentation
+The 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories.  Membership of the Business Survey Committee is diversified by SIC category and is based on each industry's contribution to Gross Domestic Product (GDP).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (Business Activity, New Orders, Backlog of Orders, New Export Orders, Inventory Change, Inventory Sentiment, Imports, Prices, Employment, and Supplier Deliveries), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher and slower for Supplier Deliveries) and the negative economic direction (lower and faster for Supplier Deliveries). Responses represent raw data and are never changed. Data is seasonally adjusted for Business Activity, New Orders, Prices, and Employment. The remaining indexes have not indicated significant seasonality. 
+A weighted composite index similar to the PMI that is so popular in the 
+Manufacturing ISM 
+Report On Business
+®
+ is not available. Several years of data will need to be developed before that type of non-manufacturing indicator can be developed. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change.  An index reading above 50 percent indicates that the non-manufacturing economy in that index is generally expanding; below 50 percent, that it is generally declining. Supplier Deliveries is an exception. A Supplier Deliveries index above 50 percent indicates slower deliveries and below 50 percent indicates faster deliveries.
+The data presented herein is obtained from a survey of manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision making.
+The 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is published monthly by the Institute for Supply Management™, the largest supply management research and education organization in the United States. The Institute for Supply Management™, established in 1915, is the world's leading educator of supply management professionals and is a valuable resource for decision makers in major markets, companies, and government.
+The full text version of the 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is posted on ISM's Web site at 
+www.ism.ws
+ on the third business day of every month after 10:10 a.m. (ET). The next 
+Non-Manufacturing ISM  
+Report on Business
+®
+ featuring the June 2003 data will be released at 10:00 a.m. (ET) on July 3, 2003.
+Back to Top
+Past Months' ISM 
+Reports on Business
+® Releases
+Back to ISM 
+Reports on Business
+® Main Page
+ISM - P.O.Box 22160  Tempe, AZ 85285-2160   480-752-6276  /  800-888-6276  - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2003
+. Institute for Supply Management; All Rights Reserved. 
+Privacy Statement
+.
