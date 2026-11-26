@@ -81,7 +81,7 @@ def statements():
         title, paras = article_paras(html)
         print("check", date, repr(title), len(paras))
         body = " ".join(paras)
-        if not (re.search(r"Committee decided to", body) and re.search(r"Voting for", body)):
+        if not (re.search(r"Committee decided to", body) and re.search(r"target range for the federal funds rate", body)):
             continue
         os.makedirs(d, exist_ok=True)
         with open(f"{d}/{date}.txt", "w") as f:
