@@ -1,4 +1,5 @@
 import json, requests
+import os; os.makedirs("data/pmi",exist_ok=True)
 H={"User-Agent":"Mozilla/5.0"}
 out={}
 r=requests.get("https://api.db.nomics.world/v22/datasets/ISM",params={"limit":100},timeout=60,headers=H)
