@@ -1,0 +1,1441 @@
+http://www.ism.ws:80/ISMReport/NonMfgROB.cfm
+
+ISM - ISM Report - August 2009 Non-Manufacturing ISM Report On Business®
+Monday, September 7
+Search 
+advanced search
+ | 
+site map
+Log In
+My Account
+Create A New Account
+Member Information Update Form
+Print Membership Card
+My Interests
+Edit Your Login Information
+Recover Your Password
+View Open Orders
+Networking Directory
+Contact ISM
+Media Room
+Advertise with ISM
+Talk to ISM Staff
+Talk to Customer Service
+Request More Information
+Technical Questions About the Web Site
+Join ISM
+Find Your Closest Affiliate
+Home
+			> 
+ISM Report on Business®
+			> 
+Latest Non-Manufacturing ROB
+FOR RELEASE: September 3, 2009
+Contact:
+ | 
+Rose Marie Goupil
+	ISM, ROB Media Relations
+	Tempe, Arizona
+	800/888-6276, Ext. 3015
+	E-mail: 
+rgoupil@ism.ws
+ | 
+August 2009 Non-Manufacturing ISM 
+Report On Business
+®
+NMI (Non-Manufacturing Index) at 48.4%
+DO NOT CONFUSE THIS NATIONAL REPORT with the various regional purchasing reports released across the country. The national report's information reflects the entire United States, while the regional reports contain primarily regional data from their local vicinities. Also, the information in the regional reports is not used in calculating the results of the national report. The information compiled in this report is for the month of August 2009.
+Business Activity Index at 51.3%
+New Orders Index at 49.9%
+Employment Index at 43.5%
+(Tempe, Arizona) — Economic activity in the 
+non-manufacturing sector
+ contracted in August, say the nation's purchasing and supply executives in the latest 
+Non-Manufacturing ISM 
+Report On Business
+®
+.
+The report was issued today by Anthony Nieves, C.P.M., CFPM, chair of the Institute for Supply Management™ Non-Manufacturing Business Survey Committee; and senior vice president — supply management for Hilton Hotels Corporation. "The NMI (Non-Manufacturing Index) registered 48.4 percent in August, 2 percentage points higher than the 46.4 percent registered in July, indicating contraction in the non-manufacturing sector for the 11th consecutive month but at a slower rate. The Non-Manufacturing Business Activity Index increased 5.2 percentage points to 51.3 percent. This is the first time this index has reflected growth since September 2008. The New Orders Index increased 1.8 percentage points to 49.9 percent, and the Employment Index increased 2 percentage points to 43.5 percent. The Prices Index increased 21.8 percentage points to 63.1 percent in August, indicating a substantial increase in prices paid from July. According to the NMI, six non-manufacturing industries reported growth in August. Respondents' comments are mixed about business conditions and the overall economy; however, there is an increase in comments indicating that there are signs of improvement going forward."
+INDUSTRY PERFORMANCE (Based on the NMI)
+The six industries reporting growth in August based on the NMI composite index — listed in order — are: Real Estate, Rental & Leasing; Health Care & Social Assistance; Transportation & Warehousing; Utilities; Accommodation & Food Services; and Information. The 12 industries reporting contraction in August — listed in order — are: Management of Companies & Support Services; Mining; Finance & Insurance; Arts, Entertainment & Recreation; Professional, Scientific & Technical Services; Construction; Other Services; Agriculture, Forestry, Fishing & Hunting; Wholesale Trade; Educational Services; Public Administration; and Retail Trade.
+WHAT RESPONDENTS ARE SAYING ...
+"While there are promising signs in the economy pointing toward the beginnings of a recovery, the financial services industry continues to be significantly affected by the downturn. Expectations are that the pace will begin to change by Q4 '09." (Finance & Insurance)
+"Business is still soft due to overall economic conditions." (Wholesale Trade)
+"There seems to be a more positive feeling about the economy." (Educational Services)
+"Healthcare reform still has hospitals wondering how they are going to get paid at the end of the day." (Health Care & Social Assistance)
+"Occupancy shows continued strength for the summer season, still below previous years' averages by 15% to 25%." (Accommodation & Food Services)
+"Business steady — revenue down slightly; however, less than expected." (Arts, Entertainment & Recreation)
+"Good first half results.  Some evidence of consumers 'trading down.'  Supplier lead times are very short." (Agriculture, Forestry, Fishing & Hunting)
+ISM NON-MANUFACTURING SURVEY RESULTS AT A GLANCE
+COMPARISON OF ISM NON-MANUFACTURING AND ISM MANUFACTURING SURVEYS*
+AUGUST 2009
+ | 
+ | 
+Non-Manufacturing
+ | 
+Manufacturing
+ | 
+Index
+ | 
+Series
+Index
+August
+ | 
+Series
+Index
+July
+ | 
+Percent
+Point
+Change
+ | 
+Direction
+ | 
+Rate
+of
+Change
+ | 
+Trend**
+(Months)
+ | 
+Series
+Index
+August
+ | 
+Series
+Index
+July
+ | 
+Percent
+Point
+Change
+ | 
+NMI/PMI
+ | 
+48.4
+ | 
+46.4
+ | 
++2.0
+ | 
+Contracting
+ | 
+Slower
+ | 
+11
+ | 
+52.9
+ | 
+48.9
+ | 
++4.0
+ | 
+Business Activity/Production
+ | 
+51.3
+ | 
+46.1
+ | 
++5.2
+ | 
+Growing
+ | 
+From Contracting
+ | 
+1
+ | 
+61.9
+ | 
+57.9
+ | 
++4.0
+ | 
+New Orders
+ | 
+49.9
+ | 
+48.1
+ | 
++1.8
+ | 
+Contracting
+ | 
+Slower
+ | 
+11
+ | 
+64.9
+ | 
+55.3
+ | 
++9.6
+ | 
+Employment
+ | 
+43.5
+ | 
+41.5
+ | 
++2.0
+ | 
+Contracting
+ | 
+Slower
+ | 
+16
+ | 
+46.4
+ | 
+45.6
+ | 
++0.8
+ | 
+Supplier Deliveries
+ | 
+49.0
+ | 
+50.0
+ | 
+-1.0
+ | 
+Faster
+ | 
+From Unchanged
+ | 
+1
+ | 
+57.1
+ | 
+52.0
+ | 
++5.1
+ | 
+Inventories
+ | 
+43.0
+ | 
+47.0
+ | 
+-4.0
+ | 
+Contracting
+ | 
+Faster
+ | 
+12
+ | 
+34.4
+ | 
+33.5
+ | 
++0.9
+ | 
+Prices
+ | 
+63.1
+ | 
+41.3
+ | 
++21.8
+ | 
+Increasing
+ | 
+From Decreasing
+ | 
+1
+ | 
+65.0
+ | 
+55.0
+ | 
++10.0
+ | 
+Backlog of Orders
+ | 
+41.0
+ | 
+42.0
+ | 
+-1.0
+ | 
+Contracting
+ | 
+Faster
+ | 
+13
+ | 
+52.5
+ | 
+50.0
+ | 
++2.5
+ | 
+New Export Orders
+ | 
+54.0
+ | 
+47.5
+ | 
++6.5
+ | 
+Growing
+ | 
+From Contracting
+ | 
+1
+ | 
+55.5
+ | 
+50.5
+ | 
++5.0
+ | 
+Imports
+ | 
+49.0
+ | 
+45.0
+ | 
++4.0
+ | 
+Contracting
+ | 
+Slower
+ | 
+10
+ | 
+49.5
+ | 
+50.0
+ | 
+-0.5
+ | 
+Inventory Sentiment
+ | 
+67.5
+ | 
+62.5
+ | 
++5.0
+ | 
+Too High
+ | 
+Faster
+ | 
+147
+ | 
+N/A
+ | 
+N/A
+ | 
+N/A
+ | 
+Customers' Inventories
+ | 
+N/A
+ | 
+N/A
+ | 
+N/A
+ | 
+N/A
+ | 
+N/A
+ | 
+N/A
+ | 
+39.0
+ | 
+42.5
+ | 
+-3.5
+ | 
+* Non-Manufacturing ISM 
+Report On Business
+®
+ data is seasonally adjusted for Business Activity, New Orders, Prices and Employment. 
+Manufacturing ISM 
+Report On Business
+®
+ data is seasonally adjusted for New Orders, Production, Employment, Supplier Deliveries and Inventories.
+**
+ Number of months moving in current direction.
+COMMODITIES REPORTED UP / DOWN IN PRICE, and IN SHORT SUPPLY
+Commodities Up in Price
+Airfares*; Beef; Cheese; Copper Wire; #1 Diesel Fuel; #2 Diesel Fuel; Fuel; Gasoline; and Polyethylene Film.
+Commodities Down in Price
+Airfares*; Juice; Natural Gas (4); and Office Supplies (2).
+Commodities in Short Supply
+No commodities were reported in short supply for the second consecutive month.
+Note: The number of consecutive months the commodity is listed is indicated after each item.
+*Reported as both up and down in price.
+AUGUST 2009 NON-MANUFACTURING INDEX SUMMARIES
+NMI (Non-Manufacturing Index)
+In August, the NMI registered 48.4 percent, indicating contraction in the non-manufacturing sector at a slower rate compared to July's reading of 46.4 percent. A reading above 50 percent indicates the non-manufacturing sector economy is generally expanding; below 50 percent indicates the non-manufacturing sector is generally contracting.
+NMI HISTORY
+Month
+ | 
+NMI
+ | 
+Month
+ | 
+NMI
+ | 
+Aug 2009
+ | 
+48.4
+ | 
+Feb 2009
+ | 
+41.6
+ | 
+Jul 2009
+ | 
+46.4
+ | 
+Jan 2009
+ | 
+42.9
+ | 
+Jun 2009
+ | 
+47.0
+ | 
+Dec 2008
+ | 
+40.1
+ | 
+May 2009
+ | 
+44.0
+ | 
+Nov 2008
+ | 
+37.4
+ | 
+Apr 2009
+ | 
+43.7
+ | 
+Oct 2008
+ | 
+44.6
+ | 
+Mar 2009
+ | 
+40.8
+ | 
+Sep 2008
+ | 
+50.0
+ | 
+Average for 12 months — 43.9
+High — 50.0
+Low — 37.4
+ | 
+Business Activity
+ISM's Non-Manufacturing Business Activity Index in August registered 51.3 percent, an increase of 5.2 percentage points when compared to the 46.1 percent registered in July. Seven industries reported increased business activity, and 10 industries reported decreased activity for the month of August. One industry reported no change from July. Comments from respondents include: "New product launch" and "Increased pace of product development activity."
+The industries reporting growth of business activity in August — listed in order — are: Real Estate, Rental & Leasing; Transportation & Warehousing; Accommodation & Food Services; Information; Health Care & Social Assistance; Educational Services; and Public Administration. The industries reporting decreased business activity in August — listed in order — are: Arts, Entertainment & Recreation; Mining; Finance & Insurance; Professional, Scientific & Technical Services; Other Services; Management of Companies & Support Services; Construction; Retail Trade; Wholesale Trade; and Utilities.
+Business Activity
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+28
+ | 
+44
+ | 
+28
+ | 
+51.3
+ | 
+Jul 2009
+ | 
+19
+ | 
+53
+ | 
+28
+ | 
+46.1
+ | 
+Jun 2009
+ | 
+28
+ | 
+50
+ | 
+22
+ | 
+49.8
+ | 
+May 2009
+ | 
+20
+ | 
+52
+ | 
+28
+ | 
+42.4
+ | 
+New Orders
+ISM's Non-Manufacturing New Orders Index contracted in August for the 11th consecutive month. The index registered 49.9 percent, which is an increase of 1.8 percentage points from the 48.1 percent registered in July. Comments from respondents include: "Fewer request and needs" and "Departments reducing their spending/budget."
+The seven industries reporting growth of new orders in August — listed in order — are: Real Estate, Rental & Leasing; Health Care & Social Assistance; Information; Educational Services; Retail Trade; Accommodation & Food Services; and Wholesale Trade. The nine industries reporting contraction of new orders in August — listed in order — are: Management of Companies & Support Services; Mining; Finance & Insurance; Professional, Scientific & Technical Services; Other Services; Arts, Entertainment & Recreation; Construction; Transportation & Warehousing; and Utilities.
+New Orders
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+27
+ | 
+46
+ | 
+27
+ | 
+49.9
+ | 
+Jul 2009
+ | 
+22
+ | 
+52
+ | 
+26
+ | 
+48.1
+ | 
+Jun 2009
+ | 
+29
+ | 
+45
+ | 
+26
+ | 
+48.6
+ | 
+May 2009
+ | 
+23
+ | 
+51
+ | 
+26
+ | 
+44.4
+ | 
+Employment
+Employment activity in the non-manufacturing sector contracted in August for the 19th time in the last 20 months. ISM's Non-Manufacturing Employment Index for August registered 43.5 percent. This reflects an increase of 2 percentage points when compared to the 41.5 percent registered in July. Two industries reported increased employment, 12 industries reported decreased employment, and four industries reported unchanged employment compared to July. Comments from respondents include: "Ongoing cost reduction efforts" and "Not refilling vacancies."
+The industries reporting an increase in employment in August are: Real Estate, Rental & Leasing; and Health Care & Social Assistance. The industries reporting a reduction in employment in August — listed in order — are: Transportation & Warehousing; Wholesale Trade; Finance & Insurance; Educational Services; Other Services; Arts, Entertainment & Recreation; Management of Companies & Support Services; Accommodation & Food Services; Construction; Public Administration; Retail Trade; and Professional, Scientific & Technical Services.
+Employment
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+8
+ | 
+68
+ | 
+24
+ | 
+43.5
+ | 
+Jul 2009
+ | 
+13
+ | 
+61
+ | 
+26
+ | 
+41.5
+ | 
+Jun 2009
+ | 
+13
+ | 
+64
+ | 
+23
+ | 
+43.4
+ | 
+May 2009
+ | 
+13
+ | 
+58
+ | 
+29
+ | 
+39.0
+ | 
+Supplier Deliveries
+The Supplier Deliveries Index registered 49 percent in August, indicating supplier deliveries were faster in August when compared to July. A reading above 50 percent indicates slower deliveries.
+The six industries reporting slower deliveries in August — listed in order — are: Utilities; Transportation & Warehousing; Arts, Entertainment & Recreation; Other Services; Accommodation & Food Services; and Wholesale Trade. The five industries reporting faster supplier deliveries in August are: Management of Companies & Support Services; Agriculture, Forestry, Fishing & Hunting; Information; Educational Services; and Public Administration.
+Supplier Deliveries
+ | 
+%
+Slower
+ | 
+%
+Same
+ | 
+%
+Faster
+ | 
+Index
+ | 
+Aug 2009
+ | 
+7
+ | 
+84
+ | 
+9
+ | 
+49.0
+ | 
+Jul 2009
+ | 
+8
+ | 
+84
+ | 
+8
+ | 
+50.0
+ | 
+Jun 2009
+ | 
+3
+ | 
+86
+ | 
+11
+ | 
+46.0
+ | 
+May 2009
+ | 
+7
+ | 
+86
+ | 
+7
+ | 
+50.0
+ | 
+Inventories
+ISM's Non-Manufacturing Inventories Index registered 43 percent in August, indicating that inventory levels contracted in August for the 12th consecutive month. Of the total respondents in August, 30 percent indicated they do not have inventories or do not measure them. Comments from respondents include: "Driving managers to reduce and maintain at lower levels" and "Rundown in inventory [in August] due to slow July."
+The four industries reporting an increase in inventories in August are: Real Estate, Rental & Leasing; Utilities; Finance & Insurance; and Health Care & Social Assistance. The 10 industries reporting decreases in inventories in August — listed in order — are: Professional, Scientific & Technical Services; Other Services; Arts, Entertainment & Recreation; Management of Companies & Support Services; Agriculture, Forestry, Fishing & Hunting; Information; Wholesale Trade; Retail Trade; Accommodation & Food Services; and Transportation & Warehousing.
+Inventories
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+9
+ | 
+68
+ | 
+23
+ | 
+43.0
+ | 
+Jul 2009
+ | 
+18
+ | 
+58
+ | 
+24
+ | 
+47.0
+ | 
+Jun 2009
+ | 
+14
+ | 
+62
+ | 
+24
+ | 
+45.0
+ | 
+May 2009
+ | 
+17
+ | 
+60
+ | 
+23
+ | 
+47.0
+ | 
+Prices
+Prices paid by non-manufacturing organizations for purchased materials and services increased significantly in August. ISM's Non-Manufacturing Prices Index for August registered 63.1 percent, 21.8 percentage points higher than the 41.3 percent reported in July. In August, the percentage of respondents reporting higher prices is 23 percent, the percentage indicating no change in prices paid is 71 percent, and 6 percent of the respondents reported lower prices.
+In August, 13 industries reported an increase in prices paid, in the following order: Management of Companies & Support Services; Retail Trade; Wholesale Trade; Utilities; Transportation & Warehousing; Health Care & Social Assistance; Arts, Entertainment & Recreation; Construction; Educational Services; Information; Accommodation & Food Services; Professional, Scientific & Technical Services; and Public Administration. The three industries reporting prices as decreasing for the month of August are: Mining; Agriculture, Forestry, Fishing & Hunting; and Finance & Insurance.
+Prices
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+23
+ | 
+71
+ | 
+6
+ | 
+63.1
+ | 
+Jul 2009
+ | 
+13
+ | 
+59
+ | 
+28
+ | 
+41.3
+ | 
+Jun 2009
+ | 
+26
+ | 
+60
+ | 
+14
+ | 
+53.7
+ | 
+May 2009
+ | 
+17
+ | 
+68
+ | 
+15
+ | 
+46.9
+ | 
+Backlog of Orders
+ISM's Non-Manufacturing Backlog of Orders Index contracted in August for the 13th consecutive month. The index registered 41 percent, 1 percentage point lower than the 42 percent reported in July. Of the total respondents in August, 42 percent indicated they do not measure backlog of orders.
+The four industries reporting an increase in order backlogs in August are: Educational Services; Real Estate, Rental & Leasing; Transportation & Warehousing; and Accommodation & Food Services. The 11 industries reporting lower backlog of orders in August — listed in order — are: Arts, Entertainment & Recreation; Management of Companies & Support Services; Other Services; Utilities; Mining; Professional, Scientific & Technical Services; Wholesale Trade; Public Administration; Retail Trade; Finance & Insurance; and Health Care & Social Assistance.
+Backlog of Orders
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+11
+ | 
+60
+ | 
+29
+ | 
+41.0
+ | 
+Jul 2009
+ | 
+10
+ | 
+64
+ | 
+26
+ | 
+42.0
+ | 
+Jun 2009
+ | 
+11
+ | 
+70
+ | 
+19
+ | 
+46.0
+ | 
+May 2009
+ | 
+6
+ | 
+68
+ | 
+26
+ | 
+40.0
+ | 
+New Export Orders
+Orders and requests for services and other non-manufacturing activities to be provided outside of the United States by domestically based personnel grew in August. The New Export Orders Index for August registered 54 percent, which is an increase of 6.5 percentage points from July's index of 47.5 percent. Of the total respondents in August, 70 percent indicated they either do not perform, or do not separately measure, orders for work outside of the United States.
+The five industries reporting an increase in new export orders in August are: Construction; Information; Real Estate, Rental & Leasing; Retail Trade; and Accommodation & Food Services. The four industries reporting a decrease in export orders in August are: Arts, Entertainment & Recreation; Other Services; Professional, Scientific & Technical Services; and Wholesale Trade.
+New
+Export Orders
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+27
+ | 
+54
+ | 
+19
+ | 
+54.0
+ | 
+Jul 2009
+ | 
+15
+ | 
+65
+ | 
+20
+ | 
+47.5
+ | 
+Jun 2009
+ | 
+33
+ | 
+43
+ | 
+24
+ | 
+54.5
+ | 
+May 2009
+ | 
+11
+ | 
+72
+ | 
+17
+ | 
+47.0
+ | 
+Imports
+The ISM Non-Manufacturing Imports Index registered 49 percent in August. The index is 4 percentage points higher than July's index of 45 percent. In August, 61 percent of respondents reported that they do not use, or do not track, the use of imported materials.
+The three industries reporting an increase in the use of imports in August are: Educational Services; Retail Trade; and Accommodation & Food Services. The three industries reporting a decrease in imports for the month of August are: Information; Agriculture, Forestry, Fishing & Hunting; and Wholesale Trade.
+Imports
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Index
+ | 
+Aug 2009
+ | 
+10
+ | 
+78
+ | 
+12
+ | 
+49.0
+ | 
+Jul 2009
+ | 
+8
+ | 
+74
+ | 
+18
+ | 
+45.0
+ | 
+Jun 2009
+ | 
+5
+ | 
+84
+ | 
+11
+ | 
+47.0
+ | 
+May 2009
+ | 
+4
+ | 
+84
+ | 
+12
+ | 
+46.0
+ | 
+Inventory Sentiment
+The ISM Non-Manufacturing Inventory Sentiment Index in August registered 67.5 percent. This is 5 percentage points higher than the 62.5 percent reported in July, indicating that respondents still believe their inventories are too high at this time. In August, 38 percent of respondents said their inventories were too high, 3 percent said their inventories were too low, and 59 percent said their inventories were about right.
+The 12 industries reporting a feeling that their inventories are too high in August — listed in order — are: Mining; Other Services; Information; Accommodation & Food Services; Real Estate, Rental & Leasing; Management of Companies & Support Services; Arts, Entertainment & Recreation; Wholesale Trade; Construction; Finance & Insurance; Professional, Scientific & Technical Services; and Retail Trade. No industry reported that their inventory was too low in August.
+Inventory Sentiment
+ | 
+%Too
+High
+ | 
+%About
+Right
+ | 
+%Too
+Low
+ | 
+Index
+ | 
+Aug 2009
+ | 
+38
+ | 
+59
+ | 
+3
+ | 
+67.5
+ | 
+Jul 2009
+ | 
+28
+ | 
+69
+ | 
+3
+ | 
+62.5
+ | 
+Jun 2009
+ | 
+38
+ | 
+58
+ | 
+4
+ | 
+67.0
+ | 
+May 2009
+ | 
+28
+ | 
+69
+ | 
+3
+ | 
+62.5
+ | 
+About this Report
+The data presented herein is obtained from a survey of non-manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision-making.
+Data and Method of Presentation
+The 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is based on data compiled from purchasing and supply executives nationwide. Membership of the Non-Manufacturing Business Survey Committee is diversified by NAICS, based on each industry's contribution to gross domestic product (GDP). The Non-Manufacturing Business Survey Committee responses are divided into the following NAICS code categories: Agriculture, Forestry, Fishing & Hunting; Mining; Utilities; Construction; Wholesale Trade; Retail Trade; Transportation & Warehousing; Information; Finance & Insurance; Real Estate, Rental & Leasing; Professional, Scientific & Technical Services; Management of Companies & Support Services; Educational Services; Health Care & Social Assistance; Arts, Entertainment & Recreation; Accommodation & Food Services; Public Administration; and Other Services (services such as Equipment & Machinery Repairing; Promoting or Administering Religious Activities; Grantmaking; Advocacy; and Providing Dry-Cleaning & Laundry Services, Personal Care Services, Death Care Services, Pet Care Services, Photofinishing Services, Temporary Parking Services, and Dating Services).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (Business Activity, New Orders, Backlog of Orders, New Export Orders, Inventory Change, Inventory Sentiment, Imports, Prices, Employment and Supplier Deliveries), this report shows the percentage reporting each response, and the diffusion index. Responses represent raw data and are never changed. Data is seasonally adjusted for Business Activity, New Orders, Prices and Employment. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. The remaining indexes have not indicated significant seasonality.
+The NMI is a composite index based on the diffusion indexes for four of the indicators with equal weights: Business Activity (seasonally adjusted), New Orders (seasonally adjusted), Employment (seasonally adjusted) and Supplier Deliveries. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change. An index reading above 50 percent indicates that the non-manufacturing economy in that index is generally expanding; below 50 percent indicates that it is generally declining. Supplier Deliveries is an exception. A Supplier Deliveries Index above 50 percent indicates slower deliveries and below 50 percent indicates faster deliveries.
+The 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is published monthly by the Institute for Supply Management™, the largest supply management research and education organization in the United States. The Institute for Supply Management™, established in 1915, is the largest supply management organization in the world as well as one of the most respected. ISM's mission is to lead the supply management profession through its standards of excellence, research, promotional activities and education.
+The full text version of the 
+Non-Manufacturing ISM 
+Report On Business
+®
+ is posted on ISM's Web site at www.ism.ws on the third business day of every month after 10:10 a.m. (ET).
+The next 
+Non-Manufacturing ISM 
+Report On Business
+®
+ featuring the September 2009 data will be released at 10:00 a.m. (ET) on Monday, October 5, 2009.
+Back to Top
+About ISM
+Overview of ISM
+Statement of Antitrust Policy
+Strategic Plan
+ISM Bylaws
+Media Room
+Media Only - Submit Inquiry/Request
+News Releases
+Affiliate News Releases
+Media Guidelines/Credentials Request
+ISM Board of Directors
+ISM Officers Directory
+Affiliate Officers Directory
+ISM Affiliate Web Sites
+ISM Group and Forum Web Sites
+Frequently Asked Questions
+Chair's Corner
+ISM Annual Reports
+J. Shipman Gold Medal Award
+ISM R. Gene Richter Awards
+Supply Management Month
+Supply Management Month Information for Members
+Association Governance
+ISM Strategic Plan
+ISM Bylaws
+ISM Policies
+Minutes/Reports
+ISM Ethical Principles and Standards
+Activity Calendar
+Principles of Social Responsibility
+Membership
+Value of Membership
+Join ISM
+Membership Requirements
+Request More Information
+Talk to Customer Service
+Tell a Friend About
+Groups and Forums
+Group/Forum Enrollment Form
+Groups and Forums Brochure and Flyer
+Careers In Purchasing and Supply Mgmt
+Students and Educators
+Students
+Educators
+Dues Free Membership
+Institutions Offering Supply Management Programs
+Copyright Information
+Purchasing and Supply Educator's Letter
+Members Only
+InfoCenter
+InfoCenter FAQs
+Bid Specifications Database
+ISM Glossary of Key Supply Management Terms
+Business Book List
+Principles and Standards of Ethical Supply Management Conduct
+Member Information & Online Tools
+ISM Glossary of Key Supply Management Terms
+Access to CIPS Members Only Content
+ISM Tool Kit
+ISM Resource Guides
+ContractWare®Net and eTool Agreements
+Address Update Form
+Activity Calendar
+Affiliate Websites
+Group & Forum Websites
+ISM Principles and Standards of Ethical Supply Management Conduct
+ISM Group/Forum Enrollment Information
+Job Descriptions
+The Business Source
+Propurchaser.com
+Personal Professional Development Scorecard
+Affiliate Resources
+Affiliate Support
+Affiliate Management Tools
+Group and Forum Leadership Resources
+Career Center
+About the ISM Career Center
+Register for the ISM Career Center
+Login to the Career Center
+Job Seekers
+Employers' Corner
+More Career Resources
+Frequently Asked Questions / Help
+Affiliate, Groups & Forums
+Group/Forum Enrollment Information
+Group/Forum Enrollment Form
+Groups & Forums Brochure and Flyer
+Group & Forum Case Studies
+Groups & Forums Promotion
+Spotlight on Groups and Forums
+Group and Forum Officers
+Affiliate Web Sites
+Group & Forum Web Sites
+Affiliate Officers
+ISM Officers
+Sign up for ISM's Groups and Forums Discussion List Servs
+Search for Speakers
+Edit Your Entry
+Discussion Forums
+Additional Resources
+ISM Resource Guides
+Bid Specifications Database
+Purchasing/Supply Management Periodicals
+Other Web Resources
+Practix - A quarterly Best Practices publication
+ISM's Principles and Standards of Ethical Supply Management Conduct
+Associations/Organizations Useful to Purchasing/Supply Management Professionals
+CIPS Study
+Search Articles
+CIPS Members Only Content
+Ethics and Social Responsibility
+ISM Ethical Principles and Standards
+Principles of Sustainability and Social Responsibility
+Business Case
+Supporting Organizations
+Fostering Sustainability and Social Responsibility Form
+Research
+Articles
+General Resources
+Training
+Assessments
+Metrics and Indices
+International
+ISM's Committee on Sustainability and Social Responsibility
+Education - Seminars, Conferences
+Conferences
+Past Program Materials
+Exhibiting Opportunities
+Seminars
+Public Seminars
+Web Seminars
+Satellite Seminars
+Seminar Registration Information
+Download a Seminar Registration Form
+ISM-ADR School for Supply Management
+Customized and Standard Training and Development
+Professional Development Seminars (In-house, Instructor-Led)
+Knowledge Center Courses (Web-based, Online)
+DNA (Development Needs Analysis)
+ISM-ADR School for Supply Management Brochure
+Summary of all Program Formats
+Your Dedicated Program Managers
+Request for Professional Development Information
+Speaking Opportunities
+Keynote Interest Form
+Speaker Interest Form
+Speakers Directory
+Edit Your Entry in the Speaker Bureau Directory
+Scholastic Opportunities
+Colleges and Universities Offering Purchasing/Supply Management Courses
+ISM Approved Programs
+ISM Senior Research Fellowship Program
+ISM Doctoral Dissertation Grant Program
+Scholarships Offered by Affiliates, Groups, and Forums
+R. Gene Richter Scholarship Program for Undergraduate Students
+Online Courses — Knowledge Center
+Glossary of Key Supply Mgmt Terms
+ISM Resource Guides
+ISM Tool Kit
+Exhibiting/Sponsorship Opportunities
+Products
+Product Catalog
+CPSM
+®
+ Study Materials
+C.P.M. Study Materials
+Download a Product Order Form
+Self-Study Courses
+ISM Resource Guides
+Product FAQs
+Shipping and Handling Fees
+Publications
+Inside Supply Management
+Current and Past Issues
+Coming Issue
+Article Indexes
+The Future of Purchasing and Supply
+Summary of Readers
+Writer's Guidelines
+ISM Style Guidelines
+Editorial Calendar
+Advertising Information
+Talk to Us
+Journal of Supply Chain Management
+1965 - 2007 Article Index
+Order a Subscription
+Guidelines for Submissions
+ISM Style Guidelines
+Talk to Us
+International 
+Conference Proceedings
+ISM InfoEdge
+NewsLine
+Supplements to 
+Inside Supply Management
+Professionally Speaking / Annual Reports
+ISM Advantage
+Spotlight on Groups & Forums
+eSide Supply Management
+Review Board
+Mission Statement
+E-mail Newsletters
+Subscribe to E-mail Newsletters
+Supply Line 2055: Certification Update
+Just in ETime
+eDigest: Chemicals Electronic Newsletter
+Search Articles
+Advertising Information
+Professional Credentials
+Frequently Asked Questions
+Certified Purchasing Manager (C.P.M.)
+C.P.M. Frequently Asked Questions (FAQs)
+C.P.M. Recertification FAQs
+How to Get Started on Your C.P.M. Designation
+C.P.M. Exam Registration Brochure (Download)
+C.P.M. Exam Information
+Register for the C.P.M. Exams Online
+Exam Specifications
+Study Materials for C.P.M. Exam
+Distribution of Questions Within the C.P.M. Exam
+C.P.M. Program Requirements
+C.P.M. Statement of Use
+Certified Professional in Supply Management
+®
+CPSM
+®
+ Program FAQs
+CPSM
+®
+ Bridge Exam FAQs
+CPSM
+®
+ Exam Registration Brochure (Download)
+CPSM
+®
+ Information & Requirements
+Register for CPSM
+®
+ Exams
+CPSM
+®
+ Exam Specifications
+CPSM
+®
+ Bridge Exam Specifications
+CPSM
+®
+ Study Materials
+Supply Line 2055: Certification Update
+Accredited Purchasing Practitioner (A.P.P.)
+A.P.P. Frequently Asked Questions (FAQs)
+A.P.P. Reaccreditation FAQs
+A.P.P. Exam Specifications
+Why can't I register for the A.P.P. Exam?
+Distribution of Questions Within the A.P.P. Exam
+A.P.P. Statement of Use
+A.P.P. Program Requirements
+Certification Forms
+Credentials Discussion Forum
+Credentials Verification
+Additional Program Information
+C.P.M. & A.P.P. Review Courses in ISM's Knowledge Center
+C.P.M. Onsite Testing and Review
+C.P.M. & A.P.P. Review Instructor Information
+C.P.M. & A.P.P. Program Overview - Powerpoint Presentation
+C.P.M. Exam Information
+C.P.M. & A.P.P. Study Materials
+International Certification Contacts
+Professional Development Scenarios
+Request a CEH Program Number
+Supply Line 2055: Certification Update
+How to Get Started on Your C.P.M. Designation
+ISM’s Certification Market Study Supports New Qualification
+The CPSM will Prepare Supply's Future Leadership
+International Certification Contacts
+Supply Line 2055: Certification Update
+ISM Report on Business®
+Latest Manufacturing ROB
+Latest Non-Manufacturing ROB
+Reports on Business Overview
+Report On Business® Brochure
+Semiannual Reports
+Seasonal Adjustments
+Manufacturing Data
+Historical Information
+Latest Manufacturing ROB
+Recent Manufacturing ROB Releases
+Overview of the PMI
+PMI History
+Origin of the Manufacturing ROB
+Overview of the Manufacturing ROB
+Non-Manufacturing Data
+Historical Information
+Latest Non-Manufacturing ROB
+Newest ISM ROB to Cover Non-Manufacturing Sectors
+ROB Graphical Data
+Regional Business Survey Data
+How to Respond to ROB
+ROB Online Infokit
+JPMorgan Global PMI Reports
+Other Economic Information
+ROB Release Dates
+ROB Frequently Asked Questions
+ISM/Forrester Research Report
+Career Center
+Your Profile
+Search Jobs
+Your Resume
+Message Center
+Post a Job
+Search Resumes
+Job You Have Applied For
+Improve Your Resume
+More Career Resources
+View Current Jobs
+View Past Jobs
+Edit Your Default Information
+Job Notification Preferences
+Change Registration
+Annual Subscriptions
+Register for the Career Center
+Job Seekers
+Search Available Job Postings/Positions
+Improve Your Resume
+Career Management Tools and Resources
+Employers' Corner
+Search The Resume Database
+More Career Resources
+ISM Affiliates that Offer Employment Services
+Job Descriptions
+Job Hunting Sites on the Web
+Job Hunting Sites for Specific Regional Areas
+Job Hunting Sites with Tools Such as Resume Writing Advice
+Careers In Supply Management
+Resources on Relocating
+Salary/Career-Building Resources
+Schools Offering Purchasing/Supply Management Courses
+Scholastic Opportunities
+Frequently Asked Questions
+CAPS Research
+Contributing to CAPS
+CAPS Home Page
+Tools
+InfoCenter
+ISM's Annual Salary Survey
+Frequently Asked Questions
+Research Tools
+Search Articles
+ISM Resource Guides
+Bid Specifications Database
+Business Book List
+ISM Tool Kit
+General Supply Management Information
+Job Descriptions
+CIPS Study on Ethical Issues, Helps and Challenges
+CAPS Research
+ISM Survey Research Results
+Business Book List
+Discussion Forums
+Directories
+Find Your Closest Affiliate
+Supplier Directory
+Speakers Directory
+National Officers' Directory
+Affiliate Officers' Directory
+Affiliate Resources
+Affiliate Support
+Affiliate Management Tools
+Group and Forum Leadership Resources
+Group & Forum Information
+Group/Forum Enrollment Information
+Group/Forum Enrollment Form
+Groups & Forums Brochure and Flyer
+Group & Forum Case Studies
+Groups & Forums Promotion
+Spotlight on Groups and Forums
+Group & Forum Officers
+Group & Forum Web Sites
+Sign up for ISM's Groups and Forums Discussion List Servs
+eTool Agreements
+ISM's Principles and Standards
+Other Association Links
+Other Related Information
+Practix - A quarterly Best Practices Publication
+Purchasing/Supply Management Links
+Purchasing/Supply Management Periodicals
+General Business-Related Sites
+Daily News Services
+Search Engines
+Career-Related Web Sites
+Business Book List
+The Business Source
+Propurchaser.com
+Access CIPS Members Only Content
+Send This Page to a Colleague
+In This Section: 
+Latest Manufacturing ROB
+Latest Non-Manufacturing ROB
+Reports on Business Overview
+Report On Business® Brochure
+Semiannual Reports
+Seasonal Adjustments
+Manufacturing Data
+Non-Manufacturing Data
+ROB Graphical Data
+Regional Business Survey Data
+How to Respond to ROB
+ROB Online Infokit
+JPMorgan Global PMI Reports
+Other Economic Information
+ROB Release Dates
+ROB Frequently Asked Questions
+ISM/Forrester Research Report
+ISM - P.O.Box 22160 Tempe, AZ 85285-2160 480-752-6276 / 800-888-6276 - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2009
+. Institute for Supply Management™; All Rights Reserved. 
+Privacy Statement
+.

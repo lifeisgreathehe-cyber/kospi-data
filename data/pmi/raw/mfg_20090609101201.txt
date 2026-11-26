@@ -1,0 +1,1782 @@
+http://www.ism.ws:80/ISMReport/MfgROB.cfm?
+
+ISM - ISM Report - May 2009 Manufacturing ISM Report On Business®
+Tuesday, June 9
+Search 
+advanced search
+ | 
+site map
+Log In
+My Account
+Create A New Account
+Member Information Update Form
+Print Membership Card
+My Interests
+Edit Your Login Information
+Recover Your Password
+View Open Orders
+Networking Directory
+Contact ISM
+Media Room
+Advertise with ISM
+Talk to ISM Staff
+Talk to Customer Service
+Request More Information
+Technical Questions About the Web Site
+Join ISM
+Find Your Closest Affiliate
+Home
+			> 
+ISM Report on Business®
+			> 
+Latest Manufacturing ROB
+FOR RELEASE: June 1, 2009
+Contact:
+ | 
+Rose Marie Goupil
+	ISM, ROB Media Relations
+	Tempe, Arizona
+	800/888-6276, Ext. 3015
+	E-mail: 
+rgoupil@ism.ws
+ | 
+May 2009 Manufacturing ISM 
+Report On Business
+®
+PMI at 42.8%
+DO NOT CONFUSE THIS NATIONAL REPORT with the various regional purchasing reports released across the country. The national report's information reflects the entire United States, while the regional reports contain primarily regional data from their local vicinities. Also, the information in the regional reports is not used in calculating the results of the national report. The information compiled in this report is for the month of May 2009.
+New Orders Growing
+ Production, Employment and Inventories Contracting
+Prices Falling
+Supplier Deliveries Faster
+(Tempe, Arizona) — Economic activity in the 
+manufacturing sector
+ failed to grow in May for the 16th consecutive month, while the 
+overall economy
+ grew for the first time following seven months of decline, say the nation's supply executives in the latest 
+Manufacturing ISM 
+Report On Business
+®
+.
+The report was issued today by Norbert J. Ore, CPSM, C.P.M., chair of the Institute for Supply Management™ Manufacturing Business Survey Committee. "While employment and inventories continue to decline at a rapid rate and the sector continued to contract during the month, there are signs of improvement. May is the first month of growth in the New Orders Index since November 2007, with nine of 18 industries reporting growth. New orders are considered a leading indicator, and the index has risen rapidly after bottoming at 23.1 percent in December 2008. Also, the Customers' Inventories Index remained below 50 percent for the second consecutive month, offering encouragement that supply chains are starting to free themselves of excess inventories as nine industries report their customers' inventories as 'too low'. The prices that manufacturers pay for raw materials and services continued to decline, but at a slower rate than in April."
+PERFORMANCE BY INDUSTRY
+Five of the 18 manufacturing industries reported growth in May. These industries — listed in order — are: Nonmetallic Mineral Products; Plastics & Rubber Products; Machinery; Food, Beverage & Tobacco Products; and Printing & Related Support Activities. The industries reporting contraction in May — listed in order — are: Textile Mills; Furniture & Related Products; Electrical Equipment, Appliances & Components; Fabricated Metal Products; Primary Metals; Transportation Equipment; Computer & Electronic Products; Wood Products; Apparel, Leather & Allied Products; Miscellaneous Manufacturing; Chemical Products; Petroleum & Coal Products; and Paper Products.
+WHAT RESPONDENTS ARE SAYING ...
+"Some amount of havoc is about to erupt, with companies pushing for increased capacity when suppliers have taken capacity offline." (Computer & Electronic Products)
+"Business is actually better than plan." (Food, Beverage & Tobacco Products)
+"Realistically, we don't see any of our major customers looking to place business until mid-2010 at the earliest." (Machinery)
+"April was flat on sales. May looking better." (Primary Metals)
+"Business still trending downward, but not as fast." (Chemical Products)
+MANUFACTURING AT A GLANCE
+MAY 2009
+ | 
+Index
+ | 
+Series
+Index
+May
+ | 
+Series
+Index
+April
+ | 
+Percentage
+Point
+Change
+ | 
+Direction
+ | 
+Rate
+of
+Change
+ | 
+Trend*
+(Months)
+ | 
+PMI
+ | 
+42.8
+ | 
+40.1
+ | 
++2.7
+ | 
+Contracting
+ | 
+Slower
+ | 
+16
+ | 
+New Orders
+ | 
+51.1
+ | 
+47.2
+ | 
++3.9
+ | 
+Growing
+ | 
+From Contracting
+ | 
+1
+ | 
+Production
+ | 
+46.0
+ | 
+40.4
+ | 
++5.6
+ | 
+Contracting
+ | 
+Slower
+ | 
+9
+ | 
+Employment
+ | 
+34.3
+ | 
+34.4
+ | 
+-0.1
+ | 
+Contracting
+ | 
+Faster
+ | 
+10
+ | 
+Supplier Deliveries
+ | 
+49.8
+ | 
+44.9
+ | 
++4.9
+ | 
+Faster
+ | 
+Slower
+ | 
+8
+ | 
+Inventories
+ | 
+32.9
+ | 
+33.6
+ | 
+-0.7
+ | 
+Contracting
+ | 
+Faster
+ | 
+37
+ | 
+Customers' Inventories
+ | 
+46.0
+ | 
+49.5
+ | 
+-3.5
+ | 
+Too Low
+ | 
+Faster
+ | 
+2
+ | 
+Prices
+ | 
+43.5
+ | 
+32.0
+ | 
++11.5
+ | 
+Decreasing
+ | 
+Slower
+ | 
+8
+ | 
+Backlog of Orders
+ | 
+48.0
+ | 
+40.5
+ | 
++7.5
+ | 
+Contracting
+ | 
+Slower
+ | 
+13
+ | 
+Exports
+ | 
+48.0
+ | 
+44.0
+ | 
++4.0
+ | 
+Contracting
+ | 
+Slower
+ | 
+8
+ | 
+Imports
+ | 
+42.5
+ | 
+42.0
+ | 
++0.5
+ | 
+Contracting
+ | 
+Slower
+ | 
+16
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+OVERALL ECONOMY
+ | 
+Growing
+ | 
+From Contracting
+ | 
+1
+ | 
+Manufacturing Sector
+ | 
+Contracting
+ | 
+Slower
+ | 
+16
+ | 
+*Number of months moving in current direction
+COMMODITIES REPORTED UP/DOWN IN PRICE and IN SHORT SUPPLY
+Commodities Up in Price
+#2 Fuel Oil and Natural Gas* are the only commodities reported up in price.
+Commodities Down in Price
+Aluminum Based Products (2); Caustic Soda (3); Corrugated Containers (5); Natural Gas* (10); Stainless Steel Related Products; Steel (9); and Steel Products (4).
+Commodities in Short Supply
+No commodities are reported in short supply.
+Note: The number of consecutive months the commodity is listed is indicated after each item.
+*Reported as both up and down in price.
+MAY 2009 MANUFACTURING INDEX SUMMARIES
+PMI
+Manufacturing contracted in May as the PMI registered 42.8 percent, which is 2.7 percentage points higher than the 40.1 percent reported in April. This is the 16th consecutive month of contraction in the manufacturing sector. A reading above 50 percent indicates that the manufacturing economy is generally expanding; below 50 percent indicates that it is generally contracting.
+A PMI in excess of 41.2 percent, over a period of time, generally indicates an expansion of the overall economy. Therefore, the PMI indicates growth in the overall economy following seven months of decline, and continuing contraction in the manufacturing sector. Ore stated, "The past relationship between the PMI and the overall economy indicates that the average PMI for January through May (38.1 percent) corresponds to a 1 percent decrease in real gross domestic product (GDP). In addition, if the PMI for May (42.8 percent) is annualized, it corresponds to a 0.5 percent increase in real GDP annually."
+THE LAST 12 MONTHS
+Month
+ | 
+PMI
+ | 
+ | 
+Month
+ | 
+PMI
+ | 
+May 2009
+ | 
+42.8
+ | 
+ | 
+Nov 2008
+ | 
+36.6
+ | 
+Apr 2009
+ | 
+40.1
+ | 
+ | 
+Oct 2008
+ | 
+38.7
+ | 
+Mar 2009
+ | 
+36.3
+ | 
+ | 
+Sep 2008
+ | 
+43.4
+ | 
+Feb 2009
+ | 
+35.8
+ | 
+ | 
+Aug 2008
+ | 
+49.3
+ | 
+Jan 2009
+ | 
+35.6
+ | 
+ | 
+Jul 2008
+ | 
+49.5
+ | 
+Dec 2008
+ | 
+32.9
+ | 
+ | 
+Jun 2008
+ | 
+49.5
+ | 
+Average for 12 months – 40.9
+High – 49.5
+Low – 32.9
+ | 
+New Orders
+ISM's New Orders Index registered 51.1 percent in May, 3.9 percentage points higher than the 47.2 percent registered in April. This is the first month the New Orders Index has moved above 50 percent, following 17 consecutive months of contraction. A New Orders Index above 48.8 percent, over time, is generally consistent with an increase in the Census Bureau's series on manufacturing orders (in constant 2000 dollars).
+The nine industries reporting growth in new orders in May — listed in order — are: Plastics & Rubber Products; Paper Products; Primary Metals; Printing & Related Support Activities; Machinery; Nonmetallic Mineral Products; Food, Beverage & Tobacco Products; Chemical Products; and Miscellaneous Manufacturing. The industries contracting in May — listed in order — are: Textile Mills; Furniture & Related Products; Transportation Equipment; Fabricated Metal Products; Electrical Equipment, Appliances & Components; Computer & Electronic Products; Petroleum & Coal Products; and Wood Products.
+New
+Orders
+ | 
+%
+Better
+ | 
+%
+Same
+ | 
+%
+Worse
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+27
+ | 
+54
+ | 
+19
+ | 
++8
+ | 
+51.1
+ | 
+Apr 2009
+ | 
+31
+ | 
+40
+ | 
+29
+ | 
++2
+ | 
+47.2
+ | 
+Mar 2009
+ | 
+28
+ | 
+31
+ | 
+41
+ | 
+-13
+ | 
+41.2
+ | 
+Feb 2009
+ | 
+13
+ | 
+43
+ | 
+44
+ | 
+-31
+ | 
+33.1
+ | 
+Production
+ISM's Production Index registered 46 percent in May, which is an increase of 5.6 percentage points from April's reading of 40.4 percent. An index above 50.4 percent, over time, is generally consistent with an increase in the Federal Reserve Board's Industrial Production figures. This is the ninth consecutive month of decline in production.
+The eight industries reporting growth in production during the month of May — listed in order — are: Printing & Related Support Activities; Plastics & Rubber Products; Nonmetallic Mineral Products; Petroleum & Coal Products; Machinery; Paper Products; Electrical Equipment, Appliances & Components; and Chemical Products. The industries that reported decreases in production in May — listed in order — are: Textile Mills; Furniture & Related Products; Fabricated Metal Products; Primary Metals; Transportation Equipment; Computer & Electronic Products; and Wood Products.
+Production
+ | 
+%
+Better
+ | 
+%
+Same
+ | 
+%
+Worse
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+23
+ | 
+52
+ | 
+25
+ | 
+-2
+ | 
+46.0
+ | 
+Apr 2009
+ | 
+21
+ | 
+45
+ | 
+34
+ | 
+-13
+ | 
+40.4
+ | 
+Mar 2009
+ | 
+17
+ | 
+39
+ | 
+44
+ | 
+-27
+ | 
+36.4
+ | 
+Feb 2009
+ | 
+16
+ | 
+40
+ | 
+44
+ | 
+-28
+ | 
+36.3
+ | 
+Employment
+ISM's Employment Index registered 34.3 percent in May, which is 0.1 percentage point lower than the 34.4 percent reported in April. This is the 10th consecutive month of decline in employment. An Employment Index above 49.7 percent, over time, is generally consistent with an increase in the Bureau of Labor Statistics (BLS) data on manufacturing employment.
+Two of the 18 manufacturing industries reported growth in employment in May: Nonmetallic Mineral Products; and Food, Beverage & Tobacco Products. The industries that reported decreases in employment during May — listed in order — are: Wood Products; Primary Metals; Furniture & Related Products; Textile Mills; Electrical Equipment, Appliances & Components; Transportation Equipment; Fabricated Metal Products; Paper Products; Miscellaneous Manufacturing; Petroleum & Coal Products; Printing & Related Support Activities; Chemical Products; Machinery; and Computer & Electronic Products.
+Employment
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+8
+ | 
+56
+ | 
+36
+ | 
+-28
+ | 
+34.3
+ | 
+Apr 2009
+ | 
+7
+ | 
+58
+ | 
+35
+ | 
+-28
+ | 
+34.4
+ | 
+Mar 2009
+ | 
+8
+ | 
+41
+ | 
+51
+ | 
+-43
+ | 
+28.1
+ | 
+Feb 2009
+ | 
+6
+ | 
+40
+ | 
+54
+ | 
+-48
+ | 
+26.1
+ | 
+Supplier Deliveries
+The delivery performance of suppliers to manufacturing organizations was faster for the eighth consecutive month in May as the Supplier Deliveries Index registered 49.8 percent, which is 4.9 percentage points higher than the 44.9 percent registered in April. A reading above 50 percent indicates slower deliveries.
+The six industries reporting slower supplier deliveries in May are: Wood Products; Computer & Electronic Products; Nonmetallic Mineral Products; Machinery; Transportation Equipment; and Miscellaneous Manufacturing. The industries reporting faster deliveries in May are: Chemical Products and Fabricated Metal Products.
+Supplier
+Deliveries
+ | 
+%
+Slower
+ | 
+%
+Same
+ | 
+%
+Faster
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+8
+ | 
+86
+ | 
+6
+ | 
++2
+ | 
+49.8
+ | 
+Apr 2009
+ | 
+5
+ | 
+80
+ | 
+15
+ | 
+-10
+ | 
+44.9
+ | 
+Mar 2009
+ | 
+7
+ | 
+73
+ | 
+20
+ | 
+-13
+ | 
+43.6
+ | 
+Feb 2009
+ | 
+6
+ | 
+78
+ | 
+16
+ | 
+-10
+ | 
+46.7
+ | 
+Inventories
+Manufacturers' inventories contracted in May as the Inventories Index registered 32.9 percent, which is 0.7 percentage point lower than April's reading of 33.6 percent. An Inventories Index greater than 42.6 percent, over time, is generally consistent with expansion in the Bureau of Economic Analysis' (BEA) figures on overall manufacturing inventories (in chained 2000 dollars).
+None of the 18 manufacturing industries reported higher inventories in May. The industries that reported decreases in May — listed in order — are: Electrical Equipment, Appliances & Components; Computer & Electronic Products; Primary Metals; Furniture & Related Products; Apparel, Leather & Allied Products; Textile Mills; Fabricated Metal Products; Paper Products; Petroleum & Coal Products; Printing & Related Support Activities; Wood Products; Plastics & Rubber Products; Machinery; Chemical Products; Miscellaneous Manufacturing; Transportation Equipment; Nonmetallic Mineral Products; and Food, Beverage & Tobacco Products.
+Inventories
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+10
+ | 
+46
+ | 
+44
+ | 
+-34
+ | 
+32.9
+ | 
+Apr 2009
+ | 
+11
+ | 
+47
+ | 
+42
+ | 
+-31
+ | 
+33.6
+ | 
+Mar 2009
+ | 
+9
+ | 
+48
+ | 
+43
+ | 
+-34
+ | 
+32.2
+ | 
+Feb 2009
+ | 
+19
+ | 
+38
+ | 
+43
+ | 
+-24
+ | 
+37.0
+ | 
+Customers' Inventories*
+The ISM Customers' Inventories Index registered 46 percent in May, 3.5 percentage points lower than the 49.5 percent reported in April. The index indicates that respondents believe their customers' inventories are too low at this time. This is the second consecutive month the Customers' Inventories Index has been below 50 percent, following eight months above 50 percent.
+Five industries reported higher customers' inventories during May: Textile Mills; Furniture & Related Products; Computer & Electronic Products; Electrical Equipment, Appliances & Components; and Fabricated Metal Products. The industries that reported lower customers' inventories during May are: Plastics & Rubber Products; Chemical Products; Primary Metals; Nonmetallic Mineral Products; Printing & Related Support Activities; Miscellaneous Manufacturing; Food, Beverage & Tobacco Products; Machinery; and Wood Products.
+Customers'
+Inventories
+ | 
+%
+Reporting
+ | 
+%Too
+High
+ | 
+%About
+Right
+ | 
+%Too
+Low
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+72
+ | 
+23
+ | 
+46
+ | 
+31
+ | 
+-8
+ | 
+46.0
+ | 
+Apr 2009
+ | 
+80
+ | 
+21
+ | 
+57
+ | 
+22
+ | 
+-1
+ | 
+49.5
+ | 
+Mar 2009
+ | 
+78
+ | 
+29
+ | 
+50
+ | 
+21
+ | 
++8
+ | 
+54.0
+ | 
+Feb 2009
+ | 
+80
+ | 
+28
+ | 
+46
+ | 
+26
+ | 
++2
+ | 
+51.0
+ | 
+Prices*
+The ISM Prices Index registered 43.5 percent in May, 11.5 percentage points higher than the 32 percent reported in April. Since the index is below the mid-point of 50, this indicates that manufacturers continue to pay lower prices on average when compared to the previous month. While 10 percent of respondents reported paying higher prices and 23 percent reported paying lower prices, 67 percent of supply executives reported paying the same prices as in April. A Prices Index above 47.6 percent, over time, is generally consistent with an increase in the Bureau of Labor Statistics (BLS) Index of Manufacturers Prices.
+In May, Plastics & Rubber Products is the only industry reporting paying increased prices. The industries that reported paying lower prices during May — listed in order — are: Nonmetallic Mineral Products; Paper Products; Fabricated Metal Products; Machinery; Electrical Equipment, Appliances & Components; Primary Metals; Transportation Equipment; Chemical Products; Computer & Electronic Products; and Wood Products.
+Prices
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+10
+ | 
+67
+ | 
+23
+ | 
+-13
+ | 
+43.5
+ | 
+Apr 2009
+ | 
+7
+ | 
+50
+ | 
+43
+ | 
+-36
+ | 
+32.0
+ | 
+Mar 2009
+ | 
+7
+ | 
+48
+ | 
+45
+ | 
+-38
+ | 
+31.0
+ | 
+Feb 2009
+ | 
+7
+ | 
+44
+ | 
+49
+ | 
+-42
+ | 
+29.0
+ | 
+Backlog of Orders*
+ISM's Backlog of Orders Index registered 48 percent in May, 7.5 percentage points higher than the 40.5 percent reported in April. Of the 85 percent of respondents who reported their backlog of orders, 19 percent reported greater backlogs, 23 percent reported smaller backlogs, and 58 percent reported no change from April.
+The six industries reporting increased order backlogs in May — listed in order — are: Plastics & Rubber Products; Printing & Related Support Activities; Electrical Equipment, Appliances & Components; Paper Products; Machinery; and Miscellaneous Manufacturing. The industries that reported decreases in order backlogs during May — listed in order — are: Petroleum & Coal Products; Wood Products; Fabricated Metal Products; Furniture & Related Products; Transportation Equipment; Chemical Products; and Computer & Electronic Products.
+Backlog of
+Orders
+ | 
+%
+Reporting
+ | 
+%
+Greater
+ | 
+%
+Same
+ | 
+%
+Less
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+85
+ | 
+19
+ | 
+58
+ | 
+23
+ | 
+-4
+ | 
+48.0
+ | 
+Apr 2009
+ | 
+86
+ | 
+13
+ | 
+55
+ | 
+32
+ | 
+-19
+ | 
+40.5
+ | 
+Mar 2009
+ | 
+83
+ | 
+11
+ | 
+49
+ | 
+40
+ | 
+-29
+ | 
+35.5
+ | 
+Feb 2009
+ | 
+86
+ | 
+8
+ | 
+46
+ | 
+46
+ | 
+-38
+ | 
+31.0
+ | 
+New Export Orders*
+ISM's New Export Orders Index registered 48 percent in May, 4 percentage points higher than the 44 percent reported in April. This is the eighth consecutive month of contraction in the New Export Orders Index.
+The three industries reporting growth in new export orders in May are: Machinery; Food, Beverage & Tobacco Products; and Electrical Equipment, Appliances & Components. The industries that reported decreases in new export orders in May — listed in order — are: Nonmetallic Mineral Products; Textile Mills; Transportation Equipment; Fabricated Metal Products; Miscellaneous Manufacturing; and Computer & Electronic Products.
+New Export
+Orders
+ | 
+%
+Reporting
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+77
+ | 
+7
+ | 
+82
+ | 
+11
+ | 
+-4
+ | 
+48.0
+ | 
+Apr 2009
+ | 
+77
+ | 
+13
+ | 
+62
+ | 
+25
+ | 
+-12
+ | 
+44.0
+ | 
+Mar 2009
+ | 
+80
+ | 
+9
+ | 
+60
+ | 
+31
+ | 
+-22
+ | 
+39.0
+ | 
+Feb 2009
+ | 
+79
+ | 
+7
+ | 
+61
+ | 
+32
+ | 
+-25
+ | 
+37.5
+ | 
+Imports*
+Imports of materials by manufacturers contracted during May as the Imports Index registered 42.5 percent, 0.5 percentage point higher than the 42 percent reported in April. This is the 16th consecutive month of contraction in imports.
+Four of the 18 manufacturing industries reported growth in imports during the month of May: Machinery; Fabricated Metal Products; Chemical Products; and Miscellaneous Manufacturing. The industries that reported decreases in imports — listed in order — are: Textile Mills; Computer & Electronic Products; Primary Metals; Transportation Equipment; Furniture & Related Products; Petroleum & Coal Products; Food, Beverage & Tobacco Products; Electrical Equipment, Appliances & Components; and Nonmetallic Mineral Products.
+Imports
+ | 
+%
+Reporting
+ | 
+%
+Higher
+ | 
+%
+Same
+ | 
+%
+Lower
+ | 
+Net
+ | 
+Index
+ | 
+May 2009
+ | 
+83
+ | 
+12
+ | 
+61
+ | 
+27
+ | 
+-15
+ | 
+42.5
+ | 
+Apr 2009
+ | 
+85
+ | 
+10
+ | 
+64
+ | 
+26
+ | 
+-16
+ | 
+42.0
+ | 
+Mar 2009
+ | 
+85
+ | 
+5
+ | 
+56
+ | 
+39
+ | 
+-34
+ | 
+33.0
+ | 
+Feb 2009
+ | 
+80
+ | 
+7
+ | 
+50
+ | 
+43
+ | 
+-36
+ | 
+32.0
+ | 
+* The Backlog of Orders, Prices, Customers' Inventories, Imports and New Export Orders Indexes do not meet the accepted criteria for seasonal adjustments.
+Buying Policy
+Average commitment lead time for Capital Expenditures increased 10 days to 111 days. Average lead time for Production Materials increased 1 day to 45 days. Average lead time for Maintenance, Repair and Operating (MRO) Supplies increased 1 day to 23 days.
+Percent Reporting
+ | 
+Capital
+Expenditures
+ | 
+Hand-
+to-
+Mouth
+ | 
+30
+Days
+ | 
+60
+Days
+ | 
+90
+Days
+ | 
+6
+Months
+ | 
+1
+Year+
+ | 
+Average
+Days
+ | 
+May 2009
+ | 
+30
+ | 
+9
+ | 
+13
+ | 
+12
+ | 
+23
+ | 
+13
+ | 
+111
+ | 
+Apr 2009
+ | 
+36
+ | 
+7
+ | 
+11
+ | 
+12
+ | 
+24
+ | 
+10
+ | 
+101
+ | 
+Mar 2009
+ | 
+30
+ | 
+11
+ | 
+14
+ | 
+11
+ | 
+23
+ | 
+11
+ | 
+104
+ | 
+Feb 2009
+ | 
+36
+ | 
+6
+ | 
+12
+ | 
+11
+ | 
+23
+ | 
+12
+ | 
+105
+ | 
+ | 
+Production
+Materials
+ | 
+Hand-
+to-
+Mouth
+ | 
+30
+Days
+ | 
+60
+Days
+ | 
+90
+Days
+ | 
+6
+Months
+ | 
+1
+Year+
+ | 
+Average
+Days
+ | 
+May 2009
+ | 
+31
+ | 
+38
+ | 
+21
+ | 
+4
+ | 
+3
+ | 
+3
+ | 
+45
+ | 
+Apr 2009
+ | 
+31
+ | 
+38
+ | 
+21
+ | 
+4
+ | 
+4
+ | 
+2
+ | 
+44
+ | 
+Mar 2009
+ | 
+35
+ | 
+35
+ | 
+20
+ | 
+3
+ | 
+5
+ | 
+2
+ | 
+43
+ | 
+Feb 2009
+ | 
+30
+ | 
+44
+ | 
+15
+ | 
+4
+ | 
+4
+ | 
+3
+ | 
+45
+ | 
+ | 
+MRO
+Supplies
+ | 
+Hand-
+to-
+Mouth
+ | 
+30
+Days
+ | 
+60
+Days
+ | 
+90
+Days
+ | 
+6
+Months
+ | 
+1
+Year+
+ | 
+Average
+Days
+ | 
+May 2009
+ | 
+52
+ | 
+33
+ | 
+12
+ | 
+2
+ | 
+1
+ | 
+0
+ | 
+23
+ | 
+Apr 2009
+ | 
+59
+ | 
+28
+ | 
+8
+ | 
+3
+ | 
+2
+ | 
+0
+ | 
+22
+ | 
+Mar 2009
+ | 
+56
+ | 
+33
+ | 
+7
+ | 
+3
+ | 
+1
+ | 
+0
+ | 
+21
+ | 
+Feb 2009
+ | 
+58
+ | 
+30
+ | 
+8
+ | 
+2
+ | 
+1
+ | 
+1
+ | 
+24
+ | 
+About this Report
+The data presented herein is obtained from a survey of manufacturing supply managers based on information they have collected within their respective organizations. ISM makes no representation, other than that stated within this release, regarding the individual company data collection procedures. Use of the data is in the public domain and should be compared to all other economic data sources when used in decision-making.
+Data and Method of Presentation
+The 
+Manufacturing ISM 
+Report On Business
+®
+ is based on data compiled from purchasing and supply executives nationwide. Membership of the Manufacturing Business Survey Committee is diversified by NAICS, based on each industry's contribution to gross domestic product (GDP). Manufacturing Business Survey Committee responses are divided into the following NAICS code categories: Food, Beverage & Tobacco Products; Textile Mills; Apparel, Leather & Allied Products; Wood Products; Paper Products; Printing & Related Support Activities; Petroleum & Coal Products; Chemical Products; Plastics & Rubber Products; Nonmetallic Mineral Products; Primary Metals; Fabricated Metal Products; Machinery; Computer & Electronic Products; Electrical Equipment, Appliances & Components; Transportation Equipment; Furniture & Related Products; and Miscellaneous Manufacturing (products such as medical equipment and supplies, jewelry, sporting goods, toys and office supplies).
+Survey responses reflect the change, if any, in the current month compared to the previous month. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers' Inventories, Employment and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction (higher, better and slower for Supplier Deliveries) and the negative economic direction (lower, worse and faster for Supplier Deliveries), and the diffusion index. Responses are raw data and are never changed. The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive).
+The resulting single index number for those meeting the criteria for seasonal adjustments (PMI, New Orders, Production, Employment, Supplier Deliveries and Inventories) is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. The PMI is a composite index based on the seasonally adjusted diffusion indexes for five of the indicators with equal weights: New Orders, Production, Employment, Supplier Deliveries and Inventories.
+Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change. A PMI reading above 50 percent indicates that the manufacturing economy is generally expanding; below 50 percent indicates that it is generally declining. A PMI in excess of 41.2 percent, over a period of time, indicates that the overall economy, or gross domestic product (GDP), is generally expanding; below 41.2 percent, it is generally declining. The distance from 50 percent or 41.2 percent is indicative of the strength of the expansion or decline. With some of the indicators within this report, ISM has indicated the departure point between expansion and decline of comparable government series, as determined by regression analysis.
+Responses to Buying Policy reflect the percent reporting the current month's lead time, the approximate weighted number of days ahead for which commitments are made for Production Materials; Capital Expenditures; and Maintenance, Repair and Operating (MRO) Supplies, expressed as hand-to-mouth (five days), 30 days, 60 days, 90 days, six months (180 days), a year or more (360 days), and the weighted average number of days. These responses are raw data, never revised, and not seasonally adjusted since there is no significant seasonal pattern.
+The 
+Manufacturing ISM 
+Report On Business
+®
+ is published monthly by the Institute for Supply Management™. The Institute for Supply Management™, established in 1915, is the largest supply management organization in the world as well as one of the most respected. ISM's mission is to lead the supply management profession through its standards of excellence, research, promotional activities and education. This report has been issued by the association since 1931, except for a four-year interruption during World War II.
+The full text version of the 
+Manufacturing ISM 
+Report On Business
+®
+ is posted on ISM's Web site at www.ism.ws on the first business day of every month after 10:10 a.m. (ET).
+The next 
+Manufacturing ISM 
+Report On Business
+®
+ featuring the June 2009 data will be released at 10:00 a.m. (ET) on Wednesday, July 1, 2009.
+Back to Top
+About ISM
+Overview of ISM
+Statement of Antitrust Policy
+Strategic Plan
+ISM Bylaws
+Media Room
+Media Only - Submit Inquiry/Request
+News Releases
+Affiliate News Releases
+Media Guidelines/Credentials Request
+ISM Board of Directors
+ISM Officers Directory
+Affiliate Officers Directory
+ISM Affiliate Web Sites
+ISM Group and Forum Web Sites
+Frequently Asked Questions
+Chair's Corner
+ISM Annual Reports
+J. Shipman Gold Medal Award
+ISM R. Gene Richter Awards
+Supply Management Month
+Supply Management Month Information for Members
+Association Governance
+ISM Strategic Plan
+ISM Bylaws
+ISM Policies
+Minutes/Reports
+ISM Ethical Principles and Standards
+Activity Calendar
+Principles of Social Responsibility
+Membership
+Value of Membership
+Join ISM
+Membership Requirements
+Request More Information
+Talk to Customer Service
+Tell a Friend About
+Groups and Forums
+Group/Forum Enrollment Form
+Groups and Forums Brochure and Flyer
+Careers In Purchasing and Supply Mgmt
+Students and Educators
+Students
+Educators
+Dues Free Membership
+Institutions Offering Supply Management Programs
+Copyright Information
+Purchasing and Supply Educator's Letter
+Members Only
+InfoCenter
+InfoCenter FAQs
+Bid Specifications Database
+ISM Glossary of Key Supply Management Terms
+Business Book List
+Principles and Standards of Ethical Supply Management Conduct
+Member Information & Online Tools
+ISM Glossary of Key Supply Management Terms
+Access to CIPS Members Only Content
+ISM Tool Kit
+ISM Resource Guides
+ContractWare®Net and eTool Agreements
+Address Update Form
+Activity Calendar
+Affiliate Websites
+Group & Forum Websites
+ISM Principles and Standards of Ethical Supply Management Conduct
+ISM Group/Forum Enrollment Information
+Job Descriptions
+The Business Source
+Propurchaser.com
+Personal Professional Development Scorecard
+Affiliate Resources
+Affiliate Support
+Affiliate Management Tools
+Career Center
+About the ISM Career Center
+Register for the ISM Career Center
+Login to the Career Center
+Job Seekers
+Employers' Corner
+More Career Resources
+Frequently Asked Questions / Help
+Affiliate, Groups & Forums
+Group/Forum Enrollment Information
+Group/Forum Enrollment Form
+Groups & Forums Brochure and Flyer
+Group & Forum Case Studies
+Groups & Forums Promotion
+Spotlight on Groups and Forums
+Group and Forum Officers
+Affiliate Web Sites
+Group & Forum Web Sites
+Affiliate Officers
+ISM Officers
+Sign up for ISM's Groups and Forums Discussion List Servs
+Search for Speakers
+Edit Your Entry
+Discussion Forums
+Additional Resources
+ISM Resource Guides
+Bid Specifications Database
+Purchasing/Supply Management Periodicals
+Other Web Resources
+Practix - A quarterly Best Practices publication
+ISM's Principles and Standards of Ethical Supply Management Conduct
+Associations/Organizations Useful to Purchasing/Supply Management Professionals
+CIPS Study
+Search Articles
+CIPS Members Only Content
+Ethics and Social Responsibility
+ISM Ethical Principles and Standards
+Principles of Sustainability and Social Responsibility
+Business Case
+Supporting Organizations
+Fostering Sustainability and Social Responsibility Form
+Research
+Articles
+General Resources
+Training
+Assessments
+Metrics and Indices
+International
+ISM's Committee on Sustainability and Social Responsibility
+Education - Seminars, Conferences
+Conferences
+Past Program Materials
+Exhibiting Opportunities
+Seminars
+Public Seminars
+Web Seminars
+Satellite Seminars
+Seminar Registration Information
+Download a Seminar Registration Form
+ISM-ADR School for Supply Management
+Customized and Standard Training and Development
+Professional Development Seminars (In-house, Instructor-Led)
+Knowledge Center Courses (Web-based, Online)
+DNA (Development Needs Assessment)
+ISM-ADR School for Supply Management Brochure
+Summary of all Program Formats
+Your Dedicated Program Managers
+Request for Professional Development Information
+Speaking Opportunities
+Keynote Interest Form
+Speaker Interest Form
+Speakers Directory
+Edit Your Entry in the Speaker Bureau Directory
+Scholastic Opportunities
+Colleges and Universities Offering Purchasing/Supply Management Courses
+ISM Approved Programs
+ISM Senior Research Fellowship Program
+ISM Doctoral Dissertation Grant Program
+Scholarships Offered by Affiliates, Groups, and Forums
+R. Gene Richter Scholarship Program for Undergraduate Students
+Online Courses — Knowledge Center
+Glossary of Key Supply Mgmt Terms
+ISM Resource Guides
+ISM Tool Kit
+Exhibiting/Sponsorship Opportunities
+Products
+Product Catalog
+CPSM
+®
+ Study Materials
+C.P.M. Study Materials
+Download a Product Order Form
+Self-Study Courses
+ISM Resource Guides
+Product FAQs
+Shipping and Handling Fees
+Publications
+Inside Supply Management
+Current and Past Issues
+Coming Issue
+Article Indexes
+The Future of Purchasing and Supply
+Summary of Readers
+Writer's Guidelines
+ISM Style Guidelines
+Editorial Calendar
+Advertising Information
+Talk to Us
+Journal of Supply Chain Management
+1965 - 2007 Article Index
+Order a Subscription
+Guidelines for Submissions
+ISM Style Guidelines
+Talk to Us
+International 
+Conference Proceedings
+ISM InfoEdge
+NewsLine
+Supplements to 
+Inside Supply Management
+Professionally Speaking / Annual Reports
+ISM Advantage
+Spotlight on Groups & Forums
+eSide Supply Management
+Review Board
+Mission Statement
+E-mail Newsletters
+Subscribe to E-mail Newsletters
+Supply Line 2055: Certification Update
+Just in ETime
+eDigest: Chemicals Electronic Newsletter
+Search Articles
+Advertising Information
+Professional Credentials
+Frequently Asked Questions
+Certified Purchasing Manager (C.P.M.)
+C.P.M. Frequently Asked Questions (FAQs)
+C.P.M. Recertification FAQs
+How to Get Started on Your C.P.M. Designation
+C.P.M. Exam Registration Brochure (Download)
+C.P.M. Exam Information
+Register for the C.P.M. Exams Online
+Exam Specifications
+Study Materials for C.P.M. Exam
+Distribution of Questions Within the C.P.M. Exam
+C.P.M. Program Requirements
+C.P.M. Statement of Use
+Certified Professional in Supply Management
+®
+CPSM
+®
+ Program FAQs
+CPSM
+®
+ Bridge Exam FAQs
+CPSM
+®
+ Exam Registration Brochure (Download)
+CPSM
+®
+ Information & Requirements
+Register for CPSM
+®
+ Exams
+CPSM
+®
+ Exam Specifications
+CPSM
+®
+ Bridge Exam Specifications
+CPSM
+®
+ Study Materials
+Supply Line 2055: Certification Update
+Accredited Purchasing Practitioner (A.P.P.)
+A.P.P. Frequently Asked Questions (FAQs)
+A.P.P. Reaccreditation FAQs
+A.P.P. Exam Specifications
+Why can't I register for the A.P.P. Exam?
+Distribution of Questions Within the A.P.P. Exam
+A.P.P. Statement of Use
+A.P.P. Program Requirements
+Certification Forms
+Credentials Discussion Forum
+Credentials Verification
+Additional Program Information
+C.P.M. & A.P.P. Review Courses in ISM's Knowledge Center
+C.P.M. Onsite Testing and Review
+C.P.M. & A.P.P. Review Instructor Information
+C.P.M. & A.P.P. Program Overview - Powerpoint Presentation
+C.P.M. Exam Information
+C.P.M. & A.P.P. Study Materials
+International Certification Contacts
+Professional Development Scenarios
+Request a CEH Program Number
+Supply Line 2055: Certification Update
+How to Get Started on Your C.P.M. Designation
+ISM’s Certification Market Study Supports New Qualification
+The CPSM will Prepare Supply's Future Leadership
+International Certification Contacts
+Supply Line 2055: Certification Update
+ISM Report on Business®
+Latest Manufacturing ROB
+Latest Non-Manufacturing ROB
+Reports on Business Overview
+Report On Business® Brochure
+Semiannual Reports
+Seasonal Adjustments
+Manufacturing Data
+Historical Information
+Latest Manufacturing ROB
+Recent Manufacturing ROB Releases
+Overview of the PMI
+PMI History
+Origin of the Manufacturing ROB
+Overview of the Manufacturing ROB
+Non-Manufacturing Data
+Historical Information
+Latest Non-Manufacturing ROB
+Newest ISM ROB to Cover Non-Manufacturing Sectors
+ROB Graphical Data
+Regional Business Survey Data
+How to Respond to ROB
+ROB Online Infokit
+JPMorgan Global PMI Reports
+Other Economic Information
+ROB Release Dates
+ROB Frequently Asked Questions
+ISM/Forrester Research Report
+Career Center
+Your Profile
+Search Jobs
+Your Resume
+Message Center
+Post a Job
+Search Resumes
+Job You Have Applied For
+Improve Your Resume
+More Career Resources
+View Current Jobs
+View Past Jobs
+Edit Your Default Information
+Job Notification Preferences
+Change Registration
+Annual Subscriptions
+Register for the Career Center
+Job Seekers
+Search Available Job Postings/Positions
+Improve Your Resume
+Career Management Tools and Resources
+Employers' Corner
+Search The Resume Database
+More Career Resources
+ISM Affiliates that Offer Employment Services
+Job Descriptions
+Job Hunting Sites on the Web
+Job Hunting Sites for Specific Regional Areas
+Job Hunting Sites with Tools Such as Resume Writing Advice
+Careers In Supply Management
+Resources on Relocating
+Salary/Career-Building Resources
+Schools Offering Purchasing/Supply Management Courses
+Scholastic Opportunities
+Frequently Asked Questions
+CAPS Research
+Contributing to CAPS
+CAPS Home Page
+Tools
+InfoCenter
+ISM's Annual Salary Survey
+Frequently Asked Questions
+Research Tools
+Search Articles
+ISM Resource Guides
+Bid Specifications Database
+Business Book List
+ISM Tool Kit
+General Supply Management Information
+Job Descriptions
+CIPS Study on Ethical Issues, Helps and Challenges
+CAPS Research
+ISM Survey Research Results
+Business Book List
+Discussion Forums
+Directories
+Find Your Closest Affiliate
+Supplier Directory
+Speakers Directory
+National Officers' Directory
+Affiliate Officers' Directory
+Affiliate Resources
+Affiliate Support
+Affiliate Management Tools
+Group & Forum Information
+Group/Forum Enrollment Information
+Group/Forum Enrollment Form
+Groups & Forums Brochure and Flyer
+Group & Forum Case Studies
+Groups & Forums Promotion
+Spotlight on Groups and Forums
+Group & Forum Officers
+Group & Forum Web Sites
+Sign up for ISM's Groups and Forums Discussion List Servs
+eTool Agreements
+ISM's Principles and Standards
+Other Association Links
+Other Related Information
+Practix - A quarterly Best Practices Publication
+Purchasing/Supply Management Links
+Purchasing/Supply Management Periodicals
+General Business-Related Sites
+Daily News Services
+Search Engines
+Career-Related Web Sites
+Business Book List
+The Business Source
+Propurchaser.com
+Access CIPS Members Only Content
+Send This Page to a Colleague
+In This Section: 
+Latest Manufacturing ROB
+Latest Non-Manufacturing ROB
+Reports on Business Overview
+Report On Business® Brochure
+Semiannual Reports
+Seasonal Adjustments
+Manufacturing Data
+Non-Manufacturing Data
+ROB Graphical Data
+Regional Business Survey Data
+How to Respond to ROB
+ROB Online Infokit
+JPMorgan Global PMI Reports
+Other Economic Information
+ROB Release Dates
+ROB Frequently Asked Questions
+ISM/Forrester Research Report
+ISM - P.O.Box 22160 Tempe, AZ 85285-2160 480-752-6276 / 800-888-6276 - Fax: 480-752-7890 
+Comments/Questions?
+© Copyright 2009
+. Institute for Supply Management™; All Rights Reserved. 
+Privacy Statement
+.
