@@ -1,33 +1,39 @@
+"""Build monthly ISM history from saved report texts (Wayback / PR Newswire / ismworld)."""
 import os, sys, glob, csv
 sys.path.insert(0, os.path.dirname(__file__))
-from parse import parse, prev_month, MFG, SVC
-def build(rawdir):
+from parse import parse, prev_month, family, last12, MFG, SVC
+COLS = ["m_" + k for k, _ in MFG] + ["s_" + k for k, _ in SVC]
+
+def build(files):
+    cur, prv, l12 = {}, {}, {}
+    for f in sorted(files, key=lambda p: os.path.basename(p).split("_")[1] if "_" in os.path.basename(p) else p):
+        t = open(f, errors="ignore").read()
+        fam = family(t)
+        if not fam: continue
+        r = parse(t, fam)
+        if not r: continue
+        ym, got = r
+        p = fam[0] + "_"
+        for k, (a, b) in got.items():
+            if a is not None: cur.setdefault(ym, {})[p + k] = a
+            if b is not None: prv.setdefault(prev_month(ym), {})[p + k] = b
+        for m, v in last12(t).items():
+            l12.setdefault(m, {})[p + "pmi"] = v
     out = {}
-    for fam, rows in (("mfg", MFG), ("svc", SVC)):
-        cur, prv = {}, {}
-        for f in sorted(glob.glob(f"{rawdir}/{fam}_*.txt")) + sorted(glob.glob(f"{rawdir}/prn_*.txt")):
-            t = open(f).read()
-            if os.path.basename(f).startswith("prn_"):
-                low = t[:400].lower()
-                is_svc = "services" in low or "non-manufacturing" in low
-                if (fam == "svc") != is_svc:
-                    continue
-            r = parse(t, fam)
-            if not r: continue
-            ym, got = r
-            for k, (a, b) in got.items():
-                if a is not None: cur.setdefault(ym, {})[k] = a      # later snapshots overwrite: latest print of own report
-                if b is not None: prv.setdefault(prev_month(ym), {})[k] = b
-        months = sorted(set(cur) | set(prv))
-        for ym in months:
-            row = out.setdefault(ym, {})
-            for k, _ in rows:
-                v = cur.get(ym, {}).get(k, prv.get(ym, {}).get(k))
-                if v is not None: row[f"{fam[0]}_{k}"] = v
+    for ym in sorted(set(cur) | set(prv) | set(l12)):
+        row = {}
+        for c in COLS:
+            for src in (cur, prv, l12):
+                v = src.get(ym, {}).get(c)
+                if v is not None: row[c] = v; break
+        if row: out[ym] = row
     return out
+
+def write(d, path):
+    with open(path, "w", newline="") as fh:
+        w = csv.writer(fh, lineterminator="\n"); w.writerow(["month"] + COLS)
+        for ym in sorted(d):
+            w.writerow([f"{ym[0]}-{ym[1]:02d}"] + [d[ym].get(c, "") for c in COLS])
+
 if __name__ == "__main__":
-    d = build(sys.argv[1])
-    cols = ["m_" + k for k, _ in MFG] + ["s_" + k for k, _ in SVC]
-    w = csv.writer(open(sys.argv[2], "w", newline=""), lineterminator="\n"); w.writerow(["month"] + cols)
-    for ym in sorted(d):
-        w.writerow([f"{ym[0]}-{ym[1]:02d}"] + [d[ym].get(c, "") for c in cols])
+    write(build(glob.glob(sys.argv[1] + "/*.txt")), sys.argv[2])

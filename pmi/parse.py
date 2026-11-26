@@ -22,7 +22,7 @@ def parse(text, fam):
     if not hm:
         return None
     ym = (int(hm.group(2)), MONTHS[hm.group(1).lower()])
-    cells = [re.sub(r"\s+", " ", c).strip().replace("®", "").replace("™", "").strip() for c in seg[hm.end():].split("|")]
+    cells = [re.sub(r"\s*/\s*", "/", re.sub(r"\s+", " ", c.replace("\u00ae", "").replace("\u2122", ""))).strip() for c in seg[hm.end():].split("|")]
     cells = [c for c in cells if c]
     rows = MFG if fam == "mfg" else SVC
     got = {}
@@ -47,3 +47,23 @@ def parse(text, fam):
     if "pmi" not in got:
         return None
     return ym, got
+
+ABBR = {m[:3]: i + 1 for m, i in ((k, v - 1) for k, v in MONTHS.items())}
+
+def family(text):
+    i = text.upper().find("AT A GLANCE")
+    if i < 0:
+        return None
+    h = text[max(0, i - 120):i + 200].upper()
+    return "svc" if ("NON-MANUFACTURING" in h or "SERVICES" in h) else "mfg"
+
+def last12(text):
+    """'THE LAST 12 MONTHS' headline table -> {(y,m): value}."""
+    i = text.upper().find("THE LAST 12 MONTHS")
+    if i < 0:
+        return {}
+    seg = text[i:i + 1500]
+    out = {}
+    for mo, y, v in re.findall(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? (\d{4})\W{1,12}(\d{2}\.\d)\b", seg):
+        out[(int(y), ABBR[mo.lower()])] = float(v)
+    return out
