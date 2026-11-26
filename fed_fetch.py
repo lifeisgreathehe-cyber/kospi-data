@@ -44,8 +44,8 @@ def article_paras(html):
         if t.startswith(("For media inquiries", "Implementation Note issued", "For release at")):
             continue
         paras.append(t)
-    title = soup.find("h3", class_="title")
-    return (title.get_text(strip=True) if title else ""), paras
+    title = soup.find("h3", class_="title") or soup.find("title")
+    return (title.get_text(" ", strip=True) if title else ""), paras
 
 def load(path, default):
     try:
@@ -80,7 +80,8 @@ def statements():
             continue
         title, paras = article_paras(html)
         print("check", date, repr(title), len(paras))
-        if "FOMC statement" not in title:
+        body = " ".join(paras)
+        if not (re.search(r"Committee decided to", body) and re.search(r"Voting for", body)):
             continue
         os.makedirs(d, exist_ok=True)
         with open(f"{d}/{date}.txt", "w") as f:
@@ -97,11 +98,13 @@ def speeches():
     feed = get(f"{BASE}/feeds/speeches.xml")
     if not feed:
         return
+    feed = feed.lstrip("\ufeff").lstrip("\xef\xbb\xbf")
+    feed = feed[feed.find("<"):]
     soup = BeautifulSoup(feed, "xml")
     print("speech feed items:", len(soup.find_all("item")), "bytes", len(feed), feed[:300].replace("\n"," "))
     cutoff = datetime.now(timezone.utc) - timedelta(days=SPEECH_DAYS)
     for it in soup.find_all("item"):
-        url = it.link.get_text(strip=True)
+        url = (it.link.get_text(strip=True) if it.link else "") or it.guid.get_text(strip=True)
         if url.startswith("/"):
             url = BASE + url
         try:
